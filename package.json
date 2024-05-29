@@ -63,7 +63,7 @@
     "@tsparticles/plugin-emitters-shape-polygon": "3.1.0",
     "@tsparticles/plugin-emitters-shape-square": "3.1.0",
     "@tsparticles/plugin-export-image": "3.1.0",
-    "@tsparticles/plugin-export-json": "3.1.0",
+    "@tsparticles/plugin-export-json": "3.4.0",
     "@tsparticles/plugin-export-video": "3.1.0",
     "@tsparticles/plugin-hsv-color": "3.1.0",
     "@tsparticles/plugin-infection": "3.1.0",
