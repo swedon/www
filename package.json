@@ -42,7 +42,7 @@
     "@tsparticles/path-perlin-noise": "3.1.0",
     "@tsparticles/path-polygon": "3.1.0",
     "@tsparticles/path-simplex-noise": "3.1.0",
-    "@tsparticles/path-svg": "3.1.0",
+    "@tsparticles/path-svg": "3.4.0",
     "@tsparticles/path-zig-zag": "3.1.0",
     "@tsparticles/pjs": "3.1.0",
     "@tsparticles/plugin-absorbers": "3.1.0",
