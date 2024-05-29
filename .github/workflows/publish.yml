@@ -1,9 +1,10 @@
-# File: .github/workflows/publish.yml
 name: publish-to-github-pages
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
+  workflow_run:
+    workflows: [CodeQL]
+    types:
+      - completed
 
 permissions:
   contents: read
