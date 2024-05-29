@@ -45,7 +45,7 @@
     "@tsparticles/path-svg": "3.1.0",
     "@tsparticles/path-zig-zag": "3.1.0",
     "@tsparticles/pjs": "3.1.0",
-    "@tsparticles/plugin-absorbers": "3.1.0",
+    "@tsparticles/plugin-absorbers": "3.4.0",
     "@tsparticles/plugin-canvas-mask": "3.1.0",
     "@tsparticles/plugin-easing-back": "3.1.0",
     "@tsparticles/plugin-easing-circ": "3.1.0",
