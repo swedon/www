@@ -52,7 +52,7 @@
     "@tsparticles/plugin-easing-cubic": "3.1.0",
     "@tsparticles/plugin-easing-expo": "3.1.0",
     "@tsparticles/plugin-easing-linear": "3.1.0",
-    "@tsparticles/plugin-easing-quad": "3.1.0",
+    "@tsparticles/plugin-easing-quad": "3.4.0",
     "@tsparticles/plugin-easing-quart": "3.1.0",
     "@tsparticles/plugin-easing-quint": "3.1.0",
     "@tsparticles/plugin-easing-sine": "3.1.0",
