@@ -8,5 +8,5 @@ updates:
     labels:
       - "dependencies"
     ignore:
-      - dependency-name: "@tsparticles*"
-        versions: ["*"]
+      - dependency-name: "@tsparticles/*"
+        versions: ["3.*"]
