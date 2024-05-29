@@ -17,7 +17,7 @@
     "@tsparticles/configs": "3.1.0",
     "@tsparticles/effect-bubble": "3.1.0",
     "@tsparticles/effect-trail": "3.1.0",
-    "@tsparticles/engine": "3.1.0",
+    "@tsparticles/engine": "3.4.0",
     "@tsparticles/interaction-external-attract": "3.1.0",
     "@tsparticles/interaction-external-bounce": "3.1.0",
     "@tsparticles/interaction-external-bubble": "3.1.0",
