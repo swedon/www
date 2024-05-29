@@ -3,12 +3,12 @@ updates:
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
-      interval: "weekly"
-    open-pull-requests-limit: 10
+      interval: "daily"
+    open-pull-requests-limit: 5
     labels:
       - "dependencies"
     ignore:
       - dependency-name: "tsparticles"
-        versions: ["3.*"]
-      - dependency-name: "@tsparticles/*"
-        versions: ["3.*"]
+        versions: ["*"]
+      - dependency-name: "@tsparticles*"
+        versions: ["*"]
