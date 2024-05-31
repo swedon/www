@@ -41,7 +41,7 @@ export default function Contact() {
 	async function handleSubmit(e) {
 		e.preventDefault()
 
-		const webhookUrl = 'https://discord.com/api/webhooks/1245108062000386069/pc67h7es4YEqC2ZaKECMMauC1o7-0HI4LwzMGbT3TXBAEZ5LHIHLbEdftDJN4JSes2Dq'
+		const webhookUrl = process.env.NEXT_PUBLIC_DISCORD_WEBHOOK_URL
 		const webhookBody = {
 			content: '',
 			embeds: [
