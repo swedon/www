@@ -13,15 +13,21 @@ export default function Contact() {
 
 		const webhookUrl = 'https://discord.com/api/webhooks/1245108062000386069/pc67h7es4YEqC2ZaKECMMauC1o7-0HI4LwzMGbT3TXBAEZ5LHIHLbEdftDJN4JSes2Dq'
 		const webhookBody = {
+			content: '',
 			embeds: [
 				{
 					title: title,
-					fields: [
-						{ name: '', value: message },
-						{ name: 'Email', value: email },
-					],
+					description: message,
+					fields: [],
+					footer: {
+						text: email,
+					},
+					timestamp: new Date().toISOString(),
+					color: null,
 				},
 			],
+			attachments: [],
+			flags: 4096,
 		}
 
 		if (!title || !message || !email) {
