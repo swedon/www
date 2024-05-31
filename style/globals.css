@@ -141,6 +141,7 @@
     --color-light: #f8f9fa;
     --color-discord: #7289DA;
     --color-white: #ffffff;
+    --color-error: #dc3545;
   }
 
   :root {
