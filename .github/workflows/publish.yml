@@ -5,7 +5,10 @@ on:
     workflows: [CodeQL]
     types:
       - completed
-
+  push:
+      branches:
+        - main
+        
 permissions:
   contents: read
   pages: write
