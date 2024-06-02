@@ -23,9 +23,7 @@ function ParticleEffect({ children, className }) {
 		_options.emitters.color = color
 		_options.particles.links.color = color
 		_options.particles.shape.options.images.src = logo
-		_options.particles.size.value = 25
 		_options.emitters.particles.shape.options.images.src = logo
-		_options.emitters.particles.size.value = 250
 		return _options
 	}, [logo, color])
 
