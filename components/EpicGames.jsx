@@ -12,12 +12,11 @@ const FreeGamesPromotions = () => {
 			try {
 				await fetch(freeGamesPromotionsUrl, {
 					method: 'GET',
-					// mode: 'no-cors',
+					mode: 'cors',
 					headers: {
-						// 'Access-Control-Allow-Methods': 'PUT, GET, HEAD, POST, DELETE, OPTIONS',
+						'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, OPTIONS, HEAD',
 						'Access-Control-Allow-Origin': '*',
-						// 'Access-Control-Allow-Headers': '*',
-						// 'Access-Control-Expose-Headers': '*',
+						'Access-Control-Allow-Headers': 'Content-Type',
 						'Content-Type': 'application/json',
 					},
 				})
