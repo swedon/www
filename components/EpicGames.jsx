@@ -14,10 +14,11 @@ const FreeGamesPromotions = () => {
 					method: 'GET',
 					mode: 'cors',
 					headers: {
-						'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, OPTIONS, HEAD',
+						'Access-Control-Allow-Methods': 'PUT, GET, HEAD, POST, DELETE, OPTIONS',
 						'Access-Control-Allow-Origin': '*',
-						'Access-Control-Allow-Headers': 'Content-Type',
-						'Content-Type': 'application/json',
+						'Access-Control-Allow-Headers':
+							'X-CSRF-Token, X-Requested-With, Accept, Accept-Version, Content-Length, Content-MD5, Content-Type, Date, X-Api-Version',
+						'Content-Type': 'application/json; charset=utf-8',
 					},
 				})
 					.then(response => response.json())
