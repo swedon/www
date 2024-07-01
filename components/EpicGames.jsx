@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react'
 
-const freeGamesPromotionsUrl = 'https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions?locale=en'
+const freeGamesPromotionsUrl = 'https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions/'
 
 const FreeGamesPromotions = () => {
 	const [items, setItems] = useState([])
@@ -12,12 +12,8 @@ const FreeGamesPromotions = () => {
 			try {
 				await fetch(freeGamesPromotionsUrl, {
 					method: 'GET',
-					mode: 'cors',
+					// mode: 'no-cors',
 					headers: {
-						'Access-Control-Allow-Methods': 'PUT, GET, HEAD, POST, DELETE, OPTIONS',
-						'Access-Control-Allow-Origin': '*',
-						'Access-Control-Allow-Headers':
-							'X-CSRF-Token, X-Requested-With, Accept, Accept-Version, Content-Length, Content-MD5, Content-Type, Date, X-Api-Version',
 						'Content-Type': 'application/json; charset=utf-8',
 					},
 				})
@@ -28,7 +24,6 @@ const FreeGamesPromotions = () => {
 				console.error(error)
 			}
 		}
-
 		fetchData()
 	}, [])
 
