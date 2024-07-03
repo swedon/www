@@ -1,955 +1,911 @@
 {
-  "errors": [
-    {
-      "message": "CatalogOffer/offerMappings: Request failed with status code 404",
-      "locations": [
+  "Catalog": {
+    "searchStore": {
+      "elements": [
         {
-          "line": 73,
-          "column": 17
-        }
-      ],
-      "correlationId": "4396853b-ef68-4d05-bcd1-0825f85274c0",
-      "serviceResponse": "{\"errorMessage\":\"The item or resource being requested could not be found.\",\"errorCode\":\"errors.com.epicgames.not_found\",\"numericErrorCode\":1004,\"errorStatus\":404}",
-      "stack": null,
-      "path": [
-        "Catalog",
-        "searchStore",
-        "elements",
-        4,
-        "offerMappings"
-      ]
-    },
-    {
-      "message": "CatalogNamespace/mappings: Request failed with status code 404",
-      "locations": [
-        {
-          "line": 68,
-          "column": 19
-        }
-      ],
-      "correlationId": "4396853b-ef68-4d05-bcd1-0825f85274c0",
-      "serviceResponse": "{\"errorMessage\":\"The item or resource being requested could not be found.\",\"errorCode\":\"errors.com.epicgames.not_found\",\"numericErrorCode\":1004,\"errorStatus\":404}",
-      "stack": null,
-      "path": [
-        "Catalog",
-        "searchStore",
-        "elements",
-        4,
-        "catalogNs",
-        "mappings"
-      ]
-    }
-  ],
-  "data": {
-    "Catalog": {
-      "searchStore": {
-        "elements": [
-          {
-            "title": "The Falconeer: Standard Edition",
-            "id": "98cffb44de6543aaa39a62e3c6124e06",
-            "namespace": "29e93200bb53431a961afc53e39fb9c8",
-            "description": "Soar through the skies aboard a majestic warbird, explore a stunning oceanic world and engage in epic aerial dogfights, in this BAFTA nominated air combat game from solo developer, Tomas Sala.",
-            "effectiveDate": "2021-08-05T13:00:00.000Z",
-            "offerType": "BASE_GAME",
-            "expiryDate": null,
-            "viewableDate": null,
-            "status": "ACTIVE",
-            "isCodeRedemptionOnly": false,
-            "keyImages": [
-              {
-                "type": "DieselStoreFrontWide",
-                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S1_2560x1440-42c0d28687b659cdf36d3e3b29cb32e0"
-              },
-              {
-                "type": "DieselStoreFrontTall",
-                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S2_1200x1600-ca4e43b6dcf60e864b143751b1999319"
-              },
-              {
-                "type": "OfferImageWide",
-                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S1_2560x1440-42c0d28687b659cdf36d3e3b29cb32e0"
-              },
-              {
-                "type": "OfferImageTall",
-                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S2_1200x1600-ca4e43b6dcf60e864b143751b1999319"
-              },
-              {
-                "type": "CodeRedemption_340x440",
-                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S2_1200x1600-ca4e43b6dcf60e864b143751b1999319"
-              },
-              {
-                "type": "Thumbnail",
-                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S2_1200x1600-ca4e43b6dcf60e864b143751b1999319"
-              }
-            ],
-            "seller": {
-              "id": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
-              "name": "Wired Productions"
+          "title": "The Falconeer: Standard Edition",
+          "id": "98cffb44de6543aaa39a62e3c6124e06",
+          "namespace": "29e93200bb53431a961afc53e39fb9c8",
+          "description": "Soar through the skies aboard a majestic warbird, explore a stunning oceanic world and engage in epic aerial dogfights, in this BAFTA nominated air combat game from solo developer, Tomas Sala.",
+          "effectiveDate": "2021-08-05T13:00:00.000Z",
+          "offerType": "BASE_GAME",
+          "expiryDate": null,
+          "viewableDate": null,
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "DieselStoreFrontWide",
+              "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S1_2560x1440-42c0d28687b659cdf36d3e3b29cb32e0"
             },
-            "productSlug": "the-falconeer",
-            "urlSlug": "the-falconeer",
-            "url": null,
-            "items": [
-              {
-                "id": "72ac6d6fcf1b4024bfc6cc8da1bccddc",
-                "namespace": "29e93200bb53431a961afc53e39fb9c8"
-              }
-            ],
-            "customAttributes": [
-              {
-                "key": "com.epicgames.app.blacklist",
-                "value": "[]"
-              },
-              {
-                "key": "publisherName",
-                "value": "Wired Productions"
-              },
-              {
-                "key": "developerName",
-                "value": "Tomas Sala"
-              },
-              {
-                "key": "com.epicgames.app.productSlug",
-                "value": "the-falconeer"
-              }
-            ],
-            "categories": [
-              {
-                "path": "freegames"
-              },
-              {
-                "path": "games"
-              },
-              {
-                "path": "games/edition"
-              },
-              {
-                "path": "games/edition/base"
-              },
-              {
-                "path": "applications"
-              }
-            ],
-            "tags": [
-              {
-                "id": "1216"
-              },
-              {
-                "id": "1370"
-              },
-              {
-                "id": "1307"
-              },
-              {
-                "id": "9547"
-              },
-              {
-                "id": "1263"
-              }
-            ],
-            "catalogNs": {
-              "mappings": [
-                {
-                  "pageSlug": "the-falconeer",
-                  "pageType": "productHome"
-                }
-              ]
+            {
+              "type": "DieselStoreFrontTall",
+              "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S2_1200x1600-ca4e43b6dcf60e864b143751b1999319"
             },
-            "offerMappings": [],
-            "price": {
-              "totalPrice": {
-                "discountPrice": 1999,
-                "originalPrice": 1999,
-                "voucherDiscount": 0,
-                "discount": 0,
-                "currencyCode": "USD",
-                "currencyInfo": {
-                  "decimals": 2
-                },
-                "fmtPrice": {
-                  "originalPrice": "$19.99",
-                  "discountPrice": "$19.99",
-                  "intermediatePrice": "$19.99"
-                }
-              },
-              "lineOffers": [
-                {
-                  "appliedRules": []
-                }
-              ]
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S1_2560x1440-42c0d28687b659cdf36d3e3b29cb32e0"
             },
-            "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
-                {
-                  "promotionalOffers": [
-                    {
-                      "startDate": "2024-07-04T15:00:00.000Z",
-                      "endDate": "2024-07-11T15:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE",
-                        "discountPercentage": 0
-                      }
-                    }
-                  ]
-                }
-              ]
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S2_1200x1600-ca4e43b6dcf60e864b143751b1999319"
+            },
+            {
+              "type": "CodeRedemption_340x440",
+              "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S2_1200x1600-ca4e43b6dcf60e864b143751b1999319"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S2_1200x1600-ca4e43b6dcf60e864b143751b1999319"
             }
+          ],
+          "seller": {
+            "id": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
+            "name": "Wired Productions"
           },
-          {
-            "title": "Model Builder: Complete Edition",
-            "id": "d3e5b556640144bfa5de2d5d3b283d68",
-            "namespace": "23499f64e5304139b514c3e674c5c0d6",
-            "description": "Join the latest trend in simulation games, bring out your creativity and make awesome-looking models with the base game and all available DLCs. Assemble, customize and display your creations, whether you’re a veteran or a novice. Get building, and get creative!",
-            "effectiveDate": "2023-01-16T17:00:00.000Z",
-            "offerType": "BASE_GAME",
-            "expiryDate": null,
-            "viewableDate": "2023-01-16T17:00:00.000Z",
-            "status": "ACTIVE",
-            "isCodeRedemptionOnly": false,
-            "keyImages": [
-              {
-                "type": "OfferImageWide",
-                "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1vfgr.png"
-              },
-              {
-                "type": "OfferImageTall",
-                "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1ca62.png"
-              },
-              {
-                "type": "Thumbnail",
-                "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1ca62.png"
-              }
-            ],
-            "seller": {
-              "id": "o-l2jhzf6ltgxbz83h2dd8yj7zudhkvh",
-              "name": "Green Man Gaming Publishing"
+          "productSlug": "the-falconeer",
+          "urlSlug": "the-falconeer",
+          "url": null,
+          "items": [
+            {
+              "id": "72ac6d6fcf1b4024bfc6cc8da1bccddc",
+              "namespace": "29e93200bb53431a961afc53e39fb9c8"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "com.epicgames.app.blacklist",
+              "value": "[]"
             },
-            "productSlug": null,
-            "urlSlug": "3f18c54a6e00424ba6e8f4422167cac7",
-            "url": null,
-            "items": [
-              {
-                "id": "d940bec298844474857b0b53570fc3a4",
-                "namespace": "23499f64e5304139b514c3e674c5c0d6"
-              }
-            ],
-            "customAttributes": [
-              {
-                "key": "autoGeneratedPrice",
-                "value": "false"
-              },
-              {
-                "key": "isManuallySetViewableDate",
-                "value": "true"
-              },
-              {
-                "key": "isPromotionalContentUsed",
-                "value": "null"
-              },
-              {
-                "key": "isManuallySetPCReleaseDate",
-                "value": "true"
-              },
-              {
-                "key": "isBlockchainUsed",
-                "value": "false"
-              }
-            ],
-            "categories": [
-              {
-                "path": "freegames"
-              },
-              {
-                "path": "games"
-              },
-              {
-                "path": "games/edition"
-              },
-              {
-                "path": "games/edition/base"
-              }
-            ],
-            "tags": [
-              {
-                "id": "1393"
-              },
-              {
-                "id": "19847"
-              },
-              {
-                "id": "1370"
-              },
-              {
-                "id": "9547"
-              }
-            ],
-            "catalogNs": {
-              "mappings": [
-                {
-                  "pageSlug": "model-builder-complete-edition-f9b456",
-                  "pageType": "productHome"
-                }
-              ]
+            {
+              "key": "publisherName",
+              "value": "Wired Productions"
             },
-            "offerMappings": [
+            {
+              "key": "developerName",
+              "value": "Tomas Sala"
+            },
+            {
+              "key": "com.epicgames.app.productSlug",
+              "value": "the-falconeer"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "games/edition"
+            },
+            {
+              "path": "games/edition/base"
+            },
+            {
+              "path": "applications"
+            }
+          ],
+          "tags": [
+            {
+              "id": "1216"
+            },
+            {
+              "id": "1370"
+            },
+            {
+              "id": "1307"
+            },
+            {
+              "id": "9547"
+            },
+            {
+              "id": "1263"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "the-falconeer",
+                "pageType": "productHome"
+              }
+            ]
+          },
+          "offerMappings": [],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 1999,
+              "originalPrice": 1999,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$19.99",
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-07-04T15:00:00.000Z",
+                    "endDate": "2024-07-11T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Model Builder: Complete Edition",
+          "id": "d3e5b556640144bfa5de2d5d3b283d68",
+          "namespace": "23499f64e5304139b514c3e674c5c0d6",
+          "description": "Join the latest trend in simulation games, bring out your creativity and make awesome-looking models with the base game and all available DLCs. Assemble, customize and display your creations, whether you’re a veteran or a novice. Get building, and get creative!",
+          "effectiveDate": "2023-01-16T17:00:00.000Z",
+          "offerType": "BASE_GAME",
+          "expiryDate": null,
+          "viewableDate": "2023-01-16T17:00:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1vfgr.png"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1ca62.png"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1ca62.png"
+            }
+          ],
+          "seller": {
+            "id": "o-l2jhzf6ltgxbz83h2dd8yj7zudhkvh",
+            "name": "Green Man Gaming Publishing"
+          },
+          "productSlug": null,
+          "urlSlug": "3f18c54a6e00424ba6e8f4422167cac7",
+          "url": null,
+          "items": [
+            {
+              "id": "d940bec298844474857b0b53570fc3a4",
+              "namespace": "23499f64e5304139b514c3e674c5c0d6"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "autoGeneratedPrice",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetViewableDate",
+              "value": "true"
+            },
+            {
+              "key": "isPromotionalContentUsed",
+              "value": "null"
+            },
+            {
+              "key": "isManuallySetPCReleaseDate",
+              "value": "true"
+            },
+            {
+              "key": "isBlockchainUsed",
+              "value": "false"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "games/edition"
+            },
+            {
+              "path": "games/edition/base"
+            }
+          ],
+          "tags": [
+            {
+              "id": "1393"
+            },
+            {
+              "id": "19847"
+            },
+            {
+              "id": "1370"
+            },
+            {
+              "id": "9547"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
               {
                 "pageSlug": "model-builder-complete-edition-f9b456",
                 "pageType": "productHome"
               }
-            ],
-            "price": {
-              "totalPrice": {
-                "discountPrice": 1999,
-                "originalPrice": 1999,
-                "voucherDiscount": 0,
-                "discount": 0,
-                "currencyCode": "USD",
-                "currencyInfo": {
-                  "decimals": 2
-                },
-                "fmtPrice": {
-                  "originalPrice": "$19.99",
-                  "discountPrice": "$19.99",
-                  "intermediatePrice": "$19.99"
-                }
-              },
-              "lineOffers": [
-                {
-                  "appliedRules": []
-                }
-              ]
-            },
-            "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
-                {
-                  "promotionalOffers": [
-                    {
-                      "startDate": "2024-07-18T15:00:00.000Z",
-                      "endDate": "2024-08-01T15:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE",
-                        "discountPercentage": 30
-                      }
-                    }
-                  ]
-                }
-              ]
+            ]
+          },
+          "offerMappings": [
+            {
+              "pageSlug": "model-builder-complete-edition-f9b456",
+              "pageType": "productHome"
             }
+          ],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 1999,
+              "originalPrice": 1999,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$19.99",
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
           },
-          {
-            "title": "Lost Castle: The Old Ones Awaken",
-            "id": "4a88d0dc64114b20b67339c74543f859",
-            "namespace": "ab29925a0a9a49598adba45d108ceb3e",
-            "description": "The Old Ones Awaken adds new levels to explore, new enemies to defeat, and new bosses to face along with a host exciting new weapons and equipment to wield and wear.",
-            "effectiveDate": "2024-02-08T16:00:00.000Z",
-            "offerType": "ADD_ON",
-            "expiryDate": null,
-            "viewableDate": "2024-02-01T16:00:00.000Z",
-            "status": "ACTIVE",
-            "isCodeRedemptionOnly": false,
-            "keyImages": [
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
               {
-                "type": "OfferImageWide",
-                "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png"
-              },
-              {
-                "type": "OfferImageTall",
-                "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-1qvy6.jpg"
-              },
-              {
-                "type": "Thumbnail",
-                "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-1qvy6.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-5fr2h.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-tl3jh.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-ooqww.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-y89ep.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-sagu3.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-1309n.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-1mwvz.jpg"
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-07-18T15:00:00.000Z",
+                    "endDate": "2024-08-01T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 30
+                    }
+                  }
+                ]
               }
-            ],
-            "seller": {
-              "id": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
-              "name": "Another Indie Studio Limited"
+            ]
+          }
+        },
+        {
+          "title": "Lost Castle: The Old Ones Awaken",
+          "id": "4a88d0dc64114b20b67339c74543f859",
+          "namespace": "ab29925a0a9a49598adba45d108ceb3e",
+          "description": "The Old Ones Awaken adds new levels to explore, new enemies to defeat, and new bosses to face along with a host exciting new weapons and equipment to wield and wear.",
+          "effectiveDate": "2024-02-08T16:00:00.000Z",
+          "offerType": "ADD_ON",
+          "expiryDate": null,
+          "viewableDate": "2024-02-01T16:00:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png"
             },
-            "productSlug": null,
-            "urlSlug": "lost-castle-the-old-ones-awaken",
-            "url": null,
-            "items": [
-              {
-                "id": "30f2fedfe5af4e9d96e151696f372a70",
-                "namespace": "ab29925a0a9a49598adba45d108ceb3e"
-              }
-            ],
-            "customAttributes": [
-              {
-                "key": "isManuallySetRefundableType",
-                "value": "true"
-              },
-              {
-                "key": "autoGeneratedPrice",
-                "value": "false"
-              },
-              {
-                "key": "isManuallySetViewableDate",
-                "value": "true"
-              },
-              {
-                "key": "isManuallySetPCReleaseDate",
-                "value": "false"
-              },
-              {
-                "key": "isBlockchainUsed",
-                "value": "false"
-              }
-            ],
-            "categories": [
-              {
-                "path": "addons"
-              },
-              {
-                "path": "freegames"
-              },
-              {
-                "path": "addons/durable"
-              }
-            ],
-            "tags": [
-              {
-                "id": "1264"
-              },
-              {
-                "id": "1265"
-              },
-              {
-                "id": "1367"
-              },
-              {
-                "id": "1370"
-              },
-              {
-                "id": "1083"
-              },
-              {
-                "id": "9547"
-              },
-              {
-                "id": "35244"
-              },
-              {
-                "id": "9549"
-              }
-            ],
-            "catalogNs": {
-              "mappings": [
-                {
-                  "pageSlug": "lost-castle-abb2e2",
-                  "pageType": "productHome"
-                }
-              ]
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-1qvy6.jpg"
             },
-            "offerMappings": [
-              {
-                "pageSlug": "lost-castle-lost-castle-the-old-ones-awaken-db1545",
-                "pageType": "offer"
-              }
-            ],
-            "price": {
-              "totalPrice": {
-                "discountPrice": 399,
-                "originalPrice": 399,
-                "voucherDiscount": 0,
-                "discount": 0,
-                "currencyCode": "USD",
-                "currencyInfo": {
-                  "decimals": 2
-                },
-                "fmtPrice": {
-                  "originalPrice": "$3.99",
-                  "discountPrice": "$3.99",
-                  "intermediatePrice": "$3.99"
-                }
-              },
-              "lineOffers": [
-                {
-                  "appliedRules": []
-                }
-              ]
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-1qvy6.jpg"
             },
-            "promotions": null
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-5fr2h.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-tl3jh.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-ooqww.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-y89ep.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-sagu3.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-1309n.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-1mwvz.jpg"
+            }
+          ],
+          "seller": {
+            "id": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
+            "name": "Another Indie Studio Limited"
           },
-          {
-            "title": "Cat Quest II",
-            "id": "2a8398bbcb524c379ab21e31f0be5aeb",
-            "namespace": "58004246d72f474a957ff5f57b9684ca",
-            "description": "Open-world action-RPG in a fantasy realm of cats and dogs. CAT QUEST II lets you play solo or with a friend, as both a cat and dog! Quest in a world filled with magic, defeat monsters and collect loot in a catventure like never before!",
-            "effectiveDate": "2024-05-02T15:00:00.000Z",
-            "offerType": "BASE_GAME",
-            "expiryDate": null,
-            "viewableDate": "2024-04-30T13:00:00.000Z",
-            "status": "ACTIVE",
-            "isCodeRedemptionOnly": false,
-            "keyImages": [
-              {
-                "type": "OfferImageWide",
-                "url": "https://cdn1.epicgames.com/spt-assets/fe812f94c42e44e986691a84c796952d/cat-quest-ii-cj318.jpg"
-              },
-              {
-                "type": "OfferImageTall",
-                "url": "https://cdn1.epicgames.com/spt-assets/fe812f94c42e44e986691a84c796952d/cat-quest-ii-13gb6.jpg"
-              },
-              {
-                "type": "Thumbnail",
-                "url": "https://cdn1.epicgames.com/spt-assets/fe812f94c42e44e986691a84c796952d/cat-quest-ii-13gb6.jpg"
-              }
-            ],
-            "seller": {
-              "id": "o-yrjx9sk66ym9ktjnjml6qzsyjhczdz",
-              "name": "Kepler Interactive"
+          "productSlug": null,
+          "urlSlug": "lost-castle-the-old-ones-awaken",
+          "url": null,
+          "items": [
+            {
+              "id": "30f2fedfe5af4e9d96e151696f372a70",
+              "namespace": "ab29925a0a9a49598adba45d108ceb3e"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "isManuallySetRefundableType",
+              "value": "true"
             },
-            "productSlug": null,
-            "urlSlug": "17c196bb2302467d9c930289a0b70562",
-            "url": null,
-            "items": [
-              {
-                "id": "9f330ec636a342feadd15e2f1142bb29",
-                "namespace": "58004246d72f474a957ff5f57b9684ca"
-              }
-            ],
-            "customAttributes": [
-              {
-                "key": "autoGeneratedPrice",
-                "value": "false"
-              },
-              {
-                "key": "isManuallySetViewableDate",
-                "value": "true"
-              },
-              {
-                "key": "isManuallySetPCReleaseDate",
-                "value": "true"
-              },
-              {
-                "key": "isBlockchainUsed",
-                "value": "false"
-              }
-            ],
-            "categories": [
-              {
-                "path": "freegames"
-              },
-              {
-                "path": "games"
-              },
-              {
-                "path": "games/edition"
-              },
-              {
-                "path": "games/edition/base"
-              }
-            ],
-            "tags": [
-              {
-                "id": "1264"
-              },
-              {
-                "id": "1296"
-              },
-              {
-                "id": "21894"
-              },
-              {
-                "id": "1367"
-              },
-              {
-                "id": "19847"
-              },
-              {
-                "id": "1336"
-              },
-              {
-                "id": "1370"
-              },
-              {
-                "id": "9547"
-              },
-              {
-                "id": "21147"
-              }
-            ],
-            "catalogNs": {
-              "mappings": [
-                {
-                  "pageSlug": "cat-quest-ii-9dbefc",
-                  "pageType": "productHome"
-                }
-              ]
+            {
+              "key": "autoGeneratedPrice",
+              "value": "false"
             },
-            "offerMappings": [
+            {
+              "key": "isManuallySetViewableDate",
+              "value": "true"
+            },
+            {
+              "key": "isManuallySetPCReleaseDate",
+              "value": "false"
+            },
+            {
+              "key": "isBlockchainUsed",
+              "value": "false"
+            }
+          ],
+          "categories": [
+            {
+              "path": "addons"
+            },
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "addons/durable"
+            }
+          ],
+          "tags": [
+            {
+              "id": "1264"
+            },
+            {
+              "id": "1265"
+            },
+            {
+              "id": "1367"
+            },
+            {
+              "id": "1370"
+            },
+            {
+              "id": "1083"
+            },
+            {
+              "id": "9547"
+            },
+            {
+              "id": "35244"
+            },
+            {
+              "id": "9549"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "lost-castle-abb2e2",
+                "pageType": "productHome"
+              }
+            ]
+          },
+          "offerMappings": [
+            {
+              "pageSlug": "lost-castle-lost-castle-the-old-ones-awaken-db1545",
+              "pageType": "offer"
+            }
+          ],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 399,
+              "originalPrice": 399,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$3.99",
+                "discountPrice": "$3.99",
+                "intermediatePrice": "$3.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": null
+        },
+        {
+          "title": "Cat Quest II",
+          "id": "2a8398bbcb524c379ab21e31f0be5aeb",
+          "namespace": "58004246d72f474a957ff5f57b9684ca",
+          "description": "Open-world action-RPG in a fantasy realm of cats and dogs. CAT QUEST II lets you play solo or with a friend, as both a cat and dog! Quest in a world filled with magic, defeat monsters and collect loot in a catventure like never before!",
+          "effectiveDate": "2024-05-02T15:00:00.000Z",
+          "offerType": "BASE_GAME",
+          "expiryDate": null,
+          "viewableDate": "2024-04-30T13:00:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/spt-assets/fe812f94c42e44e986691a84c796952d/cat-quest-ii-cj318.jpg"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/spt-assets/fe812f94c42e44e986691a84c796952d/cat-quest-ii-13gb6.jpg"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/spt-assets/fe812f94c42e44e986691a84c796952d/cat-quest-ii-13gb6.jpg"
+            }
+          ],
+          "seller": {
+            "id": "o-yrjx9sk66ym9ktjnjml6qzsyjhczdz",
+            "name": "Kepler Interactive"
+          },
+          "productSlug": null,
+          "urlSlug": "17c196bb2302467d9c930289a0b70562",
+          "url": null,
+          "items": [
+            {
+              "id": "9f330ec636a342feadd15e2f1142bb29",
+              "namespace": "58004246d72f474a957ff5f57b9684ca"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "autoGeneratedPrice",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetViewableDate",
+              "value": "true"
+            },
+            {
+              "key": "isManuallySetPCReleaseDate",
+              "value": "true"
+            },
+            {
+              "key": "isBlockchainUsed",
+              "value": "false"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "games/edition"
+            },
+            {
+              "path": "games/edition/base"
+            }
+          ],
+          "tags": [
+            {
+              "id": "1264"
+            },
+            {
+              "id": "1296"
+            },
+            {
+              "id": "21894"
+            },
+            {
+              "id": "1367"
+            },
+            {
+              "id": "19847"
+            },
+            {
+              "id": "1336"
+            },
+            {
+              "id": "1370"
+            },
+            {
+              "id": "9547"
+            },
+            {
+              "id": "21147"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
               {
                 "pageSlug": "cat-quest-ii-9dbefc",
                 "pageType": "productHome"
               }
-            ],
-            "price": {
-              "totalPrice": {
-                "discountPrice": 1499,
-                "originalPrice": 1499,
-                "voucherDiscount": 0,
-                "discount": 0,
-                "currencyCode": "USD",
-                "currencyInfo": {
-                  "decimals": 2
-                },
-                "fmtPrice": {
-                  "originalPrice": "$14.99",
-                  "discountPrice": "$14.99",
-                  "intermediatePrice": "$14.99"
-                }
-              },
-              "lineOffers": [
-                {
-                  "appliedRules": []
-                }
-              ]
-            },
-            "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
-                {
-                  "promotionalOffers": [
-                    {
-                      "startDate": "2024-07-18T15:00:00.000Z",
-                      "endDate": "2024-08-01T15:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE",
-                        "discountPercentage": 20
-                      }
-                    }
-                  ]
-                }
-              ]
-            }
+            ]
           },
-          {
-            "title": "LISA: The Definitive Edition",
-            "id": "944b5b5d646d46bc92bc33edfe983d26",
-            "namespace": "ca3a9d16d131478c97fd56c138a6511a",
-            "description": "Explore Olathe and unmask its twisted secrets with LISA: The Definitive Edition, including the original narrative-driven RPG LISA: The Painful and its sequel LISA: The Joyful.",
-            "effectiveDate": "2024-05-21T16:00:00.000Z",
-            "offerType": "BUNDLE",
-            "expiryDate": null,
-            "viewableDate": "2024-05-21T16:00:00.000Z",
-            "status": "ACTIVE",
-            "isCodeRedemptionOnly": false,
-            "keyImages": [
-              {
-                "type": "OfferImageTall",
-                "url": "https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S2_1200x1600-4a9b4fc6e06e8aff136c1a3cf18292ae"
-              },
-              {
-                "type": "OfferImageWide",
-                "url": "https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5"
-              },
-              {
-                "type": "Thumbnail",
-                "url": "https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S2_1200x1600-4a9b4fc6e06e8aff136c1a3cf18292ae"
-              }
-            ],
-            "seller": {
-              "id": "o-256f2bc2a35049a39ceae0f57d01bb",
-              "name": "Serenity Forge"
-            },
-            "productSlug": "lisa-the-definitive-edition",
-            "urlSlug": "lisa-the-definitive-edition",
-            "url": null,
-            "items": [
-              {
-                "id": "2cde880361534ed4bafd0a9bb502c543",
-                "namespace": "2052c58b9f64498386cbbbc85df90bbf"
-              },
-              {
-                "id": "a7729179144d41ec9e0a7e1c09ad2f35",
-                "namespace": "87de7c0aad7944899fb6d2b05e13b108"
-              }
-            ],
-            "customAttributes": [
-              {
-                "key": "com.epicgames.app.productSlug",
-                "value": "lisa-the-definitive-edition"
-              }
-            ],
-            "categories": [
-              {
-                "path": "bundles"
-              },
-              {
-                "path": "freegames"
-              },
-              {
-                "path": "games"
-              },
-              {
-                "path": "bundles/games"
-              },
-              {
-                "path": "applications"
-              }
-            ],
-            "tags": [
-              {
-                "id": "1367"
-              },
-              {
-                "id": "1370"
-              },
-              {
-                "id": "9547"
-              },
-              {
-                "id": "1117"
-              },
-              {
-                "id": "9549"
-              },
-              {
-                "id": "1263"
-              }
-            ],
-            "catalogNs": {
-              "mappings": null
-            },
-            "offerMappings": null,
-            "price": {
-              "totalPrice": {
-                "discountPrice": 2499,
-                "originalPrice": 2499,
-                "voucherDiscount": 0,
-                "discount": 0,
-                "currencyCode": "USD",
-                "currencyInfo": {
-                  "decimals": 2
-                },
-                "fmtPrice": {
-                  "originalPrice": "$24.99",
-                  "discountPrice": "$24.99",
-                  "intermediatePrice": "$24.99"
-                }
-              },
-              "lineOffers": [
-                {
-                  "appliedRules": []
-                }
-              ]
-            },
-            "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
-                {
-                  "promotionalOffers": [
-                    {
-                      "startDate": "2024-08-05T15:00:00.000Z",
-                      "endDate": "2024-08-19T15:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE",
-                        "discountPercentage": 60
-                      }
-                    }
-                  ]
-                }
-              ]
+          "offerMappings": [
+            {
+              "pageSlug": "cat-quest-ii-9dbefc",
+              "pageType": "productHome"
             }
+          ],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 1499,
+              "originalPrice": 1499,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$14.99",
+                "discountPrice": "$14.99",
+                "intermediatePrice": "$14.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
           },
-          {
-            "title": "Sunless Skies: Sovereign Edition",
-            "id": "d64e188ad8034ffcacd038c4713f5c0a",
-            "namespace": "3f6f54e0f8164224b817d23075cbb2a8",
-            "description": "SAIL THE STARS. BETRAY YOUR QUEEN. MURDER A SUN. Sunless Skies is a Gothic Horror roleplay game with a focus on exploration and exquisite storytelling.",
-            "effectiveDate": "2024-06-27T15:00:00.000Z",
-            "offerType": "BASE_GAME",
-            "expiryDate": null,
-            "viewableDate": "2024-06-20T15:00:00.000Z",
-            "status": "ACTIVE",
-            "isCodeRedemptionOnly": false,
-            "keyImages": [
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
               {
-                "type": "OfferImageWide",
-                "url": "https://cdn1.epicgames.com/spt-assets/c940bf4524614968826999d859f79dbd/sunless-skies-1v5ll.jpg"
-              },
-              {
-                "type": "OfferImageTall",
-                "url": "https://cdn1.epicgames.com/spt-assets/c940bf4524614968826999d859f79dbd/sunless-skies-1f06o.png"
-              },
-              {
-                "type": "Thumbnail",
-                "url": "https://cdn1.epicgames.com/spt-assets/c940bf4524614968826999d859f79dbd/sunless-skies-1f06o.png"
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-07-18T15:00:00.000Z",
+                    "endDate": "2024-08-01T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 20
+                    }
+                  }
+                ]
               }
-            ],
-            "seller": {
-              "id": "o-rtt3u6nfx2dlvv3zuwr53utk9gjz82",
-              "name": "Failbetter Games"
+            ]
+          }
+        },
+        {
+          "title": "LISA: The Definitive Edition",
+          "id": "944b5b5d646d46bc92bc33edfe983d26",
+          "namespace": "ca3a9d16d131478c97fd56c138a6511a",
+          "description": "Explore Olathe and unmask its twisted secrets with LISA: The Definitive Edition, including the original narrative-driven RPG LISA: The Painful and its sequel LISA: The Joyful.",
+          "effectiveDate": "2024-05-21T16:00:00.000Z",
+          "offerType": "BUNDLE",
+          "expiryDate": null,
+          "viewableDate": "2024-05-21T16:00:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S2_1200x1600-4a9b4fc6e06e8aff136c1a3cf18292ae"
             },
-            "productSlug": null,
-            "urlSlug": "5a137d42abcb451f9a1c65542f096479",
-            "url": null,
-            "items": [
-              {
-                "id": "c83f53b734d54c059bd8b29e47368994",
-                "namespace": "3f6f54e0f8164224b817d23075cbb2a8"
-              }
-            ],
-            "customAttributes": [
-              {
-                "key": "autoGeneratedPrice",
-                "value": "false"
-              },
-              {
-                "key": "isManuallySetViewableDate",
-                "value": "true"
-              },
-              {
-                "key": "isManuallySetPCReleaseDate",
-                "value": "true"
-              },
-              {
-                "key": "isBlockchainUsed",
-                "value": "false"
-              }
-            ],
-            "categories": [
-              {
-                "path": "freegames"
-              },
-              {
-                "path": "games"
-              },
-              {
-                "path": "games/edition"
-              },
-              {
-                "path": "games/edition/base"
-              }
-            ],
-            "tags": [
-              {
-                "id": "1218"
-              },
-              {
-                "id": "21894"
-              },
-              {
-                "id": "1367"
-              },
-              {
-                "id": "19847"
-              },
-              {
-                "id": "1370"
-              },
-              {
-                "id": "1083"
-              },
-              {
-                "id": "9547"
-              },
-              {
-                "id": "9549"
-              },
-              {
-                "id": "10719"
-              }
-            ],
-            "catalogNs": {
-              "mappings": [
-                {
-                  "pageSlug": "sunless-skies-bb4947",
-                  "pageType": "productHome"
-                }
-              ]
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5"
             },
-            "offerMappings": [
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S2_1200x1600-4a9b4fc6e06e8aff136c1a3cf18292ae"
+            }
+          ],
+          "seller": {
+            "id": "o-256f2bc2a35049a39ceae0f57d01bb",
+            "name": "Serenity Forge"
+          },
+          "productSlug": "lisa-the-definitive-edition",
+          "urlSlug": "lisa-the-definitive-edition",
+          "url": null,
+          "items": [
+            {
+              "id": "2cde880361534ed4bafd0a9bb502c543",
+              "namespace": "2052c58b9f64498386cbbbc85df90bbf"
+            },
+            {
+              "id": "a7729179144d41ec9e0a7e1c09ad2f35",
+              "namespace": "87de7c0aad7944899fb6d2b05e13b108"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "com.epicgames.app.productSlug",
+              "value": "lisa-the-definitive-edition"
+            }
+          ],
+          "categories": [
+            {
+              "path": "bundles"
+            },
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "bundles/games"
+            },
+            {
+              "path": "applications"
+            }
+          ],
+          "tags": [
+            {
+              "id": "1367"
+            },
+            {
+              "id": "1370"
+            },
+            {
+              "id": "9547"
+            },
+            {
+              "id": "1117"
+            },
+            {
+              "id": "9549"
+            },
+            {
+              "id": "1263"
+            }
+          ],
+          "catalogNs": {
+            "mappings": null
+          },
+          "offerMappings": null,
+          "price": {
+            "totalPrice": {
+              "discountPrice": 2499,
+              "originalPrice": 2499,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$24.99",
+                "discountPrice": "$24.99",
+                "intermediatePrice": "$24.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-08-05T15:00:00.000Z",
+                    "endDate": "2024-08-19T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 60
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Sunless Skies: Sovereign Edition",
+          "id": "d64e188ad8034ffcacd038c4713f5c0a",
+          "namespace": "3f6f54e0f8164224b817d23075cbb2a8",
+          "description": "SAIL THE STARS. BETRAY YOUR QUEEN. MURDER A SUN. Sunless Skies is a Gothic Horror roleplay game with a focus on exploration and exquisite storytelling.",
+          "effectiveDate": "2024-06-27T15:00:00.000Z",
+          "offerType": "BASE_GAME",
+          "expiryDate": null,
+          "viewableDate": "2024-06-20T15:00:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/spt-assets/c940bf4524614968826999d859f79dbd/sunless-skies-1v5ll.jpg"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/spt-assets/c940bf4524614968826999d859f79dbd/sunless-skies-1f06o.png"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/spt-assets/c940bf4524614968826999d859f79dbd/sunless-skies-1f06o.png"
+            }
+          ],
+          "seller": {
+            "id": "o-rtt3u6nfx2dlvv3zuwr53utk9gjz82",
+            "name": "Failbetter Games"
+          },
+          "productSlug": null,
+          "urlSlug": "5a137d42abcb451f9a1c65542f096479",
+          "url": null,
+          "items": [
+            {
+              "id": "c83f53b734d54c059bd8b29e47368994",
+              "namespace": "3f6f54e0f8164224b817d23075cbb2a8"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "autoGeneratedPrice",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetViewableDate",
+              "value": "true"
+            },
+            {
+              "key": "isManuallySetPCReleaseDate",
+              "value": "true"
+            },
+            {
+              "key": "isBlockchainUsed",
+              "value": "false"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "games/edition"
+            },
+            {
+              "path": "games/edition/base"
+            }
+          ],
+          "tags": [
+            {
+              "id": "1218"
+            },
+            {
+              "id": "21894"
+            },
+            {
+              "id": "1367"
+            },
+            {
+              "id": "19847"
+            },
+            {
+              "id": "1370"
+            },
+            {
+              "id": "1083"
+            },
+            {
+              "id": "9547"
+            },
+            {
+              "id": "9549"
+            },
+            {
+              "id": "10719"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
               {
                 "pageSlug": "sunless-skies-bb4947",
                 "pageType": "productHome"
               }
-            ],
-            "price": {
-              "totalPrice": {
-                "discountPrice": 0,
-                "originalPrice": 2499,
-                "voucherDiscount": 0,
-                "discount": 2499,
-                "currencyCode": "USD",
-                "currencyInfo": {
-                  "decimals": 2
-                },
-                "fmtPrice": {
-                  "originalPrice": "$24.99",
-                  "discountPrice": "0",
-                  "intermediatePrice": "0"
-                }
-              },
-              "lineOffers": [
-                {
-                  "appliedRules": [
-                    {
-                      "id": "ee297c2874c14d1b930d19aa26aa9632",
-                      "endDate": "2024-07-04T15:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE"
-                      }
-                    }
-                  ]
-                }
-              ]
-            },
-            "promotions": {
-              "promotionalOffers": [
-                {
-                  "promotionalOffers": [
-                    {
-                      "startDate": "2024-06-27T15:00:00.000Z",
-                      "endDate": "2024-07-04T15:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE",
-                        "discountPercentage": 0
-                      }
-                    }
-                  ]
-                }
-              ],
-              "upcomingPromotionalOffers": []
+            ]
+          },
+          "offerMappings": [
+            {
+              "pageSlug": "sunless-skies-bb4947",
+              "pageType": "productHome"
             }
+          ],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 0,
+              "originalPrice": 2499,
+              "voucherDiscount": 0,
+              "discount": 2499,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$24.99",
+                "discountPrice": "0",
+                "intermediatePrice": "0"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": [
+                  {
+                    "id": "ee297c2874c14d1b930d19aa26aa9632",
+                    "endDate": "2024-07-04T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-06-27T15:00:00.000Z",
+                    "endDate": "2024-07-04T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": []
           }
-        ],
-        "paging": {
-          "count": 1000,
-          "total": 6
         }
+      ],
+      "paging": {
+        "count": 1000,
+        "total": 6
       }
     }
-  },
-  "extensions": {}
+  }
 }
