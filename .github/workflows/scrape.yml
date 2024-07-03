@@ -13,7 +13,7 @@ jobs:
       
       - name: Fetch latest data
         run: |-
-          curl https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions | jq . > public/data/epicgames.json
+          curl https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions | jq .data > public/data/epicgames.json
       
       - name: Commit and push if it changed
         run: |-
