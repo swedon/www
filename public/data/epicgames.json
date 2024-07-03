@@ -1,6 +1,25 @@
 {
   "errors": [
     {
+      "message": "CatalogOffer/offerMappings: Request failed with status code 404",
+      "locations": [
+        {
+          "line": 73,
+          "column": 17
+        }
+      ],
+      "correlationId": "0af45256-94e8-4d4a-b2b1-9efff82e6729",
+      "serviceResponse": "{\"errorMessage\":\"The item or resource being requested could not be found.\",\"errorCode\":\"errors.com.epicgames.not_found\",\"numericErrorCode\":1004,\"errorStatus\":404}",
+      "stack": null,
+      "path": [
+        "Catalog",
+        "searchStore",
+        "elements",
+        4,
+        "offerMappings"
+      ]
+    },
+    {
       "message": "CatalogNamespace/mappings: Request failed with status code 404",
       "locations": [
         {
@@ -8,7 +27,7 @@
           "column": 19
         }
       ],
-      "correlationId": "589e02fb-6551-4236-b0c0-61eca88720c1",
+      "correlationId": "0af45256-94e8-4d4a-b2b1-9efff82e6729",
       "serviceResponse": "{\"errorMessage\":\"The item or resource being requested could not be found.\",\"errorCode\":\"errors.com.epicgames.not_found\",\"numericErrorCode\":1004,\"errorStatus\":404}",
       "stack": null,
       "path": [
@@ -18,25 +37,6 @@
         4,
         "catalogNs",
         "mappings"
-      ]
-    },
-    {
-      "message": "CatalogOffer/offerMappings: Request failed with status code 404",
-      "locations": [
-        {
-          "line": 73,
-          "column": 17
-        }
-      ],
-      "correlationId": "589e02fb-6551-4236-b0c0-61eca88720c1",
-      "serviceResponse": "{\"errorMessage\":\"The item or resource being requested could not be found.\",\"errorCode\":\"errors.com.epicgames.not_found\",\"numericErrorCode\":1004,\"errorStatus\":404}",
-      "stack": null,
-      "path": [
-        "Catalog",
-        "searchStore",
-        "elements",
-        4,
-        "offerMappings"
       ]
     }
   ],
