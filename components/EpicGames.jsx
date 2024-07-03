@@ -12,12 +12,11 @@ const FreeGamesPromotions = () => {
 			const data = await response.json()
 			setItems(data.Catalog.searchStore.elements)
 		}
-
 		fetchData()
 	}, [])
 
 	return (
-		<div className='grid grid-cols-3 gap-4'>
+		<div className='grid grid-cols-1 md:grid-cols-3 gap-4'>
 			{items.length > 0 &&
 				items.map(game => (
 					<div key={game.id} className='bg-white p-4 rounded shadow'>
