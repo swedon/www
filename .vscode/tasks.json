@@ -1,0 +1,29 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "npm",
+            "script": "start",
+            "problemMatcher": [],
+            "label": "next: start",
+            "detail": "next start"
+        },
+        {
+            "type": "npm",
+            "script": "dev",
+            "problemMatcher": [],
+            "label": "next: dev",
+            "detail": "next dev",
+            "runOptions": {
+                // "runOn": "folderOpen"
+            }
+        },
+        {
+            "type": "npm",
+            "script": "install",
+            "problemMatcher": [],
+            "label": "next: install",
+            "detail": "next install dependencies"
+        }
+    ]
+}
