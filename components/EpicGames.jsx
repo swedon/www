@@ -9,8 +9,8 @@ const FreeGamesPromotions = () => {
 	useEffect(() => {
 		const fetchData = async () => {
 			const response = await fetch('https://raw.githubusercontent.com/swedon/www/main/public/data/epicgames.json')
-			const jsonData = await response.json()
-			setItems(jsonData.data.Catalog.searchStore.elements)
+			const data = await response.json()
+			setItems(data.Catalog.searchStore.elements)
 		}
 
 		fetchData()
