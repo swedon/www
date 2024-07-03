@@ -18,24 +18,8 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  check_codeql:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-      - name: Check if changes are in public/data
-        id: filter
-        run: |
-          if git diff --name-only ${{ github.event.workflow_run.head_commit.id }}^ ${{ github.event.workflow_run.head_commit.id }} | grep -qvE '^(public/data/)'
-          then
-            echo "CODEQL_RUNNER=true" >> $GITHUB_OUTPUT
-          else
-            echo "CODEQL_RUNNER=false" >> $GITHUB_OUTPUT
-          fi
-
   build:
     runs-on: ubuntu-latest
-    if: ${{ needs.check_codeql.outputs.CODEQL_RUNNER == 'true' }}
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
