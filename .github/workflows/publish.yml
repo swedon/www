@@ -1,4 +1,4 @@
-name: publish-to-github-pages
+name: Publish to Github pages
 on:
   workflow_dispatch:
   workflow_run:
