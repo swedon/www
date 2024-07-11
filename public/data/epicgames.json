@@ -171,6 +171,140 @@
           }
         },
         {
+          "title": "Arcade Paradise",
+          "id": "f7ce9c6bfed74819894366568193d4f8",
+          "namespace": "89b9c510e8d74b9da34c447915b1ffb1",
+          "description": "Arcade Paradise",
+          "effectiveDate": "2022-08-11T13:05:00.000Z",
+          "offerType": "BASE_GAME",
+          "expiryDate": null,
+          "viewableDate": "2021-11-02T16:00:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "CodeRedemption_340x440",
+              "url": "https://cdn1.epicgames.com/offer/89b9c510e8d74b9da34c447915b1ffb1/EGS_ArcadeParadise_NosebleedInteractive_S2_1200x1600-060836f13d8973394299024e8a0df87a"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/offer/89b9c510e8d74b9da34c447915b1ffb1/EGS_ArcadeParadise_NosebleedInteractive_S2_1200x1600-060836f13d8973394299024e8a0df87a"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/offer/89b9c510e8d74b9da34c447915b1ffb1/EGS_ArcadeParadise_NosebleedInteractive_S2_1200x1600-060836f13d8973394299024e8a0df87a"
+            },
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/offer/89b9c510e8d74b9da34c447915b1ffb1/EGS_ArcadeParadise_NosebleedInteractive_S1_2560x1440-5a8ca84efde851f3ca2b0d30b393543e"
+            }
+          ],
+          "seller": {
+            "id": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
+            "name": "Wired Productions"
+          },
+          "productSlug": "arcade-paradise",
+          "urlSlug": "arcade-paradise",
+          "url": null,
+          "items": [
+            {
+              "id": "ae14b2753f514e8cb01fc1cf708efb2c",
+              "namespace": "89b9c510e8d74b9da34c447915b1ffb1"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "com.epicgames.app.productSlug",
+              "value": "arcade-paradise"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "games/edition"
+            },
+            {
+              "path": "games/edition/base"
+            },
+            {
+              "path": "applications"
+            }
+          ],
+          "tags": [
+            {
+              "id": "1264"
+            },
+            {
+              "id": "1203"
+            },
+            {
+              "id": "19847"
+            },
+            {
+              "id": "1370"
+            },
+            {
+              "id": "9547"
+            },
+            {
+              "id": "1263"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "arcade-paradise",
+                "pageType": "productHome"
+              }
+            ]
+          },
+          "offerMappings": [],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 1999,
+              "originalPrice": 1999,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$19.99",
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-07-18T15:00:00.000Z",
+                    "endDate": "2024-07-25T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
           "title": "Model Builder: Complete Edition",
           "id": "d3e5b556640144bfa5de2d5d3b283d68",
           "namespace": "23499f64e5304139b514c3e674c5c0d6",
@@ -911,7 +1045,7 @@
       ],
       "paging": {
         "count": 1000,
-        "total": 6
+        "total": 7
       }
     }
   }
