@@ -297,29 +297,36 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1999,
+              "discountPrice": 0,
               "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1999,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "78b2a8cfd8e04e80b563462928c50eb8",
+                    "endDate": "2024-07-25T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -332,7 +339,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -440,29 +448,36 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 2499,
+              "discountPrice": 0,
               "originalPrice": 2499,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 2499,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$24.99",
-                "discountPrice": "$24.99",
-                "intermediatePrice": "$24.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "cb23f7a1a8e14255b1da3264100801b7",
+                    "endDate": "2024-07-25T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -475,7 +490,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -585,29 +601,36 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1999,
+              "discountPrice": 599,
               "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1400,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
+                "discountPrice": "$5.99",
+                "intermediatePrice": "$5.99"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "8f497026e4c2440d81748f8c54b1a074",
+                    "endDate": "2024-08-01T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -620,7 +643,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -904,29 +928,36 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1499,
+              "discountPrice": 299,
               "originalPrice": 1499,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1200,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$14.99",
-                "discountPrice": "$14.99",
-                "intermediatePrice": "$14.99"
+                "discountPrice": "$2.99",
+                "intermediatePrice": "$2.99"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "36534472e5304999823d5addd5208f6f",
+                    "endDate": "2024-08-01T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -939,7 +970,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -1072,6 +1104,150 @@
           }
         },
         {
+          "title": "Exclusive Outfits pack",
+          "id": "c91fd057f96b4e49a7b3af045e9fe79e",
+          "namespace": "fe3e06d17d13402388cccfa984de6041",
+          "description": "Pack of sport outfits bearing the official mascot from the Paris 2024 Olympics",
+          "effectiveDate": "2024-06-07T22:18:11.000Z",
+          "offerType": "VIRTUAL_CURRENCY",
+          "expiryDate": null,
+          "viewableDate": "2024-06-07T22:18:11.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/spt-assets/16c163a44eea408c94b388cb63aafe6d/olympics-go-paris-2024-1dgi6.png"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/spt-assets/16c163a44eea408c94b388cb63aafe6d/olympics-go-paris-2024-1gn9m.png"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/spt-assets/16c163a44eea408c94b388cb63aafe6d/olympics-go-paris-2024-1gn9m.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/16c163a44eea408c94b388cb63aafe6d/olympics-go-paris-2024-xp7f6.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/16c163a44eea408c94b388cb63aafe6d/olympics-go-paris-2024-1071p.png"
+            }
+          ],
+          "seller": {
+            "id": "o-3b9lq6lykgmvkg39dxcdpswydl9vl6",
+            "name": "nWay Inc"
+          },
+          "productSlug": null,
+          "urlSlug": "pc-outfits",
+          "url": null,
+          "items": [
+            {
+              "id": "dd2ea3bf9ca549a58456f06b33f7d532",
+              "namespace": "fe3e06d17d13402388cccfa984de6041"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "autoGeneratedPrice",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetViewableDate",
+              "value": "true"
+            },
+            {
+              "key": "isPromotionalContentUsed",
+              "value": "true"
+            },
+            {
+              "key": "isManuallySetPCReleaseDate",
+              "value": "false"
+            },
+            {
+              "key": "isBlockchainUsed",
+              "value": "false"
+            }
+          ],
+          "categories": [
+            {
+              "path": "spthidden"
+            },
+            {
+              "path": "spthidden/consumable"
+            },
+            {
+              "path": "freegames"
+            }
+          ],
+          "tags": [
+            {
+              "id": "19847"
+            },
+            {
+              "id": "33639"
+            },
+            {
+              "id": "9547"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "olympics-go-paris-2024-5d5f77",
+                "pageType": "productHome"
+              }
+            ]
+          },
+          "offerMappings": [
+            {
+              "pageSlug": "olympics-go-paris-2024-pc-outfits-a48737",
+              "pageType": "offer"
+            }
+          ],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 0,
+              "originalPrice": 0,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "0",
+                "discountPrice": "0",
+                "intermediatePrice": "0"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-07-25T15:00:00.000Z",
+                    "endDate": "2024-08-01T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
           "title": "Floppy Knights",
           "id": "2e84cea730144ac79c3b7f34a2e20d3f",
           "namespace": "f7ca5706875344d8a1fe695093353fae",
@@ -1187,56 +1363,32 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 0,
+              "discountPrice": 1999,
               "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 1999,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "65a672009ee44b61a931991d3cf42bb5",
-                    "endDate": "2024-07-18T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2024-07-11T15:00:00.000Z",
-                    "endDate": "2024-07-18T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         }
       ],
       "paging": {
         "count": 1000,
-        "total": 8
+        "total": 9
       }
     }
   }
