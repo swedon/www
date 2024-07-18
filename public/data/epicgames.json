@@ -3,6 +3,176 @@
     "searchStore": {
       "elements": [
         {
+          "title": "F.I.S.T.: Forged In Shadow Torch",
+          "id": "6e708b1e608f446eaa80488d26b7444b",
+          "namespace": "a7e2a2c51b9149c097b771926ed91877",
+          "description": "Explore more than a dozen unique areas in a Metroidvania style map. \nThe Fist, Drill, and Whip are three weapons with completely different fighting styles that offer seamless switching between high combo, high damage, and long range attacks. ",
+          "effectiveDate": "2021-12-14T08:00:00.000Z",
+          "offerType": "BASE_GAME",
+          "expiryDate": null,
+          "viewableDate": "2021-12-14T08:00:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "CodeRedemption_340x440",
+              "url": "https://cdn1.epicgames.com/offer/a7e2a2c51b9149c097b771926ed91877/EGS_FISTForgedInShadowTorch_TiGames_S6_1200x1600-b0ce396c042359ad9a7b2ca50726cac1"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/offer/a7e2a2c51b9149c097b771926ed91877/EGS_FISTForgedInShadowTorch_TiGames_S6_1200x1600-b0ce396c042359ad9a7b2ca50726cac1"
+            },
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/offer/a7e2a2c51b9149c097b771926ed91877/EGS_FISTForgedInShadowTorch_TiGames_S3_2560x1440-d79b811e274bd49318edf3b7c00b82c8"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/offer/a7e2a2c51b9149c097b771926ed91877/EGS_FISTForgedInShadowTorch_TiGames_S6_1200x1600-b0ce396c042359ad9a7b2ca50726cac1"
+            }
+          ],
+          "seller": {
+            "id": "o-8l37hwc5mnwkll22nf6carncee6w64",
+            "name": "Antiidelay"
+          },
+          "productSlug": "fist-forged-in-shadow-torch",
+          "urlSlug": "fist-forged-in-shadow-torch",
+          "url": null,
+          "items": [
+            {
+              "id": "f05f311be3d346bc9404f0c9de3547db",
+              "namespace": "a7e2a2c51b9149c097b771926ed91877"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "com.epicgames.app.blacklist",
+              "value": ""
+            },
+            {
+              "key": "publisherName",
+              "value": "Antiidelay"
+            },
+            {
+              "key": "developerName",
+              "value": "TiGames"
+            },
+            {
+              "key": "com.epicgames.app.productSlug",
+              "value": "fist-forged-in-shadow-torch"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "games/edition"
+            },
+            {
+              "path": "games/edition/base"
+            },
+            {
+              "path": "applications"
+            }
+          ],
+          "tags": [
+            {
+              "id": "1216"
+            },
+            {
+              "id": "21122"
+            },
+            {
+              "id": "9547"
+            },
+            {
+              "id": "21137"
+            },
+            {
+              "id": "21138"
+            },
+            {
+              "id": "21139"
+            },
+            {
+              "id": "21140"
+            },
+            {
+              "id": "21109"
+            },
+            {
+              "id": "21141"
+            },
+            {
+              "id": "1370"
+            },
+            {
+              "id": "21149"
+            },
+            {
+              "id": "1151"
+            },
+            {
+              "id": "1247"
+            },
+            {
+              "id": "21119"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "fist-forged-in-shadow-torch",
+                "pageType": "productHome"
+              }
+            ]
+          },
+          "offerMappings": [],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 2999,
+              "originalPrice": 2999,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$29.99",
+                "discountPrice": "$29.99",
+                "intermediatePrice": "$29.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-07-25T15:00:00.000Z",
+                    "endDate": "2024-08-01T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
           "title": "Arcade Paradise",
           "id": "f7ce9c6bfed74819894366568193d4f8",
           "namespace": "89b9c510e8d74b9da34c447915b1ffb1",
@@ -1066,7 +1236,7 @@
       ],
       "paging": {
         "count": 1000,
-        "total": 7
+        "total": 8
       }
     }
   }
