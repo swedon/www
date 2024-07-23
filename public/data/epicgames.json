@@ -766,9 +766,6 @@
               "id": "9547"
             },
             {
-              "id": "35244"
-            },
-            {
               "id": "9549"
             }
           ],
@@ -808,7 +805,23 @@
               }
             ]
           },
-          "promotions": null
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-08-05T15:00:00.000Z",
+                    "endDate": "2024-08-19T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 50
+                    }
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "title": "Cat Quest II",
