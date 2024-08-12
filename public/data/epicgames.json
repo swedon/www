@@ -949,7 +949,20 @@
                 ]
               }
             ],
-            "upcomingPromotionalOffers": []
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-09-19T15:00:00.000Z",
+                    "endDate": "2024-10-03T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 70
+                    }
+                  }
+                ]
+              }
+            ]
           }
         },
         {
