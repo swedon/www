@@ -426,51 +426,27 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 199,
+              "discountPrice": 399,
               "originalPrice": 399,
               "voucherDiscount": 0,
-              "discount": 200,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$3.99",
-                "discountPrice": "$1.99",
-                "intermediatePrice": "$1.99"
+                "discountPrice": "$3.99",
+                "intermediatePrice": "$3.99"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "33acde71a95e4ada9428960dc14c6ca9",
-                    "endDate": "2024-08-19T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2024-08-05T15:00:00.000Z",
-                    "endDate": "2024-08-19T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 50
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         },
         {
           "title": "World of Warships — Starter Pack: Albany",
@@ -793,19 +769,19 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2024-09-02T15:00:00.000Z",
-                    "endDate": "2024-09-16T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 50
-                    }
-                  },
-                  {
                     "startDate": "2024-08-22T15:00:00.000Z",
                     "endDate": "2024-08-29T15:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 0
+                    }
+                  },
+                  {
+                    "startDate": "2024-09-02T15:00:00.000Z",
+                    "endDate": "2024-09-16T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 50
                     }
                   }
                 ]
@@ -1044,49 +1020,28 @@
           "offerMappings": null,
           "price": {
             "totalPrice": {
-              "discountPrice": 1499,
+              "discountPrice": 2499,
               "originalPrice": 2499,
               "voucherDiscount": 0,
-              "discount": 1000,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$24.99",
-                "discountPrice": "$14.99",
-                "intermediatePrice": "$14.99"
+                "discountPrice": "$24.99",
+                "intermediatePrice": "$24.99"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "8256023fc1c544c3afd50ab2d696278d",
-                    "endDate": "2024-08-19T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2024-08-05T15:00:00.000Z",
-                    "endDate": "2024-08-19T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 60
-                    }
-                  }
-                ]
-              }
-            ],
+            "promotionalOffers": [],
             "upcomingPromotionalOffers": [
               {
                 "promotionalOffers": [
