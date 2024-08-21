@@ -286,6 +286,135 @@
           "promotions": null
         },
         {
+          "title": "Wild Card Football",
+          "id": "ed35305f4e1e42b9a4166ab396816a73",
+          "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+          "description": "Wild Card Football is a fun pick-up-and-play arcade-style football game featuring 7v7 team-focused gameplay with the unique Wild Card system that lets you change the course of the action in an instant with special power-ups and rule-breaking abilities.",
+          "effectiveDate": "2023-10-10T12:00:00.000Z",
+          "offerType": "BASE_GAME",
+          "expiryDate": null,
+          "viewableDate": "2023-10-10T12:00:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/offer/3072dbe471f84dac8b2e9ba8af253ee2/EGS_WildCardFootball_SaberInteractive_S2_1200x1600-a5e01b328b18fd5a5c54704b0c47a983"
+            },
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/offer/3072dbe471f84dac8b2e9ba8af253ee2/EGS_WildCardFootball_SaberInteractive_S1_2560x1440-8a226b013b7731e5b5d905d82747a1f8"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/offer/3072dbe471f84dac8b2e9ba8af253ee2/EGS_WildCardFootball_SaberInteractive_S2_1200x1600-a5e01b328b18fd5a5c54704b0c47a983"
+            }
+          ],
+          "seller": {
+            "id": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+            "name": "Saber Interactive"
+          },
+          "productSlug": "wild-card-football",
+          "urlSlug": "wild-card-football",
+          "url": null,
+          "items": [
+            {
+              "id": "d22b421ca67b4eb3a57e930ece01f8a5",
+              "namespace": "3072dbe471f84dac8b2e9ba8af253ee2"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "com.epicgames.app.productSlug",
+              "value": "wild-card-football"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "games/edition"
+            },
+            {
+              "path": "games/edition/base"
+            },
+            {
+              "path": "applications"
+            }
+          ],
+          "tags": [
+            {
+              "id": "1203"
+            },
+            {
+              "id": "1370"
+            },
+            {
+              "id": "9547"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "wild-card-football",
+                "pageType": "productHome"
+              }
+            ]
+          },
+          "offerMappings": [],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 2999,
+              "originalPrice": 2999,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$29.99",
+                "discountPrice": "$29.99",
+                "intermediatePrice": "$29.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-08-29T15:00:00.000Z",
+                    "endDate": "2024-09-05T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  },
+                  {
+                    "startDate": "2024-09-02T15:00:00.000Z",
+                    "endDate": "2024-09-16T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 50
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
           "title": "Lost Castle: The Old Ones Awaken",
           "id": "4a88d0dc64114b20b67339c74543f859",
           "namespace": "ab29925a0a9a49598adba45d108ceb3e",
@@ -769,19 +898,19 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2024-09-02T15:00:00.000Z",
-                    "endDate": "2024-09-16T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 50
-                    }
-                  },
-                  {
                     "startDate": "2024-08-22T15:00:00.000Z",
                     "endDate": "2024-08-29T15:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 0
+                    }
+                  },
+                  {
+                    "startDate": "2024-09-02T15:00:00.000Z",
+                    "endDate": "2024-09-16T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 50
                     }
                   }
                 ]
@@ -1208,7 +1337,7 @@
       ],
       "paging": {
         "count": 1000,
-        "total": 8
+        "total": 9
       }
     }
   }
