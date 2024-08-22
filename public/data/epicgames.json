@@ -121,29 +121,36 @@
           "offerMappings": [],
           "price": {
             "totalPrice": {
-              "discountPrice": 5999,
+              "discountPrice": 0,
               "originalPrice": 5999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 5999,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$59.99",
-                "discountPrice": "$59.99",
-                "intermediatePrice": "$59.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "f7608494d63846d09a3b1bf72a819233",
+                    "endDate": "2024-08-29T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -156,7 +163,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -578,194 +586,6 @@
           "promotions": null
         },
         {
-          "title": "World of Warships — Starter Pack: Albany",
-          "id": "8cb6b75dd4f6415ab2458fa4c33c50d3",
-          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
-          "description": "Kick off your swashbuckling adventure through the seas of World of Warships with a useful starter pack starring American Premium cruiser Albany and brimming with all the bonuses you might need to get your virtual naval career off the ground — and into the water!",
-          "effectiveDate": "2024-03-18T15:00:00.000Z",
-          "offerType": "ADD_ON",
-          "expiryDate": null,
-          "viewableDate": "2024-03-18T15:00:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsStarterPackAlbany_Wargaming_AddOn_S2_1200x1600-9e407b62c16e2a00367728d0f01cda20"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsStarterPackAlbany_Wargaming_AddOn_S2_1200x1600-9e407b62c16e2a00367728d0f01cda20"
-            },
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsStarterPackAlbany_Wargaming_AddOn_S1_2560x1440-f1fc6756bfdca0304c3cfbbb7da76b15"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsStarterPackAlbany_Wargaming_AddOn_G1A_00_1920x1080-8243c67243b0fa7b4f1780444f2cc8f2"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsStarterPackAlbany_Wargaming_AddOn_G1A_01_1920x1080-509931387c19590956aeda9166029f2a"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsStarterPackAlbany_Wargaming_AddOn_G1A_02_1920x1080-0ffcb4ba6078f99b687cb9dcea116e14"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsStarterPackAlbany_Wargaming_AddOn_G1A_03_1920x1080-a9e2c4dcb39db499864f5b8bd1f8e7f6"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsStarterPackAlbany_Wargaming_AddOn_G1A_04_1920x1080-97e49b69750dc94c63a02dc792dab67f"
-            }
-          ],
-          "seller": {
-            "id": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
-            "name": "Wargaming Group Limited"
-          },
-          "productSlug": null,
-          "urlSlug": "world-of-warships--starter-pack-albany",
-          "url": null,
-          "items": [
-            {
-              "id": "d7ec530c41604aa7a8071dc3319d17d4",
-              "namespace": "84c76746bce94effb8e1047fabfd7eb7"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "isManuallySetRefundableType",
-              "value": "true"
-            },
-            {
-              "key": "autoGeneratedPrice",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetViewableDate",
-              "value": "true"
-            },
-            {
-              "key": "isPromotionalContentUsed",
-              "value": "null"
-            },
-            {
-              "key": "publisherName",
-              "value": "Wargaming"
-            },
-            {
-              "key": "isManuallySetPCReleaseDate",
-              "value": "true"
-            },
-            {
-              "key": "developerName",
-              "value": "Wargaming"
-            },
-            {
-              "key": "isBlockchainUsed",
-              "value": "false"
-            }
-          ],
-          "categories": [
-            {
-              "path": "addons"
-            },
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "addons/durable"
-            },
-            {
-              "path": "applications"
-            }
-          ],
-          "tags": [
-            {
-              "id": "1216"
-            },
-            {
-              "id": "29088"
-            },
-            {
-              "id": "1299"
-            },
-            {
-              "id": "19847"
-            },
-            {
-              "id": "22775"
-            },
-            {
-              "id": "9547"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "world-of-warships",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [
-            {
-              "pageSlug": "world-of-warships--starter-pack-albany",
-              "pageType": "offer"
-            }
-          ],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 2500,
-              "voucherDiscount": 0,
-              "discount": 2500,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$25.00",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": [
-                  {
-                    "id": "16d4e9cd187043a38c837fd1155f5d2f",
-                    "endDate": "2024-08-22T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2024-07-04T15:00:00.000Z",
-                    "endDate": "2024-08-22T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
-        },
-        {
           "title": "Gigantic: Rampage Edition",
           "id": "5a387d243a05401b926575736262a929",
           "namespace": "ba2eb1ee9bfc434b8c06d33f9df7d15a",
@@ -875,29 +695,36 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1999,
+              "discountPrice": 0,
               "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1999,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "bc3cbcf7fed2464a9d2c7ab9194a65dd",
+                    "endDate": "2024-08-29T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -907,7 +734,13 @@
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 0
                     }
-                  },
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
                   {
                     "startDate": "2024-09-02T15:00:00.000Z",
                     "endDate": "2024-09-16T15:00:00.000Z",
@@ -1191,153 +1024,6 @@
           }
         },
         {
-          "title": "Death's Gambit - Afterlife",
-          "id": "15ffd983174241ae8a00033f5f23f060",
-          "namespace": "7b9cdaaca4f5424e8d6bd7dabe559010",
-          "description": "Death's Gambit: Afterlife is a challenging 2D action platformer with deep RPG elements. As an agent of Death bound to his service, unravel the mystery of Siradon and discover the true price of immortality.",
-          "effectiveDate": "2024-07-25T16:00:00.000Z",
-          "offerType": "BASE_GAME",
-          "expiryDate": null,
-          "viewableDate": "2024-07-25T16:00:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/spt-assets/58c8925d94e440c7b0b4206635272579/deaths-gambit--afterlife-tvf4z.jpg"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/spt-assets/58c8925d94e440c7b0b4206635272579/deaths-gambit--afterlife-tbcov.jpg"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/spt-assets/58c8925d94e440c7b0b4206635272579/deaths-gambit--afterlife-tbcov.jpg"
-            }
-          ],
-          "seller": {
-            "id": "o-256f2bc2a35049a39ceae0f57d01bb",
-            "name": "Serenity Forge"
-          },
-          "productSlug": null,
-          "urlSlug": "5d8070d858304252b7dada2a81815a4a",
-          "url": null,
-          "items": [
-            {
-              "id": "35dc70f885ab4837a48ad766b482c142",
-              "namespace": "7b9cdaaca4f5424e8d6bd7dabe559010"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "autoGeneratedPrice",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetViewableDate",
-              "value": "false"
-            },
-            {
-              "key": "isPromotionalContentUsed",
-              "value": "null"
-            },
-            {
-              "key": "isManuallySetPCReleaseDate",
-              "value": "true"
-            },
-            {
-              "key": "isBlockchainUsed",
-              "value": "false"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "games/edition"
-            },
-            {
-              "path": "games/edition/base"
-            }
-          ],
-          "tags": [
-            {
-              "id": "1367"
-            },
-            {
-              "id": "1370"
-            },
-            {
-              "id": "9547"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "deaths-gambit-afterlife-b5f411",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [
-            {
-              "pageSlug": "deaths-gambit-afterlife-b5f411",
-              "pageType": "productHome"
-            }
-          ],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 1999,
-              "voucherDiscount": 0,
-              "discount": 1999,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$19.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": [
-                  {
-                    "id": "0dbc8a672a434d0d98f808aa8f792208",
-                    "endDate": "2024-08-22T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2024-08-15T15:00:00.000Z",
-                    "endDate": "2024-08-22T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
-        },
-        {
           "title": "Fallout® Classic Collection",
           "id": "b2df9bd956ad46b4beabff90f69bd3c9",
           "namespace": "08f9ecb2186a454cacee6b05d06098ec",
@@ -1473,7 +1159,7 @@
       ],
       "paging": {
         "count": 1000,
-        "total": 10
+        "total": 8
       }
     }
   }
