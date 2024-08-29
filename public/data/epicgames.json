@@ -3,171 +3,6 @@
     "searchStore": {
       "elements": [
         {
-          "title": "The Callisto Protocol",
-          "id": "b8833393baf843d6abc4f5eb38487d33",
-          "namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
-          "description": "Survive to escape the horrors of Callisto. Using a unique blend of shooting and close-quarters combat, players will need to combat rapidly evolving creatures while scavenging to unlock new weapons and gear to outrun the growing threat of Jupiter's Dead Moon.",
-          "effectiveDate": "2022-12-03T05:00:00.000Z",
-          "offerType": "BASE_GAME",
-          "expiryDate": null,
-          "viewableDate": "2022-06-13T16:00:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "CodeRedemption_340x440",
-              "url": "https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S2_1200x1600-1e31eacc92833279f5b7a8d07cd3826c"
-            },
-            {
-              "type": "DieselStoreFrontTall",
-              "url": "https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S2_1200x1600-1e31eacc92833279f5b7a8d07cd3826c"
-            },
-            {
-              "type": "DieselStoreFrontWide",
-              "url": "https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S1_2560x1440-b99bb2275f932ed9beedefff5ced3baa"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S2_1200x1600-1e31eacc92833279f5b7a8d07cd3826c"
-            },
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S1_2560x1440-b99bb2275f932ed9beedefff5ced3baa"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S2_1200x1600-1e31eacc92833279f5b7a8d07cd3826c"
-            }
-          ],
-          "seller": {
-            "id": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
-            "name": "KRAFTON, Inc."
-          },
-          "productSlug": "the-callisto-protocol",
-          "urlSlug": "the-callisto-protocol",
-          "url": null,
-          "items": [
-            {
-              "id": "17020c8135ea47c5932000ec3c34d700",
-              "namespace": "6b0541b5d9aa476cbf407643ab3b1d7d"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "com.epicgames.app.productSlug",
-              "value": "the-callisto-protocol"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "games/edition"
-            },
-            {
-              "path": "games/edition/base"
-            },
-            {
-              "path": "applications"
-            }
-          ],
-          "tags": [
-            {
-              "id": "1218"
-            },
-            {
-              "id": "21138"
-            },
-            {
-              "id": "21139"
-            },
-            {
-              "id": "21140"
-            },
-            {
-              "id": "21141"
-            },
-            {
-              "id": "21127"
-            },
-            {
-              "id": "1210"
-            },
-            {
-              "id": "1370"
-            },
-            {
-              "id": "9547"
-            },
-            {
-              "id": "9549"
-            },
-            {
-              "id": "21149"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "the-callisto-protocol",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 5999,
-              "voucherDiscount": 0,
-              "discount": 5999,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$59.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": [
-                  {
-                    "id": "f7608494d63846d09a3b1bf72a819233",
-                    "endDate": "2024-08-29T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2024-08-22T15:00:00.000Z",
-                    "endDate": "2024-08-29T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
-        },
-        {
           "title": "Model Builder: Complete Edition",
           "id": "d3e5b556640144bfa5de2d5d3b283d68",
           "namespace": "23499f64e5304139b514c3e674c5c0d6",
@@ -376,28 +211,49 @@
           "offerMappings": [],
           "price": {
             "totalPrice": {
-              "discountPrice": 2999,
+              "discountPrice": 0,
               "originalPrice": 2999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 2999,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$29.99",
-                "discountPrice": "$29.99",
-                "intermediatePrice": "$29.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "a0c69df10dd042139998634c8db7c773",
+                    "endDate": "2024-09-05T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-08-29T15:00:00.000Z",
+                    "endDate": "2024-09-05T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ],
             "upcomingPromotionalOffers": [
               {
                 "promotionalOffers": [
@@ -407,14 +263,6 @@
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 50
-                    }
-                  },
-                  {
-                    "startDate": "2024-08-29T15:00:00.000Z",
-                    "endDate": "2024-09-05T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
                     }
                   }
                 ]
@@ -736,175 +584,6 @@
             ]
           },
           "promotions": null
-        },
-        {
-          "title": "Gigantic: Rampage Edition",
-          "id": "5a387d243a05401b926575736262a929",
-          "namespace": "ba2eb1ee9bfc434b8c06d33f9df7d15a",
-          "description": "GIGANTIC: RAMPAGE EDITION is a premium and definitive release of the original 5v5 MOBA Hero Shooter, GIGANTIC. Choose a unique hero and team up with other players to control objectives. GIGANTIC: RAMPAGE EDITION includes a new game mode, cross platform play, new heroes, new maps.",
-          "effectiveDate": "2024-04-09T13:00:00.000Z",
-          "offerType": "BASE_GAME",
-          "expiryDate": null,
-          "viewableDate": "2024-02-20T17:00:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/spt-assets/6630e3dcc72a4e2285e91ca48aa0eb4b/gigantic-rampage-edition-19wce.jpg"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/spt-assets/6630e3dcc72a4e2285e91ca48aa0eb4b/gigantic-rampage-edition-pjf64.jpg"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/spt-assets/6630e3dcc72a4e2285e91ca48aa0eb4b/gigantic-rampage-edition-pjf64.jpg"
-            }
-          ],
-          "seller": {
-            "id": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
-            "name": "Arc Games"
-          },
-          "productSlug": null,
-          "urlSlug": "97e81d8b0e3a4b69a141dcb5ceb2464b",
-          "url": null,
-          "items": [
-            {
-              "id": "e39d1216d9224629a9ed76acb1fc8e84",
-              "namespace": "ba2eb1ee9bfc434b8c06d33f9df7d15a"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "autoGeneratedPrice",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetViewableDate",
-              "value": "true"
-            },
-            {
-              "key": "isPromotionalContentUsed",
-              "value": "null"
-            },
-            {
-              "key": "isManuallySetPCReleaseDate",
-              "value": "false"
-            },
-            {
-              "key": "isBlockchainUsed",
-              "value": "false"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "games/edition"
-            },
-            {
-              "path": "games/edition/base"
-            }
-          ],
-          "tags": [
-            {
-              "id": "1216"
-            },
-            {
-              "id": "29088"
-            },
-            {
-              "id": "1299"
-            },
-            {
-              "id": "19847"
-            },
-            {
-              "id": "9547"
-            },
-            {
-              "id": "9549"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "gigantic-rampage-edition-03f532",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [
-            {
-              "pageSlug": "gigantic-rampage-edition-03f532",
-              "pageType": "productHome"
-            }
-          ],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 1999,
-              "voucherDiscount": 0,
-              "discount": 1999,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$19.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": [
-                  {
-                    "id": "bc3cbcf7fed2464a9d2c7ab9194a65dd",
-                    "endDate": "2024-08-29T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2024-08-22T15:00:00.000Z",
-                    "endDate": "2024-08-29T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2024-09-02T15:00:00.000Z",
-                    "endDate": "2024-09-16T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 50
-                    }
-                  }
-                ]
-              }
-            ]
-          }
         },
         {
           "title": "Cat Quest II",
@@ -1267,8 +946,164 @@
           "offerMappings": null,
           "price": {
             "totalPrice": {
-              "discountPrice": 1999,
+              "discountPrice": 0,
               "originalPrice": 1999,
+              "voucherDiscount": 0,
+              "discount": 1999,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$19.99",
+                "discountPrice": "0",
+                "intermediatePrice": "0"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": [
+                  {
+                    "id": "ad1d5203495c441fa2993153b8ccc8b5",
+                    "endDate": "2024-09-05T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-08-29T15:00:00.000Z",
+                    "endDate": "2024-09-05T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": []
+          }
+        },
+        {
+          "title": "Sniper Ghost Warrior Contracts",
+          "id": "20f88d53af6e4e59876ed82749db4ee5",
+          "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+          "description": "Become the ultimate assassin in the most realistic modern warfare sniping game available. Engage in an immersive single-player campaign across large, open-ended maps. Tactical thinking, stealth approach and precision in execution of long shots required.",
+          "effectiveDate": "2024-09-05T15:00:00.000Z",
+          "offerType": "BASE_GAME",
+          "expiryDate": null,
+          "viewableDate": "2024-08-29T15:00:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-erbx1.png"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-1uy1h.png"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-1uy1h.png"
+            }
+          ],
+          "seller": {
+            "id": "o-2w466jcy8qfum5kv5drctwrsft632w",
+            "name": "CI Games "
+          },
+          "productSlug": null,
+          "urlSlug": "a646b7f8bea44745a55e6a6085b6a9d7",
+          "url": null,
+          "items": [
+            {
+              "id": "5269c29b7e274e8bb8e00d64b7b1d984",
+              "namespace": "3196925cb7ea45c3a9c47118e52a820e"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "autoGeneratedPrice",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetViewableDate",
+              "value": "true"
+            },
+            {
+              "key": "isPromotionalContentUsed",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetPCReleaseDate",
+              "value": "false"
+            },
+            {
+              "key": "isBlockchainUsed",
+              "value": "false"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "games/edition"
+            },
+            {
+              "path": "games/edition/base"
+            }
+          ],
+          "tags": [
+            {
+              "id": "21894"
+            },
+            {
+              "id": "1210"
+            },
+            {
+              "id": "1370"
+            },
+            {
+              "id": "9547"
+            },
+            {
+              "id": "1084"
+            },
+            {
+              "id": "1294"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "sniper-ghost-warrior-contracts-c772b9",
+                "pageType": "productHome"
+              }
+            ]
+          },
+          "offerMappings": [
+            {
+              "pageSlug": "sniper-ghost-warrior-contracts-c772b9",
+              "pageType": "productHome"
+            }
+          ],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 2999,
+              "originalPrice": 2999,
               "voucherDiscount": 0,
               "discount": 0,
               "currencyCode": "USD",
@@ -1276,9 +1111,9 @@
                 "decimals": 2
               },
               "fmtPrice": {
-                "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
+                "originalPrice": "$29.99",
+                "discountPrice": "$29.99",
+                "intermediatePrice": "$29.99"
               }
             },
             "lineOffers": [
@@ -1293,8 +1128,8 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2024-08-29T15:00:00.000Z",
-                    "endDate": "2024-09-05T15:00:00.000Z",
+                    "startDate": "2024-09-05T15:00:00.000Z",
+                    "endDate": "2024-09-12T15:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 0
@@ -1308,7 +1143,7 @@
       ],
       "paging": {
         "count": 1000,
-        "total": 9
+        "total": 8
       }
     }
   }
