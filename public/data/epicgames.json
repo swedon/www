@@ -129,146 +129,6 @@
           "promotions": null
         },
         {
-          "title": "Wild Card Football",
-          "id": "ed35305f4e1e42b9a4166ab396816a73",
-          "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
-          "description": "Wild Card Football is a fun pick-up-and-play arcade-style football game featuring 7v7 team-focused gameplay with the unique Wild Card system that lets you change the course of the action in an instant with special power-ups and rule-breaking abilities.",
-          "effectiveDate": "2023-10-10T12:00:00.000Z",
-          "offerType": "BASE_GAME",
-          "expiryDate": null,
-          "viewableDate": "2023-10-10T12:00:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/offer/3072dbe471f84dac8b2e9ba8af253ee2/EGS_WildCardFootball_SaberInteractive_S2_1200x1600-a5e01b328b18fd5a5c54704b0c47a983"
-            },
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/offer/3072dbe471f84dac8b2e9ba8af253ee2/EGS_WildCardFootball_SaberInteractive_S1_2560x1440-8a226b013b7731e5b5d905d82747a1f8"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/offer/3072dbe471f84dac8b2e9ba8af253ee2/EGS_WildCardFootball_SaberInteractive_S2_1200x1600-a5e01b328b18fd5a5c54704b0c47a983"
-            }
-          ],
-          "seller": {
-            "id": "o-2xlz78ngz5ubvus9sff9blglee43uk",
-            "name": "Saber Interactive"
-          },
-          "productSlug": "wild-card-football",
-          "urlSlug": "wild-card-football",
-          "url": null,
-          "items": [
-            {
-              "id": "d22b421ca67b4eb3a57e930ece01f8a5",
-              "namespace": "3072dbe471f84dac8b2e9ba8af253ee2"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "com.epicgames.app.productSlug",
-              "value": "wild-card-football"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "games/edition"
-            },
-            {
-              "path": "games/edition/base"
-            },
-            {
-              "path": "applications"
-            }
-          ],
-          "tags": [
-            {
-              "id": "1203"
-            },
-            {
-              "id": "1370"
-            },
-            {
-              "id": "9547"
-            },
-            {
-              "id": "38815"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "wild-card-football",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 2999,
-              "voucherDiscount": 0,
-              "discount": 2999,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$29.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": [
-                  {
-                    "id": "a0c69df10dd042139998634c8db7c773",
-                    "endDate": "2024-09-05T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2024-08-29T15:00:00.000Z",
-                    "endDate": "2024-09-05T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  },
-                  {
-                    "startDate": "2024-09-02T15:00:00.000Z",
-                    "endDate": "2024-09-16T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 50
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
-        },
-        {
           "title": "Football Manager 2024",
           "id": "d0ec3758eb4b4224a2037cd438d51cc1",
           "namespace": "610a546d4e204215a0b9a1c8a382bacb",
@@ -388,29 +248,36 @@
           "offerMappings": [],
           "price": {
             "totalPrice": {
-              "discountPrice": 5999,
+              "discountPrice": 0,
               "originalPrice": 5999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 5999,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$59.99",
-                "discountPrice": "$59.99",
-                "intermediatePrice": "$59.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "3d7e40a9891d4586bd91ac1ee50a8083",
+                    "endDate": "2024-09-12T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -423,7 +290,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -1107,51 +975,27 @@
           "offerMappings": null,
           "price": {
             "totalPrice": {
-              "discountPrice": 0,
+              "discountPrice": 1999,
               "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 1999,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "ad1d5203495c441fa2993153b8ccc8b5",
-                    "endDate": "2024-09-05T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2024-08-29T15:00:00.000Z",
-                    "endDate": "2024-09-05T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         },
         {
           "title": "Sniper Ghost Warrior Contracts",
@@ -1266,29 +1110,36 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 2999,
+              "discountPrice": 0,
               "originalPrice": 2999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 2999,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$29.99",
-                "discountPrice": "$29.99",
-                "intermediatePrice": "$29.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "d2f37f467ede4476b7d58b49dbf2f9e2",
+                    "endDate": "2024-09-12T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -1301,7 +1152,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -1452,7 +1304,7 @@
       ],
       "paging": {
         "count": 1000,
-        "total": 10
+        "total": 9
       }
     }
   }
