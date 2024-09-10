@@ -1132,7 +1132,12 @@
               }
             ]
           },
-          "offerMappings": null,
+          "offerMappings": [
+            {
+              "pageSlug": "rugrats-adventures-in-gameland-737402",
+              "pageType": "productHome"
+            }
+          ],
           "price": {
             "totalPrice": {
               "discountPrice": 2499,
