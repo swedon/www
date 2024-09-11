@@ -91,19 +91,9 @@
             }
           ],
           "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "model-builder-complete-edition-f9b456",
-                "pageType": "productHome"
-              }
-            ]
+            "mappings": null
           },
-          "offerMappings": [
-            {
-              "pageSlug": "model-builder-complete-edition-f9b456",
-              "pageType": "productHome"
-            }
-          ],
+          "offerMappings": null,
           "price": {
             "totalPrice": {
               "discountPrice": 1999,
