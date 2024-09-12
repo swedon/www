@@ -434,166 +434,6 @@
           "promotions": null
         },
         {
-          "title": "Football Manager 2024",
-          "id": "d0ec3758eb4b4224a2037cd438d51cc1",
-          "namespace": "610a546d4e204215a0b9a1c8a382bacb",
-          "description": "Football Manager 2024",
-          "effectiveDate": "2023-11-06T16:00:00.000Z",
-          "offerType": "BASE_GAME",
-          "expiryDate": null,
-          "viewableDate": "2023-11-06T16:00:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/offer/610a546d4e204215a0b9a1c8a382bacb/EGS_FootballManager2024_SportsInteractive_S2_1200x1600-d59e8b3545615cbc8a51d8acd316dd60"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/offer/610a546d4e204215a0b9a1c8a382bacb/EGS_FootballManager2024_SportsInteractive_S2_1200x1600-d59e8b3545615cbc8a51d8acd316dd60"
-            },
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/offer/610a546d4e204215a0b9a1c8a382bacb/EGS_FootballManager2024_SportsInteractive_S1_2560x1440-3f607ee3653065afb4ae73fcb5ff5e0c"
-            }
-          ],
-          "seller": {
-            "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
-            "name": "SEGA of Europe"
-          },
-          "productSlug": null,
-          "urlSlug": "football-manager-2024",
-          "url": null,
-          "items": [
-            {
-              "id": "6768d5d6109b4ffebbf854001494a033",
-              "namespace": "610a546d4e204215a0b9a1c8a382bacb"
-            }
-          ],
-          "customAttributes": [],
-          "categories": [
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "games/edition"
-            },
-            {
-              "path": "games/edition/base"
-            },
-            {
-              "path": "applications"
-            }
-          ],
-          "tags": [
-            {
-              "id": "21122"
-            },
-            {
-              "id": "1188"
-            },
-            {
-              "id": "19847"
-            },
-            {
-              "id": "21127"
-            },
-            {
-              "id": "9547"
-            },
-            {
-              "id": "1393"
-            },
-            {
-              "id": "21138"
-            },
-            {
-              "id": "1203"
-            },
-            {
-              "id": "21139"
-            },
-            {
-              "id": "21140"
-            },
-            {
-              "id": "21141"
-            },
-            {
-              "id": "1370"
-            },
-            {
-              "id": "21146"
-            },
-            {
-              "id": "21149"
-            },
-            {
-              "id": "10719"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "football-manager-2024",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 5999,
-              "voucherDiscount": 0,
-              "discount": 5999,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$59.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": [
-                  {
-                    "id": "3d7e40a9891d4586bd91ac1ee50a8083",
-                    "endDate": "2024-09-12T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2024-09-05T15:00:00.000Z",
-                    "endDate": "2024-09-12T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
-        },
-        {
           "title": "Lost Castle: The Old Ones Awaken",
           "id": "4a88d0dc64114b20b67339c74543f859",
           "namespace": "ab29925a0a9a49598adba45d108ceb3e",
@@ -1157,182 +997,16 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 3999,
+              "discountPrice": 0,
               "originalPrice": 3999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 3999,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$39.99",
-                "discountPrice": "$39.99",
-                "intermediatePrice": "$39.99"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": []
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2024-09-12T15:00:00.000Z",
-                    "endDate": "2024-09-19T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "title": "Sniper Ghost Warrior Contracts",
-          "id": "20f88d53af6e4e59876ed82749db4ee5",
-          "namespace": "3196925cb7ea45c3a9c47118e52a820e",
-          "description": "Become the ultimate assassin in the most realistic modern warfare sniping game available. Engage in an immersive single-player campaign across large, open-ended maps. Tactical thinking, stealth approach and precision in execution of long shots required.",
-          "effectiveDate": "2024-09-05T15:00:00.000Z",
-          "offerType": "BASE_GAME",
-          "expiryDate": null,
-          "viewableDate": "2024-08-29T15:00:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-erbx1.png"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-1uy1h.png"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-1uy1h.png"
-            }
-          ],
-          "seller": {
-            "id": "o-2w466jcy8qfum5kv5drctwrsft632w",
-            "name": "CI Games "
-          },
-          "productSlug": null,
-          "urlSlug": "a646b7f8bea44745a55e6a6085b6a9d7",
-          "url": null,
-          "items": [
-            {
-              "id": "5269c29b7e274e8bb8e00d64b7b1d984",
-              "namespace": "3196925cb7ea45c3a9c47118e52a820e"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "autoGeneratedPrice",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetViewableDate",
-              "value": "true"
-            },
-            {
-              "key": "isPromotionalContentUsed",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetPCReleaseDate",
-              "value": "false"
-            },
-            {
-              "key": "isBlockchainUsed",
-              "value": "false"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "games/edition"
-            },
-            {
-              "path": "games/edition/base"
-            }
-          ],
-          "tags": [
-            {
-              "id": "21138"
-            },
-            {
-              "id": "21894"
-            },
-            {
-              "id": "19847"
-            },
-            {
-              "id": "21129"
-            },
-            {
-              "id": "1210"
-            },
-            {
-              "id": "1370"
-            },
-            {
-              "id": "9547"
-            },
-            {
-              "id": "1084"
-            },
-            {
-              "id": "21149"
-            },
-            {
-              "id": "1294"
-            },
-            {
-              "id": "21119"
-            },
-            {
-              "id": "21135"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "sniper-ghost-warrior-contracts-c772b9",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [
-            {
-              "pageSlug": "sniper-ghost-warrior-contracts-c772b9",
-              "pageType": "productHome"
-            }
-          ],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 2999,
-              "voucherDiscount": 0,
-              "discount": 2999,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$29.99",
                 "discountPrice": "0",
                 "intermediatePrice": "0"
               }
@@ -1341,8 +1015,8 @@
               {
                 "appliedRules": [
                   {
-                    "id": "d2f37f467ede4476b7d58b49dbf2f9e2",
-                    "endDate": "2024-09-12T15:00:00.000Z",
+                    "id": "cf8c2a31f19e422b9e42a1d51724a9ca",
+                    "endDate": "2024-09-19T15:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE"
                     }
@@ -1356,8 +1030,8 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2024-09-05T15:00:00.000Z",
-                    "endDate": "2024-09-12T15:00:00.000Z",
+                    "startDate": "2024-09-12T15:00:00.000Z",
+                    "endDate": "2024-09-19T15:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 0
@@ -1476,29 +1150,36 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 2499,
+              "discountPrice": 0,
               "originalPrice": 2499,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 2499,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$24.99",
-                "discountPrice": "$24.99",
-                "intermediatePrice": "$24.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "11231967a5a344b2855a7d9363d682e2",
+                    "endDate": "2024-09-19T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -1511,13 +1192,14 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         }
       ],
       "paging": {
         "count": 1000,
-        "total": 10
+        "total": 8
       }
     }
   }
