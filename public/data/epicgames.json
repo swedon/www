@@ -403,7 +403,12 @@
               }
             ]
           },
-          "offerMappings": null,
+          "offerMappings": [
+            {
+              "pageSlug": "model-builder-complete-edition-f9b456",
+              "pageType": "productHome"
+            }
+          ],
           "price": {
             "totalPrice": {
               "discountPrice": 1999,
@@ -561,7 +566,12 @@
               }
             ]
           },
-          "offerMappings": null,
+          "offerMappings": [
+            {
+              "pageSlug": "lost-castle-lost-castle-the-old-ones-awaken-db1545",
+              "pageType": "offer"
+            }
+          ],
           "price": {
             "totalPrice": {
               "discountPrice": 399,
