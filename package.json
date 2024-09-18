@@ -11,7 +11,7 @@
   "dependencies": {
     "@headlessui/react": "^2.1.8",
     "@heroicons/react": "^2.1.5",
-    "@next/third-parties": "^14.2.11",
+    "@next/third-parties": "^14.2.12",
     "@tsparticles/all": "3.1.0",
     "@tsparticles/basic": "3.1.0",
     "@tsparticles/configs": "3.1.0",
