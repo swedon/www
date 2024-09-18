@@ -988,7 +988,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "super-crazy-rhythm-castle-e3b464",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
