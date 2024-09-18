@@ -266,7 +266,7 @@
               }
             ]
           },
-          "offerMappings": [],
+          "offerMappings": null,
           "price": {
             "totalPrice": {
               "discountPrice": 2499,
@@ -403,12 +403,7 @@
               }
             ]
           },
-          "offerMappings": [
-            {
-              "pageSlug": "model-builder-complete-edition-f9b456",
-              "pageType": "productHome"
-            }
-          ],
+          "offerMappings": null,
           "price": {
             "totalPrice": {
               "discountPrice": 1999,
