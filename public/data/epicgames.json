@@ -266,7 +266,7 @@
               }
             ]
           },
-          "offerMappings": null,
+          "offerMappings": [],
           "price": {
             "totalPrice": {
               "discountPrice": 2499,
