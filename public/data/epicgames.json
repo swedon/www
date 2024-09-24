@@ -731,36 +731,7 @@
               "pageType": "offer"
             }
           ],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 199,
-              "originalPrice": 399,
-              "voucherDiscount": 0,
-              "discount": 200,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$3.99",
-                "discountPrice": "$1.99",
-                "intermediatePrice": "$1.99"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": [
-                  {
-                    "id": "fff3b4b8612f4cdbae643dea68c589af",
-                    "endDate": "2024-10-03T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
-              }
-            ]
-          },
+          "price": null,
           "promotions": {
             "promotionalOffers": [
               {
