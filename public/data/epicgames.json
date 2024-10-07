@@ -89,7 +89,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "bear-and-breakfast-77c209",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
