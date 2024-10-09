@@ -132,7 +132,23 @@
               }
             ]
           },
-          "promotions": null
+          "promotions": {
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-10-03T15:00:00.000Z",
+                    "endDate": "2024-10-10T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": []
+          }
         },
         {
           "title": "Model Builder: Complete Edition",
@@ -678,7 +694,12 @@
               }
             ]
           },
-          "offerMappings": null,
+          "offerMappings": [
+            {
+              "pageSlug": "cat-quest-ii-9dbefc",
+              "pageType": "productHome"
+            }
+          ],
           "price": {
             "totalPrice": {
               "discountPrice": 1499,
