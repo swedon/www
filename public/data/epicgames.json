@@ -150,8 +150,8 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2024-12-12T16:00:00.000Z",
-                    "endDate": "2025-01-09T16:00:00.000Z",
+                    "startDate": "2024-10-18T15:00:00.000Z",
+                    "endDate": "2024-11-01T15:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 20
@@ -166,8 +166,8 @@
                     }
                   },
                   {
-                    "startDate": "2024-10-18T15:00:00.000Z",
-                    "endDate": "2024-11-01T15:00:00.000Z",
+                    "startDate": "2024-12-12T16:00:00.000Z",
+                    "endDate": "2025-01-09T16:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 20
@@ -296,19 +296,19 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2024-10-17T15:00:00.000Z",
-                    "endDate": "2024-10-24T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  },
-                  {
                     "startDate": "2024-10-04T07:00:00.000Z",
                     "endDate": "2024-10-18T23:59:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 57
+                    }
+                  },
+                  {
+                    "startDate": "2024-10-17T15:00:00.000Z",
+                    "endDate": "2024-10-24T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
                     }
                   }
                 ]
