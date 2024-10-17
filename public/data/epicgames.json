@@ -150,14 +150,6 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2024-12-12T16:00:00.000Z",
-                    "endDate": "2025-01-09T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 20
-                    }
-                  },
-                  {
                     "startDate": "2024-10-18T15:00:00.000Z",
                     "endDate": "2024-11-01T15:00:00.000Z",
                     "discountSetting": {
@@ -171,6 +163,14 @@
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 0
+                    }
+                  },
+                  {
+                    "startDate": "2024-12-12T16:00:00.000Z",
+                    "endDate": "2025-01-09T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 20
                     }
                   }
                 ]
@@ -263,26 +263,26 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1139,
+              "discountPrice": 0,
               "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 860,
+              "discount": 1999,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "$11.39",
-                "intermediatePrice": "$11.39"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
                 "appliedRules": [
                   {
-                    "id": "51196de4f881460298e7355ff6961f1c",
-                    "endDate": "2024-10-18T23:59:00.000Z",
+                    "id": "54a6345b6e4444cb8e923a82a9727df5",
+                    "endDate": "2024-10-24T15:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE"
                     }
@@ -302,13 +302,7 @@
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 57
                     }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": [
-              {
-                "promotionalOffers": [
+                  },
                   {
                     "startDate": "2024-10-17T15:00:00.000Z",
                     "endDate": "2024-10-24T15:00:00.000Z",
@@ -319,7 +313,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -561,51 +556,27 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 0,
+              "discountPrice": 799,
               "originalPrice": 799,
               "voucherDiscount": 0,
-              "discount": 799,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$7.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
+                "discountPrice": "$7.99",
+                "intermediatePrice": "$7.99"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "22f806418cfd4c62890ff0ea5accb54e",
-                    "endDate": "2024-10-17T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2024-10-10T15:00:00.000Z",
-                    "endDate": "2024-10-17T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         },
         {
           "title": "Invincible Presents: Atom Eve",
@@ -716,28 +687,49 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 999,
+              "discountPrice": 0,
               "originalPrice": 999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 999,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$9.99",
-                "discountPrice": "$9.99",
-                "intermediatePrice": "$9.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "38cb302f051e4d5fbf57da94c376de98",
+                    "endDate": "2024-10-24T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-10-17T15:00:00.000Z",
+                    "endDate": "2024-10-24T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ],
             "upcomingPromotionalOffers": [
               {
                 "promotionalOffers": [
@@ -747,14 +739,6 @@
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 30
-                    }
-                  },
-                  {
-                    "startDate": "2024-10-17T15:00:00.000Z",
-                    "endDate": "2024-10-24T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
                     }
                   }
                 ]
@@ -1171,173 +1155,11 @@
             ]
           },
           "promotions": null
-        },
-        {
-          "title": "Empyrion - Galactic Survival",
-          "id": "5d79a38c99e9432f8dec6288a17595ab",
-          "namespace": "edd938a6d7ec4a55ab82bba8f8dd5b22",
-          "description": "Build and explore in a true space sandbox survival adventure. Construct mighty capital vessels, sprawling planetary settlements, and vast space stations in your galactic journey to discover the mysteries of Empyrion",
-          "effectiveDate": "2024-10-10T15:00:00.000Z",
-          "offerType": "BASE_GAME",
-          "expiryDate": null,
-          "viewableDate": "2024-10-03T14:00:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/spt-assets/25da1d05381345f6b50cca947a2fc2fc/empyrion--galactic-survival-1fmc8.jpg"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/spt-assets/25da1d05381345f6b50cca947a2fc2fc/empyrion--galactic-survival-1r2cw.jpg"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/spt-assets/25da1d05381345f6b50cca947a2fc2fc/empyrion--galactic-survival-1r2cw.jpg"
-            }
-          ],
-          "seller": {
-            "id": "o-tshmnaljr77yqheulm5xx6dkrhgb88",
-            "name": "Eleon Game Studios SA"
-          },
-          "productSlug": null,
-          "urlSlug": "e29128ab3c6b4cf29e968da395dd5ee8",
-          "url": null,
-          "items": [
-            {
-              "id": "8e58f35a08534f058bf2ce3f5defc1cc",
-              "namespace": "edd938a6d7ec4a55ab82bba8f8dd5b22"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "autoGeneratedPrice",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetViewableDate",
-              "value": "true"
-            },
-            {
-              "key": "isPromotionalContentUsed",
-              "value": "null"
-            },
-            {
-              "key": "isManuallySetPCReleaseDate",
-              "value": "true"
-            },
-            {
-              "key": "isBlockchainUsed",
-              "value": "false"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "games/edition"
-            },
-            {
-              "path": "games/edition/base"
-            }
-          ],
-          "tags": [
-            {
-              "id": "1264"
-            },
-            {
-              "id": "29088"
-            },
-            {
-              "id": "1121"
-            },
-            {
-              "id": "1080"
-            },
-            {
-              "id": "1370"
-            },
-            {
-              "id": "1307"
-            },
-            {
-              "id": "9547"
-            },
-            {
-              "id": "1183"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "empyrion-galactic-survival-fbd99f",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [
-            {
-              "pageSlug": "empyrion-galactic-survival-fbd99f",
-              "pageType": "productHome"
-            }
-          ],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 1999,
-              "voucherDiscount": 0,
-              "discount": 1999,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$19.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": [
-                  {
-                    "id": "22f49c2780b04e40bda0d8d252279bbe",
-                    "endDate": "2024-10-17T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2024-10-10T15:00:00.000Z",
-                    "endDate": "2024-10-17T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
         }
       ],
       "paging": {
         "count": 1000,
-        "total": 9
+        "total": 8
       }
     }
   }
