@@ -124,39 +124,38 @@
           "offerMappings": [],
           "price": {
             "totalPrice": {
-              "discountPrice": 2499,
+              "discountPrice": 499,
               "originalPrice": 2499,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 2000,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$24.99",
-                "discountPrice": "$24.99",
-                "intermediatePrice": "$24.99"
+                "discountPrice": "$4.99",
+                "intermediatePrice": "$4.99"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "4487d96faa194c0687dc91dad5e34fa9",
+                    "endDate": "2024-11-01T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
-                  {
-                    "startDate": "2024-12-12T16:00:00.000Z",
-                    "endDate": "2025-01-09T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 20
-                    }
-                  },
                   {
                     "startDate": "2024-10-18T15:00:00.000Z",
                     "endDate": "2024-11-01T15:00:00.000Z",
@@ -164,13 +163,27 @@
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 20
                     }
-                  },
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
                   {
                     "startDate": "2024-10-24T15:00:00.000Z",
                     "endDate": "2024-10-31T15:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 0
+                    }
+                  },
+                  {
+                    "startDate": "2024-12-12T16:00:00.000Z",
+                    "endDate": "2025-01-09T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 20
                     }
                   }
                 ]
