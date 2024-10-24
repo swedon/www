@@ -323,6 +323,170 @@
           }
         },
         {
+          "title": "Ghostwire: Tokyo",
+          "id": "53a6356d1f4945e58d8c8e9f511c3c9d",
+          "namespace": "a93cd6111251461c953776a0c4ea4d80",
+          "description": "Tokyo's population has vanished, and deadly supernatural forces prowl the streets. Use an arsenal of elemental abilities to unravel the truth behind the disappearance and save Tokyo. ",
+          "effectiveDate": "2022-03-25T04:00:00.000Z",
+          "offerType": "BASE_GAME",
+          "expiryDate": null,
+          "viewableDate": "2022-03-25T04:00:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "CodeRedemption_340x440",
+              "url": "https://cdn1.epicgames.com/offer/a93cd6111251461c953776a0c4ea4d80/EGS_GhostwireTokyoTall_1200x1600-7b8a36d1dfe782ed625e6c6bba487df9"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/offer/a93cd6111251461c953776a0c4ea4d80/EGS_GhostwireTokyoTall_1200x1600-7b8a36d1dfe782ed625e6c6bba487df9"
+            },
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/offer/a93cd6111251461c953776a0c4ea4d80/EGS_GhostwireTokyoWide_2560x1440-4bc1a83c819408d33e29e61f1a9d66e4"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/offer/a93cd6111251461c953776a0c4ea4d80/EGS_GhostwireTokyoTall_1200x1600-7b8a36d1dfe782ed625e6c6bba487df9"
+            }
+          ],
+          "seller": {
+            "id": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+            "name": "Bethesda Softworks LLC"
+          },
+          "productSlug": "ghostwire-tokyo",
+          "urlSlug": "ghostwire-tokyo",
+          "url": null,
+          "items": [
+            {
+              "id": "38a885dd0c194eb1ad7a6009bbae223f",
+              "namespace": "a93cd6111251461c953776a0c4ea4d80"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "com.epicgames.app.productSlug",
+              "value": "ghostwire-tokyo"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "games/edition"
+            },
+            {
+              "path": "games/edition/base"
+            },
+            {
+              "path": "applications"
+            }
+          ],
+          "tags": [
+            {
+              "id": "1216"
+            },
+            {
+              "id": "21122"
+            },
+            {
+              "id": "1188"
+            },
+            {
+              "id": "21894"
+            },
+            {
+              "id": "21127"
+            },
+            {
+              "id": "9547"
+            },
+            {
+              "id": "21138"
+            },
+            {
+              "id": "21139"
+            },
+            {
+              "id": "21140"
+            },
+            {
+              "id": "21109"
+            },
+            {
+              "id": "21141"
+            },
+            {
+              "id": "1336"
+            },
+            {
+              "id": "1370"
+            },
+            {
+              "id": "1117"
+            },
+            {
+              "id": "21149"
+            },
+            {
+              "id": "21119"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "ghostwire-tokyo",
+                "pageType": "productHome"
+              }
+            ]
+          },
+          "offerMappings": [],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 5999,
+              "originalPrice": 5999,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$59.99",
+                "discountPrice": "$59.99",
+                "intermediatePrice": "$59.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-10-31T15:00:00.000Z",
+                    "endDate": "2024-11-07T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
           "title": "Model Builder: Complete Edition",
           "id": "d3e5b556640144bfa5de2d5d3b283d68",
           "namespace": "23499f64e5304139b514c3e674c5c0d6",
@@ -1029,7 +1193,7 @@
       ],
       "paging": {
         "count": 1000,
-        "total": 7
+        "total": 8
       }
     }
   }
