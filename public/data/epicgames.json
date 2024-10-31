@@ -482,6 +482,184 @@
           "promotions": null
         },
         {
+          "title": "Deceive Inc.",
+          "id": "327e2f6dbe2b4859b3e1ba4f69dff5c2",
+          "namespace": "eca9a86adffa4605b8250d383fc01098",
+          "description": "Go undercover as the world’s greatest spies in this multiplayer game of subterfuge. Disguise as anyone, deploy high-tech gadgets or neutralize the competition. As long as you extract with the objective, no trick is too dirty when you work for DECEIVE INC.",
+          "effectiveDate": "2023-03-21T15:00:00.000Z",
+          "offerType": "BASE_GAME",
+          "expiryDate": null,
+          "viewableDate": "2023-03-21T15:00:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/offer/eca9a86adffa4605b8250d383fc01098/EGS_DeceiveInc_SweetBanditsStudios_S2_1200x1600-7b92243bc46b5d69987132bd4b3e8309"
+            },
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/offer/eca9a86adffa4605b8250d383fc01098/EGS_DeceiveInc_SweetBanditsStudios_S1_2560x1440-3a1e885fd642564a44875bf005d8ffb3"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/offer/eca9a86adffa4605b8250d383fc01098/EGS_DeceiveInc_SweetBanditsStudios_S2_1200x1600-7b92243bc46b5d69987132bd4b3e8309"
+            }
+          ],
+          "seller": {
+            "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+            "name": "Tripwire Interactive"
+          },
+          "productSlug": "deceive-inc",
+          "urlSlug": "deceive-inc",
+          "url": null,
+          "items": [
+            {
+              "id": "bae29d08beae43ef8e6674702d25573f",
+              "namespace": "eca9a86adffa4605b8250d383fc01098"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "com.epicgames.app.productSlug",
+              "value": "deceive-inc"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "games/edition"
+            },
+            {
+              "path": "games/edition/base"
+            },
+            {
+              "path": "applications"
+            }
+          ],
+          "tags": [
+            {
+              "id": "21122"
+            },
+            {
+              "id": "18051"
+            },
+            {
+              "id": "19847"
+            },
+            {
+              "id": "21129"
+            },
+            {
+              "id": "9547"
+            },
+            {
+              "id": "9549"
+            },
+            {
+              "id": "21136"
+            },
+            {
+              "id": "21138"
+            },
+            {
+              "id": "1203"
+            },
+            {
+              "id": "1299"
+            },
+            {
+              "id": "21139"
+            },
+            {
+              "id": "21141"
+            },
+            {
+              "id": "22776"
+            },
+            {
+              "id": "1210"
+            },
+            {
+              "id": "1115"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "deceive-inc",
+                "pageType": "productHome"
+              }
+            ]
+          },
+          "offerMappings": [],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 799,
+              "originalPrice": 1999,
+              "voucherDiscount": 0,
+              "discount": 1200,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$19.99",
+                "discountPrice": "$7.99",
+                "intermediatePrice": "$7.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": [
+                  {
+                    "id": "4fb6972f1e34462d8b3ded20c448d7c1",
+                    "endDate": "2024-11-01T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-10-18T15:00:00.000Z",
+                    "endDate": "2024-11-01T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 40
+                    }
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-11-07T16:00:00.000Z",
+                    "endDate": "2024-11-14T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
           "title": "Lost Castle: The Old Ones Awaken",
           "id": "4a88d0dc64114b20b67339c74543f859",
           "namespace": "ab29925a0a9a49598adba45d108ceb3e",
@@ -1032,7 +1210,7 @@
       ],
       "paging": {
         "count": 1000,
-        "total": 7
+        "total": 8
       }
     }
   }
