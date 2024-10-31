@@ -3,195 +3,6 @@
     "searchStore": {
       "elements": [
         {
-          "title": "Moving Out",
-          "id": "0a8b32256f374cf4998c3ecf44c31db9",
-          "namespace": "f919a1262081444fb28f0fdef68d6b14",
-          "description": "Moving Out is a ridiculous physics-based moving simulator that brings new meaning to \"couch co-op\"! As a newly certified Furniture Arrangement & Relocation Technician, you’ll take on moving jobs all across the busy town of Packmore.",
-          "effectiveDate": "2021-12-28T16:00:00.000Z",
-          "offerType": "BASE_GAME",
-          "expiryDate": null,
-          "viewableDate": "2021-12-28T16:00:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "DieselStoreFrontTall",
-              "url": "https://cdn1.epicgames.com/offer/f919a1262081444fb28f0fdef68d6b14/EGS_MovingOut_SMGStudioDevmGames_S2_1200x1600-642277510bc38c789cef83e59423e580"
-            },
-            {
-              "type": "DieselStoreFrontWide",
-              "url": "https://cdn1.epicgames.com/offer/f919a1262081444fb28f0fdef68d6b14/EGS_MovingOut_SMGStudioDevmGames_S1_2560x1440-86272cbdeb4cc4b39f0760ab720ac585"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/offer/f919a1262081444fb28f0fdef68d6b14/EGS_MovingOut_SMGStudioDevmGames_S2_1200x1600-642277510bc38c789cef83e59423e580"
-            },
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/offer/f919a1262081444fb28f0fdef68d6b14/EGS_MovingOut_SMGStudioDevmGames_S1_2560x1440-86272cbdeb4cc4b39f0760ab720ac585"
-            },
-            {
-              "type": "CodeRedemption_340x440",
-              "url": "https://cdn1.epicgames.com/offer/f919a1262081444fb28f0fdef68d6b14/EGS_MovingOut_SMGStudioDevmGames_S2_1200x1600-642277510bc38c789cef83e59423e580"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/offer/f919a1262081444fb28f0fdef68d6b14/EGS_MovingOut_SMGStudioDevmGames_S2_1200x1600-642277510bc38c789cef83e59423e580"
-            }
-          ],
-          "seller": {
-            "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
-            "name": "Team17 Digital Ltd"
-          },
-          "productSlug": "moving-out",
-          "urlSlug": "moving-out",
-          "url": null,
-          "items": [
-            {
-              "id": "e54d8bf3a451400189159b03231794f7",
-              "namespace": "f919a1262081444fb28f0fdef68d6b14"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "com.epicgames.app.blacklist",
-              "value": "[]"
-            },
-            {
-              "key": "publisherName",
-              "value": "Team17 Digital Ltd"
-            },
-            {
-              "key": "developerName",
-              "value": "Team17 Digital Ltd"
-            },
-            {
-              "key": "com.epicgames.app.productSlug",
-              "value": "moving-out"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "games/edition"
-            },
-            {
-              "path": "games/edition/base"
-            },
-            {
-              "path": "applications"
-            }
-          ],
-          "tags": [
-            {
-              "id": "1264"
-            },
-            {
-              "id": "1296"
-            },
-            {
-              "id": "18051"
-            },
-            {
-              "id": "1110"
-            },
-            {
-              "id": "21894"
-            },
-            {
-              "id": "1370"
-            },
-            {
-              "id": "9547"
-            },
-            {
-              "id": "21119"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "moving-out",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 2499,
-              "voucherDiscount": 0,
-              "discount": 2499,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$24.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": [
-                  {
-                    "id": "5b0aa013f0264096b0154f72766a5170",
-                    "endDate": "2024-10-31T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2024-10-24T15:00:00.000Z",
-                    "endDate": "2024-10-31T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  },
-                  {
-                    "startDate": "2024-10-18T15:00:00.000Z",
-                    "endDate": "2024-11-01T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 20
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2024-12-12T16:00:00.000Z",
-                    "endDate": "2025-01-09T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 20
-                    }
-                  }
-                ]
-              }
-            ]
-          }
-        },
-        {
           "title": "Ghostwire: Tokyo",
           "id": "53a6356d1f4945e58d8c8e9f511c3c9d",
           "namespace": "a93cd6111251461c953776a0c4ea4d80",
@@ -317,29 +128,36 @@
           "offerMappings": [],
           "price": {
             "totalPrice": {
-              "discountPrice": 5999,
+              "discountPrice": 0,
               "originalPrice": 5999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 5999,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$59.99",
-                "discountPrice": "$59.99",
-                "intermediatePrice": "$59.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "65655a2cad1a4100bed364e2893b00f7",
+                    "endDate": "2024-11-07T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -352,7 +170,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -919,29 +738,36 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1999,
+              "discountPrice": 0,
               "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1999,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "d0f26ed82d3540188441563792dfc653",
+                    "endDate": "2024-11-07T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -954,7 +780,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -1206,6 +1033,172 @@
             ]
           },
           "promotions": null
+        },
+        {
+          "title": "Apex Legends™: Ash Free Unlock Bundle",
+          "id": "b3b5fa8919d0460996a580892993a5cf",
+          "namespace": "f9f24f4a353b451297e31f5db9cc54f2",
+          "description": "Grab the Ash Free Unlock Bundle and drop straight into Apex Legends: From The Rift,  for energetic mayhem and fun.\nThe bundle includes: Ash unlocked and Ash 'Burning Chrome' Epic Skin",
+          "effectiveDate": "2024-11-07T16:00:00.000Z",
+          "offerType": "ADD_ON",
+          "expiryDate": "2024-11-14T16:00:00.000Z",
+          "viewableDate": "2024-10-31T15:00:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-1szf2.jpg"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-1c97o.jpg"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-1c97o.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-18rml.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-y21ft.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-1ywcs.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-hzwal.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-ew9u0.jpg"
+            }
+          ],
+          "seller": {
+            "id": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+            "name": "Electronic Arts"
+          },
+          "productSlug": null,
+          "urlSlug": "season-23-epic-content-offer",
+          "url": null,
+          "items": [
+            {
+              "id": "8e3788621b9a447883465e7226bc8580",
+              "namespace": "f9f24f4a353b451297e31f5db9cc54f2"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "isManuallySetRefundableType",
+              "value": "true"
+            },
+            {
+              "key": "autoGeneratedPrice",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetViewableDate",
+              "value": "true"
+            },
+            {
+              "key": "isPromotionalContentUsed",
+              "value": "null"
+            },
+            {
+              "key": "isManuallySetPCReleaseDate",
+              "value": "true"
+            },
+            {
+              "key": "isBlockchainUsed",
+              "value": "false"
+            }
+          ],
+          "categories": [
+            {
+              "path": "addons"
+            },
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "addons/durable"
+            }
+          ],
+          "tags": [
+            {
+              "id": "1216"
+            },
+            {
+              "id": "29088"
+            },
+            {
+              "id": "1299"
+            },
+            {
+              "id": "19847"
+            },
+            {
+              "id": "9547"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "apex-legends-006cde",
+                "pageType": "productHome"
+              }
+            ]
+          },
+          "offerMappings": [
+            {
+              "pageSlug": "apex-legends-season-23-epic-content-offer-ecf761",
+              "pageType": "offer"
+            }
+          ],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 0,
+              "originalPrice": 0,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "0",
+                "discountPrice": "0",
+                "intermediatePrice": "0"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-11-07T16:00:00.000Z",
+                    "endDate": "2024-11-14T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
         }
       ],
       "paging": {
