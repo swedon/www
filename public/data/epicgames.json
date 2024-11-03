@@ -436,23 +436,7 @@
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2024-11-07T16:00:00.000Z",
-                    "endDate": "2024-11-14T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ]
-          }
+          "promotions": null
         },
         {
           "title": "Lost Castle: The Old Ones Awaken",
