@@ -554,9 +554,6 @@
               "id": "1265"
             },
             {
-              "id": "39909"
-            },
-            {
               "id": "1367"
             },
             {
@@ -588,51 +585,27 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 199,
+              "discountPrice": 399,
               "originalPrice": 399,
               "voucherDiscount": 0,
-              "discount": 200,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$3.99",
-                "discountPrice": "$1.99",
-                "intermediatePrice": "$1.99"
+                "discountPrice": "$3.99",
+                "intermediatePrice": "$3.99"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "ebb8dba33aff4f8fa6f1f5118e8fe953",
-                    "endDate": "2024-12-03T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2024-11-19T16:00:00.000Z",
-                    "endDate": "2024-12-03T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 50
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         },
         {
           "title": "Cat Quest II",
