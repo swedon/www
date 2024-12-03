@@ -427,19 +427,19 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2024-12-05T16:00:00.000Z",
-                    "endDate": "2024-12-12T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  },
-                  {
                     "startDate": "2025-01-04T16:00:00.000Z",
                     "endDate": "2025-01-09T16:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 50
+                    }
+                  },
+                  {
+                    "startDate": "2024-12-05T16:00:00.000Z",
+                    "endDate": "2024-12-12T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
                     }
                   }
                 ]
