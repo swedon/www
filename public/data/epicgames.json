@@ -128,7 +128,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "lego-star-wars-the-skywalker-saga",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [],
           "price": {
