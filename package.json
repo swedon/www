@@ -105,7 +105,7 @@
     "@tsparticles/updater-wobble": "3.1.0",
     "@types/node": "22.10.1",
     "@types/react": "19.0.1",
-    "@types/react-dom": "19.0.0",
+    "@types/react-dom": "19.0.1",
     "animate.css": "^4.1.1",
     "autoprefixer": "^10.4.20",
     "axios": "^1.7.9",
