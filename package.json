@@ -103,7 +103,7 @@
     "@tsparticles/updater-tilt": "3.1.0",
     "@tsparticles/updater-twinkle": "3.1.0",
     "@tsparticles/updater-wobble": "3.1.0",
-    "@types/node": "22.10.1",
+    "@types/node": "22.10.2",
     "@types/react": "19.0.1",
     "@types/react-dom": "19.0.2",
     "animate.css": "^4.1.1",
