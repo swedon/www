@@ -104,7 +104,28 @@
               "pageType": "productHome"
             }
           ],
-          "price": null,
+          "price": {
+            "totalPrice": {
+              "discountPrice": 1999,
+              "originalPrice": 1999,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$19.99",
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
           "promotions": null
         },
         {
@@ -243,7 +264,28 @@
               "pageType": "offer"
             }
           ],
-          "price": null,
+          "price": {
+            "totalPrice": {
+              "discountPrice": 399,
+              "originalPrice": 399,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$3.99",
+                "discountPrice": "$3.99",
+                "intermediatePrice": "$3.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
           "promotions": null
         },
         {
@@ -362,8 +404,53 @@
               "pageType": "productHome"
             }
           ],
-          "price": null,
-          "promotions": null
+          "price": {
+            "totalPrice": {
+              "discountPrice": 374,
+              "originalPrice": 1499,
+              "voucherDiscount": 0,
+              "discount": 1125,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$14.99",
+                "discountPrice": "$3.74",
+                "intermediatePrice": "$3.74"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": [
+                  {
+                    "id": "f1e934210af04486b1ecf48cb839466d",
+                    "endDate": "2025-01-09T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-12-12T16:00:00.000Z",
+                    "endDate": "2025-01-09T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 25
+                    }
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": []
+          }
         },
         {
           "title": "LISA: The Definitive Edition",
@@ -454,8 +541,53 @@
             "mappings": null
           },
           "offerMappings": null,
-          "price": null,
-          "promotions": null
+          "price": {
+            "totalPrice": {
+              "discountPrice": 1749,
+              "originalPrice": 2499,
+              "voucherDiscount": 0,
+              "discount": 750,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$24.99",
+                "discountPrice": "$17.49",
+                "intermediatePrice": "$17.49"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": [
+                  {
+                    "id": "659780d2c03f45e5bd2bb9c65e3af6e8",
+                    "endDate": "2025-01-10T04:59:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-12-12T14:00:00.000Z",
+                    "endDate": "2025-01-10T04:59:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 70
+                    }
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": []
+          }
         },
         {
           "title": "The Lord of The Rings Return to Moria",
@@ -554,7 +686,23 @@
               }
             ]
           },
-          "promotions": null
+          "promotions": {
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-12-12T16:00:00.000Z",
+                    "endDate": "2024-12-19T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": []
+          }
         },
         {
           "title": "Mystery Game 2",
@@ -653,7 +801,23 @@
               }
             ]
           },
-          "promotions": null
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-12-19T16:00:00.000Z",
+                    "endDate": "2024-12-20T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
         }
       ],
       "paging": {
