@@ -286,7 +286,23 @@
               }
             ]
           },
-          "promotions": null
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-01-07T16:00:00.000Z",
+                    "endDate": "2025-01-14T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 50
+                    }
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "title": "Cat Quest II",
