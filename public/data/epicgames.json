@@ -606,121 +606,6 @@
           }
         },
         {
-          "title": "Vampire Survivors",
-          "id": "a5015ac15d8748f2a849cc6b51e9fcf9",
-          "namespace": "d5241c76f178492ea1540fce45616757",
-          "description": "Vampire Survivors",
-          "effectiveDate": "2024-12-19T16:00:00.000Z",
-          "offerType": "OTHERS",
-          "expiryDate": null,
-          "viewableDate": "2024-12-12T15:25:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": true,
-          "keyImages": [
-            {
-              "type": "DieselStoreFrontWide",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game2_1080x1920_1920x1080-995e42f6bcd7206113daf83bb6270c8c"
-            },
-            {
-              "type": "VaultClosed",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8"
-            }
-          ],
-          "seller": {
-            "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-            "name": "Epic Dev Test Account"
-          },
-          "productSlug": "vampire-survivors-f699a1",
-          "urlSlug": "mysterygame2",
-          "url": null,
-          "items": [
-            {
-              "id": "8341d7c7e4534db7848cc428aa4cbe5a",
-              "namespace": "d5241c76f178492ea1540fce45616757"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "com.epicgames.app.freegames.vault.close",
-              "value": "[]"
-            },
-            {
-              "key": "com.epicgames.app.blacklist",
-              "value": "[]"
-            },
-            {
-              "key": "com.epicgames.app.freegames.vault.slug",
-              "value": "sales-and-specials/holiday-sale"
-            },
-            {
-              "key": "com.epicgames.app.freegames.vault.open",
-              "value": "[]"
-            },
-            {
-              "key": "com.epicgames.app.productSlug",
-              "value": "vampire-survivors-f699a1"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames/vaulted"
-            },
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "applications"
-            }
-          ],
-          "tags": [],
-          "catalogNs": {
-            "mappings": []
-          },
-          "offerMappings": [],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 0,
-              "voucherDiscount": 0,
-              "discount": 0,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "0",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": []
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2024-12-19T16:00:00.000Z",
-                    "endDate": "2024-12-20T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
-        },
-        {
           "title": "Astrea Six Sided Oracles",
           "id": "862e2387886e41b9873d8462203763ed",
           "namespace": "d5241c76f178492ea1540fce45616757",
@@ -818,8 +703,7 @@
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -832,7 +716,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -953,7 +838,7 @@
       ],
       "paging": {
         "count": 1000,
-        "total": 7
+        "total": 6
       }
     }
   }
