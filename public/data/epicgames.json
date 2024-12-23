@@ -721,14 +721,129 @@
           }
         },
         {
-          "title": "Mystery Game 6",
+          "title": "Dark and Darker - Legendary Status",
           "id": "fa53d260ee9b4c7fa049b2721a9a7d31",
           "namespace": "d5241c76f178492ea1540fce45616757",
-          "description": "Mystery Game 6",
+          "description": "Dark and Darker - Legendary Status",
           "effectiveDate": "2024-12-23T16:00:00.000Z",
           "offerType": "OTHERS",
           "expiryDate": null,
           "viewableDate": "2024-12-22T15:25:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": true,
+          "keyImages": [
+            {
+              "type": "DieselStoreFrontWide",
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game6_1920x1080_1920x1080-a9761fce0451d8b9be7fa2e9892de753"
+            },
+            {
+              "type": "VaultClosed",
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8"
+            }
+          ],
+          "seller": {
+            "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+            "name": "Epic Dev Test Account"
+          },
+          "productSlug": "dark-and-darker-qa-dark-and-darker-legendary-status-a83d59",
+          "urlSlug": "mysterygame6",
+          "url": null,
+          "items": [
+            {
+              "id": "8341d7c7e4534db7848cc428aa4cbe5a",
+              "namespace": "d5241c76f178492ea1540fce45616757"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "com.epicgames.app.freegames.vault.close",
+              "value": "[]"
+            },
+            {
+              "key": "com.epicgames.app.blacklist",
+              "value": "[]"
+            },
+            {
+              "key": "com.epicgames.app.freegames.vault.slug",
+              "value": "sales-and-specials/holiday-sale"
+            },
+            {
+              "key": "com.epicgames.app.freegames.vault.open",
+              "value": "[]"
+            },
+            {
+              "key": "com.epicgames.app.productSlug",
+              "value": "dark-and-darker-qa-dark-and-darker-legendary-status-a83d59"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames/vaulted"
+            },
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "applications"
+            }
+          ],
+          "tags": [],
+          "catalogNs": {
+            "mappings": []
+          },
+          "offerMappings": [],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 0,
+              "originalPrice": 0,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "0",
+                "discountPrice": "0",
+                "intermediatePrice": "0"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-12-23T16:00:00.000Z",
+                    "endDate": "2024-12-24T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Mystery Game 7",
+          "id": "f956d90bd3ff4f6085a63584eba726e1",
+          "namespace": "d5241c76f178492ea1540fce45616757",
+          "description": "Mystery Game 7",
+          "effectiveDate": "2024-12-24T16:00:00.000Z",
+          "offerType": "OTHERS",
+          "expiryDate": null,
+          "viewableDate": "2024-12-23T15:25:00.000Z",
           "status": "ACTIVE",
           "isCodeRedemptionOnly": true,
           "keyImages": [
@@ -746,7 +861,7 @@
             "name": "Epic Dev Test Account"
           },
           "productSlug": "[]",
-          "urlSlug": "mysterygame6",
+          "urlSlug": "mysterygame7",
           "url": null,
           "items": [
             {
@@ -823,8 +938,8 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2024-12-23T16:00:00.000Z",
-                    "endDate": "2024-12-24T16:00:00.000Z",
+                    "startDate": "2024-12-24T16:00:00.000Z",
+                    "endDate": "2024-12-25T16:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 0
@@ -838,7 +953,7 @@
       ],
       "paging": {
         "count": 1000,
-        "total": 6
+        "total": 7
       }
     }
   }
