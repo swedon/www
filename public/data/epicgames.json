@@ -615,7 +615,7 @@
           "description": "HOT WHEELS UNLEASHED™",
           "effectiveDate": "2024-12-27T16:00:00.000Z",
           "offerType": "OTHERS",
-          "expiryDate": null,
+          "expiryDate": "2024-12-28T16:05:00.000Z",
           "viewableDate": "2024-12-26T15:25:00.000Z",
           "status": "ACTIVE",
           "isCodeRedemptionOnly": true,
@@ -666,12 +666,6 @@
           ],
           "categories": [
             {
-              "path": "freegames/vaulted"
-            },
-            {
-              "path": "freegames"
-            },
-            {
               "path": "games"
             },
             {
@@ -705,23 +699,7 @@
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2024-12-27T16:00:00.000Z",
-                    "endDate": "2024-12-28T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         },
         {
           "title": "Kill Knight",
@@ -821,8 +799,7 @@
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -835,7 +812,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
