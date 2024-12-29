@@ -724,14 +724,129 @@
           }
         },
         {
-          "title": "Mystery Game 12",
+          "title": "Orcs Must Die! 3",
           "id": "9859aa5e2b0f41cbaab06af348d33a1f",
           "namespace": "d5241c76f178492ea1540fce45616757",
-          "description": "Mystery Game 12",
+          "description": "Orcs Must Die! 3",
           "effectiveDate": "2024-12-29T16:00:00.000Z",
           "offerType": "OTHERS",
           "expiryDate": null,
           "viewableDate": "2024-12-28T15:25:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": true,
+          "keyImages": [
+            {
+              "type": "DieselStoreFrontWide",
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game12_1080x1920_1920x1080-56319729cf3c39fa405e21f05209cd86"
+            },
+            {
+              "type": "VaultClosed",
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8"
+            }
+          ],
+          "seller": {
+            "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+            "name": "Epic Dev Test Account"
+          },
+          "productSlug": "combo-a7e03a",
+          "urlSlug": "mysterygame12",
+          "url": null,
+          "items": [
+            {
+              "id": "8341d7c7e4534db7848cc428aa4cbe5a",
+              "namespace": "d5241c76f178492ea1540fce45616757"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "com.epicgames.app.freegames.vault.close",
+              "value": "[]"
+            },
+            {
+              "key": "com.epicgames.app.blacklist",
+              "value": "[]"
+            },
+            {
+              "key": "com.epicgames.app.freegames.vault.slug",
+              "value": "sales-and-specials/holiday-sale"
+            },
+            {
+              "key": "com.epicgames.app.freegames.vault.open",
+              "value": "[]"
+            },
+            {
+              "key": "com.epicgames.app.productSlug",
+              "value": "combo-a7e03a"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames/vaulted"
+            },
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "applications"
+            }
+          ],
+          "tags": [],
+          "catalogNs": {
+            "mappings": []
+          },
+          "offerMappings": [],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 0,
+              "originalPrice": 0,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "0",
+                "discountPrice": "0",
+                "intermediatePrice": "0"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2024-12-29T16:00:00.000Z",
+                    "endDate": "2024-12-30T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Mystery Game 13",
+          "id": "e114a5e98b504b2d9728a21577357af0",
+          "namespace": "d5241c76f178492ea1540fce45616757",
+          "description": "Mystery Game 13",
+          "effectiveDate": "2024-12-30T16:00:00.000Z",
+          "offerType": "OTHERS",
+          "expiryDate": null,
+          "viewableDate": "2024-12-29T15:25:00.000Z",
           "status": "ACTIVE",
           "isCodeRedemptionOnly": true,
           "keyImages": [
@@ -749,7 +864,7 @@
             "name": "Epic Dev Test Account"
           },
           "productSlug": "[]",
-          "urlSlug": "mysterygame12",
+          "urlSlug": "mysterygame13",
           "url": null,
           "items": [
             {
@@ -826,8 +941,8 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2024-12-29T16:00:00.000Z",
-                    "endDate": "2024-12-30T16:00:00.000Z",
+                    "startDate": "2024-12-30T16:00:00.000Z",
+                    "endDate": "2024-12-31T16:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 0
@@ -841,7 +956,7 @@
       ],
       "paging": {
         "count": 1000,
-        "total": 6
+        "total": 7
       }
     }
   }
