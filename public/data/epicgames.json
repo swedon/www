@@ -724,10 +724,10 @@
           }
         },
         {
-          "title": "Mystery Game 16",
+          "title": "Hell Let Loose",
           "id": "d30946927c894a6dad62a32faeece0d6",
           "namespace": "d5241c76f178492ea1540fce45616757",
-          "description": "Mystery Game 16",
+          "description": "Hell Let Loose",
           "effectiveDate": "2025-01-02T16:00:00.000Z",
           "offerType": "OTHERS",
           "expiryDate": null,
@@ -737,7 +737,7 @@
           "keyImages": [
             {
               "type": "DieselStoreFrontWide",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8"
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game16_1080x1920_1920x1080-bc3fb611db960a5c949a7d6ca5e36b5e"
             },
             {
               "type": "VaultClosed",
@@ -748,7 +748,7 @@
             "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
             "name": "Epic Dev Test Account"
           },
-          "productSlug": "[]",
+          "productSlug": "hell-let-loose-03f036",
           "urlSlug": "mysterygame16",
           "url": null,
           "items": [
@@ -776,7 +776,7 @@
             },
             {
               "key": "com.epicgames.app.productSlug",
-              "value": "[]"
+              "value": "hell-let-loose-03f036"
             }
           ],
           "categories": [
