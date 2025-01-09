@@ -592,51 +592,27 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 374,
+              "discountPrice": 1499,
               "originalPrice": 1499,
               "voucherDiscount": 0,
-              "discount": 1125,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$14.99",
-                "discountPrice": "$3.74",
-                "intermediatePrice": "$3.74"
+                "discountPrice": "$14.99",
+                "intermediatePrice": "$14.99"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "f1e934210af04486b1ecf48cb839466d",
-                    "endDate": "2025-01-09T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2024-12-12T16:00:00.000Z",
-                    "endDate": "2025-01-09T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 25
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         },
         {
           "title": "LISA: The Definitive Edition",
@@ -767,121 +743,6 @@
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 70
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
-        },
-        {
-          "title": "Hell Let Loose",
-          "id": "d30946927c894a6dad62a32faeece0d6",
-          "namespace": "d5241c76f178492ea1540fce45616757",
-          "description": "Hell Let Loose",
-          "effectiveDate": "2025-01-02T16:00:00.000Z",
-          "offerType": "OTHERS",
-          "expiryDate": null,
-          "viewableDate": "2025-01-01T15:25:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": true,
-          "keyImages": [
-            {
-              "type": "DieselStoreFrontWide",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game16_1080x1920_1920x1080-bc3fb611db960a5c949a7d6ca5e36b5e"
-            },
-            {
-              "type": "VaultClosed",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8"
-            }
-          ],
-          "seller": {
-            "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-            "name": "Epic Dev Test Account"
-          },
-          "productSlug": "hell-let-loose-03f036",
-          "urlSlug": "mysterygame16",
-          "url": null,
-          "items": [
-            {
-              "id": "8341d7c7e4534db7848cc428aa4cbe5a",
-              "namespace": "d5241c76f178492ea1540fce45616757"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "com.epicgames.app.freegames.vault.close",
-              "value": "[]"
-            },
-            {
-              "key": "com.epicgames.app.blacklist",
-              "value": "[]"
-            },
-            {
-              "key": "com.epicgames.app.freegames.vault.slug",
-              "value": "sales-and-specials/holiday-sale"
-            },
-            {
-              "key": "com.epicgames.app.freegames.vault.open",
-              "value": "[]"
-            },
-            {
-              "key": "com.epicgames.app.productSlug",
-              "value": "hell-let-loose-03f036"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames/vaulted"
-            },
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "applications"
-            }
-          ],
-          "tags": [],
-          "catalogNs": {
-            "mappings": []
-          },
-          "offerMappings": [],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 0,
-              "voucherDiscount": 0,
-              "discount": 0,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "0",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": []
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-01-02T16:00:00.000Z",
-                    "endDate": "2025-01-09T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
                     }
                   }
                 ]
@@ -1031,6 +892,9 @@
               "id": "1299"
             },
             {
+              "id": "19847"
+            },
+            {
               "id": "22776"
             },
             {
@@ -1068,29 +932,36 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1299,
+              "discountPrice": 0,
               "originalPrice": 1299,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1299,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$12.99",
-                "discountPrice": "$12.99",
-                "intermediatePrice": "$12.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "dabd71958d3c4a2f8356a2cdfb25bc03",
+                    "endDate": "2025-01-16T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -1103,13 +974,14 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         }
       ],
       "paging": {
         "count": 1000,
-        "total": 7
+        "total": 6
       }
     }
   }
