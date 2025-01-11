@@ -104,15 +104,59 @@
               "id": "1183"
             }
           ],
-          "catalogNs": null,
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "escape-academy-bfc2bf",
+                "pageType": "productHome"
+              }
+            ]
+          },
           "offerMappings": [
             {
               "pageSlug": "escape-academy-bfc2bf",
               "pageType": "productHome"
             }
           ],
-          "price": null,
-          "promotions": null
+          "price": {
+            "totalPrice": {
+              "discountPrice": 1999,
+              "originalPrice": 1999,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$19.99",
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-01-16T16:00:00.000Z",
+                    "endDate": "2025-01-23T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "title": "Model Builder: Complete Edition",
@@ -205,14 +249,42 @@
               "id": "21119"
             }
           ],
-          "catalogNs": null,
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "model-builder-complete-edition-f9b456",
+                "pageType": "productHome"
+              }
+            ]
+          },
           "offerMappings": [
             {
               "pageSlug": "model-builder-complete-edition-f9b456",
               "pageType": "productHome"
             }
           ],
-          "price": null,
+          "price": {
+            "totalPrice": {
+              "discountPrice": 1999,
+              "originalPrice": 1999,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$19.99",
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
           "promotions": null
         },
         {
@@ -340,15 +412,67 @@
               "id": "9549"
             }
           ],
-          "catalogNs": null,
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "lost-castle-abb2e2",
+                "pageType": "productHome"
+              }
+            ]
+          },
           "offerMappings": [
             {
               "pageSlug": "lost-castle-lost-castle-the-old-ones-awaken-db1545",
               "pageType": "offer"
             }
           ],
-          "price": null,
-          "promotions": null
+          "price": {
+            "totalPrice": {
+              "discountPrice": 199,
+              "originalPrice": 399,
+              "voucherDiscount": 0,
+              "discount": 200,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$3.99",
+                "discountPrice": "$1.99",
+                "intermediatePrice": "$1.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": [
+                  {
+                    "id": "ac299edb6adb42b38dadf9df9222c11b",
+                    "endDate": "2025-01-14T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-01-07T16:00:00.000Z",
+                    "endDate": "2025-01-14T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 50
+                    }
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": []
+          }
         },
         {
           "title": "Cat Quest II",
@@ -452,14 +576,42 @@
               "id": "21147"
             }
           ],
-          "catalogNs": null,
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "cat-quest-ii-9dbefc",
+                "pageType": "productHome"
+              }
+            ]
+          },
           "offerMappings": [
             {
               "pageSlug": "cat-quest-ii-9dbefc",
               "pageType": "productHome"
             }
           ],
-          "price": null,
+          "price": {
+            "totalPrice": {
+              "discountPrice": 1499,
+              "originalPrice": 1499,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$14.99",
+                "discountPrice": "$14.99",
+                "intermediatePrice": "$14.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
           "promotions": null
         },
         {
@@ -547,9 +699,32 @@
               "id": "1263"
             }
           ],
-          "catalogNs": null,
+          "catalogNs": {
+            "mappings": null
+          },
           "offerMappings": null,
-          "price": null,
+          "price": {
+            "totalPrice": {
+              "discountPrice": 2499,
+              "originalPrice": 2499,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$24.99",
+                "discountPrice": "$24.99",
+                "intermediatePrice": "$24.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
           "promotions": null
         },
         {
@@ -717,15 +892,67 @@
               "id": "10719"
             }
           ],
-          "catalogNs": null,
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "turmoil-26318a",
+                "pageType": "productHome"
+              }
+            ]
+          },
           "offerMappings": [
             {
               "pageSlug": "turmoil-26318a",
               "pageType": "productHome"
             }
           ],
-          "price": null,
-          "promotions": null
+          "price": {
+            "totalPrice": {
+              "discountPrice": 0,
+              "originalPrice": 1299,
+              "voucherDiscount": 0,
+              "discount": 1299,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$12.99",
+                "discountPrice": "0",
+                "intermediatePrice": "0"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": [
+                  {
+                    "id": "dabd71958d3c4a2f8356a2cdfb25bc03",
+                    "endDate": "2025-01-16T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-01-09T16:00:00.000Z",
+                    "endDate": "2025-01-16T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": []
+          }
         }
       ],
       "paging": {
