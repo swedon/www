@@ -151,8 +151,8 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2025-02-10T16:00:00.000Z",
-                    "endDate": "2025-02-24T16:00:00.000Z",
+                    "startDate": "2025-03-26T16:00:00.000Z",
+                    "endDate": "2025-04-09T15:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 60
@@ -167,8 +167,8 @@
                     }
                   },
                   {
-                    "startDate": "2025-03-26T16:00:00.000Z",
-                    "endDate": "2025-04-09T15:00:00.000Z",
+                    "startDate": "2025-02-10T16:00:00.000Z",
+                    "endDate": "2025-02-24T16:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 60
