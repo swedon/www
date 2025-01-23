@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-@import "~animate.css/animate.css";
+@import "animate.css";
 
 /* cyrillic-ext */
 @font-face {
