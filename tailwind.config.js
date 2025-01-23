@@ -8,10 +8,18 @@ module.exports = {
   ],
   theme: {
     extend: {
+      colors: {
+        dark: '#212529',
+        light: '#f8f9fa',
+        white: '#ffffff',
+      },
       scale: {
         '300': '3.0',
       },
     },
+  },
+  variants: {
+    extend: {},
   },
   plugins: [
     require('@tailwindcss/forms'),

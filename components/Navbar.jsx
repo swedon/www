@@ -86,11 +86,11 @@ const Navbar = ({ children }) => {
 						if (item.children) {
 							return (
 								<Popover className='relative' key={item.id}>
-									<Popover.Button className='flex items-center gap-x-1 text-lg font-semibold leading-6'>
+									<PopoverButton className='flex items-center gap-x-1 text-lg font-semibold leading-6'>
 										{item.icon && <item.icon className='h-5 w-5 flex-none text-gray-400 mr-1' aria-hidden='true' />}
 										{item.text}
 										<FaChevronDown className='h-5 w-5 flex-none text-gray-400' aria-hidden='true' />
-									</Popover.Button>
+									</PopoverButton>
 
 									<Transition
 										as={Fragment}
@@ -101,7 +101,7 @@ const Navbar = ({ children }) => {
 										leaveFrom='opacity-100 translate-y-0'
 										leaveTo='opacity-0 translate-y-1'
 									>
-										<Popover.Panel className='absolute -left-8 top-full z-10 mt-3 w-screen max-w-md overflow-hidden rounded-3xl shadow-lg shadow-gray-500/40 dark:shadow-white-500/40 ring-1 ring-gray-800/40 dark:ring-neutral-400/20 bg-[--color-light] dark:bg-[--color-dark] text-[--color-dark] dark:text-[--color-light]'>
+										<PopoverPanel className='absolute -left-8 top-full z-10 mt-3 w-screen max-w-md overflow-hidden rounded-3xl shadow-lg shadow-gray-500/40 dark:shadow-white-500/40 ring-1 ring-gray-800/40 dark:ring-neutral-400/20 bg-[--color-light] dark:bg-[--color-dark] text-[--color-dark] dark:text-[--color-light]'>
 											<div className='p-4'>
 												{item.children &&
 													item.children.map(child => (
@@ -125,7 +125,7 @@ const Navbar = ({ children }) => {
 														</Link>
 													))}
 											</div>
-										</Popover.Panel>
+										</PopoverPanel>
 									</Transition>
 								</Popover>
 							)
@@ -155,7 +155,7 @@ const Navbar = ({ children }) => {
 			</nav>
 
 			<Dialog as='div' className='lg:hidden' open={mobileMenuOpen} onClose={setMobileMenuOpen}>
-				<Dialog.Panel className='fixed inset-0 inset-y-0 left-0 z-10 w-full overflow-y-auto px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10 text-[--color-dark] dark:text-[--color-light] bg-[--color-light] dark:bg-[--color-dark]'>
+				<DialogPanel className='fixed inset-0 inset-y-0 left-0 z-10 w-full overflow-y-auto px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10 text-[--color-dark] dark:text-[--color-light] bg-[--color-light] dark:bg-[--color-dark]'>
 					<div className='flex lg:flex-1 items-center justify-between -m-2'>
 						<Link href='/' className='flex items-center font-bold text-4xl'>
 							<span className='sr-only'>SWEDON</span>
@@ -177,7 +177,7 @@ const Navbar = ({ children }) => {
 											<Disclosure as='div' className='-mx-3' key={item.id}>
 												{({ open }) => (
 													<div className=''>
-														<Disclosure.Button className='flex w-full inline-block rounded-lg py-2 pl-3 pr-3.5 text-base font-semibold'>
+														<DisclosureButton className='flex w-full inline-block rounded-lg py-2 pl-3 pr-3.5 text-base font-semibold'>
 															{item.icon && (
 																<item.icon className='h-5 w-5 flex-none text-gray-400 mr-1' aria-hidden='true' />
 															)}
@@ -186,10 +186,10 @@ const Navbar = ({ children }) => {
 																className={classNames(open ? 'rotate-180' : '', 'h-5 w-5 flex-none right-0 ml-auto')}
 																aria-hidden='true'
 															/>
-														</Disclosure.Button>
-														<Disclosure.Panel className='mt-2 space-y-2'>
+														</DisclosureButton>
+														<DisclosurePanel className='mt-2 space-y-2'>
 															{[...item.children].map(child => (
-																<Disclosure.Button
+																<DisclosureButton
 																	key={child.text + child.id}
 																	as={Link}
 																	onClick={() => {
@@ -205,9 +205,9 @@ const Navbar = ({ children }) => {
 																		/>
 																	)}
 																	{child.text}
-																</Disclosure.Button>
+																</DisclosureButton>
 															))}
-														</Disclosure.Panel>
+														</DisclosurePanel>
 													</div>
 												)}
 											</Disclosure>
@@ -236,7 +236,7 @@ const Navbar = ({ children }) => {
 							</div>
 						</div>
 					</div>
-				</Dialog.Panel>
+				</DialogPanel>
 			</Dialog>
 		</header>
 	)
