@@ -11,7 +11,7 @@ const DiscordButton = ({ children, href, className, classNameIcon }) => {
 		<Link
 			href={href ? href : DiscordLink}
 			type='button'
-			className={`flex items-center justify-center bg-[--color-discord] text-white font-bold uppercase p-1 pl-2 pr-2 m-0 ${className}`}
+			className={`flex items-center justify-center bg-[#7289DA] text-white font-bold uppercase p-1 pl-2 pr-2 m-0 ${className}`}
 			title={children ? children : DiscordLink}
 		>
 			{children}
