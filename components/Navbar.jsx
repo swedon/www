@@ -137,7 +137,7 @@ const Navbar = ({ children }) => {
 										setMobileMenuOpen(!mobileMenuOpen)
 									}}
 									href={item.href}
-									className='flex inline-block cursor-pointer capitalize text-x justify-center items-center'
+									className='flex cursor-pointer capitalize text-x justify-center items-center'
 								>
 									{item.icon && <item.icon className='h-5 w-5 flex-none text-gray-400 mr-2' aria-hidden='true' />}
 									{item.text}
