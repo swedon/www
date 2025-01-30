@@ -3,6 +3,156 @@
     "searchStore": {
       "elements": [
         {
+          "title": "Beyond Blue",
+          "id": "c3006006e4c74c4d8316ff09fb8dcc8d",
+          "namespace": "bd9fd28ca1214868922f2ab41d6d3b65",
+          "description": "Beyond Blue is a single-player narrative adventure that takes you deep into our planet’s beating blue heart.  Set in the near future, Beyond Blue explores the mysteries of our ocean through the eyes of Mirai, a deep-sea explorer and scientist. Become a part of a newly-formed r...",
+          "effectiveDate": "2020-06-05T09:59:00.000Z",
+          "offerType": "BASE_GAME",
+          "expiryDate": null,
+          "viewableDate": null,
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "DieselStoreFrontWide",
+              "url": "https://cdn1.epicgames.com/bd9fd28ca1214868922f2ab41d6d3b65/offer/EGS_BeyondBlue_ELineMedia_S1-2560x1440-5d205f1273f6b805db82bc525a1432b9.jpg"
+            },
+            {
+              "type": "DieselStoreFrontTall",
+              "url": "https://cdn1.epicgames.com/bd9fd28ca1214868922f2ab41d6d3b65/offer/EGS_BeyondBlue_ELineMedia_S2-1200x1600-66ee2b1322a74ff2e35e462d644ff519.jpg"
+            },
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/bd9fd28ca1214868922f2ab41d6d3b65/offer/EGS_BeyondBlue_ELineMedia_S1-2560x1440-5d205f1273f6b805db82bc525a1432b9.jpg"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/bd9fd28ca1214868922f2ab41d6d3b65/offer/EGS_BeyondBlue_ELineMedia_S2-1200x1600-66ee2b1322a74ff2e35e462d644ff519.jpg"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/bd9fd28ca1214868922f2ab41d6d3b65/offer/EGS_BeyondBlue_ELineMedia_S2-1200x1600-66ee2b1322a74ff2e35e462d644ff519.jpg"
+            },
+            {
+              "type": "CodeRedemption_340x440",
+              "url": "https://cdn1.epicgames.com/bd9fd28ca1214868922f2ab41d6d3b65/offer/EGS_BeyondBlue_ELineMedia_S2-1200x1600-66ee2b1322a74ff2e35e462d644ff519.jpg"
+            },
+            {
+              "type": "DieselGameBox",
+              "url": "https://cdn1.epicgames.com/bd9fd28ca1214868922f2ab41d6d3b65/offer/EGS_BeyondBlue_ELineMedia_S1-2560x1440-5d205f1273f6b805db82bc525a1432b9.jpg"
+            }
+          ],
+          "seller": {
+            "id": "o-4ngf8f445bswz3vfhmvbfxbgf67bc4",
+            "name": "E-Line Media"
+          },
+          "productSlug": "beyond-blue",
+          "urlSlug": "beyond-blue",
+          "url": null,
+          "items": [
+            {
+              "id": "def4268a97694dfb85572ea4990d86ce",
+              "namespace": "bd9fd28ca1214868922f2ab41d6d3b65"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "com.epicgames.app.blacklist",
+              "value": "[]"
+            },
+            {
+              "key": "com.epicgames.app.productSlug",
+              "value": "beyond-blue"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "games/edition"
+            },
+            {
+              "path": "games/edition/base"
+            },
+            {
+              "path": "applications"
+            }
+          ],
+          "tags": [
+            {
+              "id": "1296"
+            },
+            {
+              "id": "21894"
+            },
+            {
+              "id": "1370"
+            },
+            {
+              "id": "9547"
+            },
+            {
+              "id": "1117"
+            },
+            {
+              "id": "1263"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "beyond-blue",
+                "pageType": "productHome"
+              }
+            ]
+          },
+          "offerMappings": [],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 1999,
+              "originalPrice": 1999,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$19.99",
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-02-06T16:00:00.000Z",
+                    "endDate": "2025-02-13T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
           "title": "Behind the Frame: The Finest Scenery",
           "id": "ade0eed6f17a412b97d29a992b35754c",
           "namespace": "5fb8093984924ff5bfad61ae28730818",
@@ -172,16 +322,16 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2025-02-10T16:00:00.000Z",
-                    "endDate": "2025-02-24T16:00:00.000Z",
+                    "startDate": "2025-03-26T16:00:00.000Z",
+                    "endDate": "2025-04-09T15:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 60
                     }
                   },
                   {
-                    "startDate": "2025-03-26T16:00:00.000Z",
-                    "endDate": "2025-04-09T15:00:00.000Z",
+                    "startDate": "2025-02-10T16:00:00.000Z",
+                    "endDate": "2025-02-24T16:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 60
@@ -1051,7 +1201,7 @@
       ],
       "paging": {
         "count": 1000,
-        "total": 7
+        "total": 8
       }
     }
   }
