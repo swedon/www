@@ -432,129 +432,6 @@
           }
         },
         {
-          "title": "Undying",
-          "id": "c9d2e42d8b404add9390c0182093abbd",
-          "namespace": "487df1dfd24b44c381a2a376fbf78946",
-          "description": "Infected by a zombie, Anling's days are limited. She must now fight to survive, not for herself but her young son, Cody. Ensure Cody's survival in this zombie-infested world by protecting him, searching for safety, and teaching him valuable skills at any cost.",
-          "effectiveDate": "2021-10-19T13:00:00.000Z",
-          "offerType": "BASE_GAME",
-          "expiryDate": null,
-          "viewableDate": "2021-10-19T13:00:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/offer/487df1dfd24b44c381a2a376fbf78946/EGS_Undying_Vanimals_S4_1200x1600-cd42af4fb98c2487cb7e09d637993a6f"
-            },
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/offer/487df1dfd24b44c381a2a376fbf78946/EGS_Undying_Vanimals_S1_2560x1440-9d12977d4bf7410c7178d679db0fc7b8"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/offer/487df1dfd24b44c381a2a376fbf78946/EGS_Undying_Vanimals_S2_1200x1600-cd42af4fb98c2487cb7e09d637993a6f"
-            },
-            {
-              "type": "ProductLogo",
-              "url": "https://cdn1.epicgames.com/offer/487df1dfd24b44c381a2a376fbf78946/EGS_Undying_Vanimals_IC1_400x400-23235fb62ceb2b2770e5c5d226ee0b8b"
-            }
-          ],
-          "seller": {
-            "id": "o-wwzfgcpzmd2b2ymr5mwvlwfwbpl7ay",
-            "name": "Skystone Games"
-          },
-          "productSlug": "undying",
-          "urlSlug": "undying",
-          "url": null,
-          "items": [
-            {
-              "id": "4af0db8eead84fd8bed05983a37a01e2",
-              "namespace": "487df1dfd24b44c381a2a376fbf78946"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "publisherName",
-              "value": "Skystone Games Inc."
-            },
-            {
-              "key": "developerName",
-              "value": "Vanimals"
-            },
-            {
-              "key": "com.epicgames.app.productSlug",
-              "value": "undying"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "games/edition"
-            },
-            {
-              "path": "games/edition/base"
-            },
-            {
-              "path": "applications"
-            }
-          ],
-          "tags": [
-            {
-              "id": "1218"
-            },
-            {
-              "id": "21894"
-            },
-            {
-              "id": "1370"
-            },
-            {
-              "id": "9547"
-            },
-            {
-              "id": "1117"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "undying",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 1999,
-              "originalPrice": 1999,
-              "voucherDiscount": 0,
-              "discount": 0,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": []
-              }
-            ]
-          },
-          "promotions": null
-        },
-        {
           "title": "Model Builder: Complete Edition",
           "id": "d3e5b556640144bfa5de2d5d3b283d68",
           "namespace": "23499f64e5304139b514c3e674c5c0d6",
@@ -1605,7 +1482,7 @@
       ],
       "paging": {
         "count": 1000,
-        "total": 10
+        "total": 9
       }
     }
   }
