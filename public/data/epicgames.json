@@ -3,131 +3,59 @@
     "searchStore": {
       "elements": [
         {
-          "title": "Beyond Blue",
-          "id": "c3006006e4c74c4d8316ff09fb8dcc8d",
-          "namespace": "bd9fd28ca1214868922f2ab41d6d3b65",
-          "description": "Beyond Blue is a single-player narrative adventure that takes you deep into our planet’s beating blue heart.  Set in the near future, Beyond Blue explores the mysteries of our ocean through the eyes of Mirai, a deep-sea explorer and scientist. Become a part of a newly-formed r...",
-          "effectiveDate": "2020-06-05T09:59:00.000Z",
+          "title": "Garden Story",
+          "id": "794bbf45d5fe451d9f805d99d30bbbd0",
+          "namespace": "0f3f352865294c3ea5e10454f24fde85",
+          "description": "Unify a broken community as the newly-appointed Guardian of The Grove. Traverse a vibrant island to combat invasive Rot, inspire its inhabitants, and rebuild your home. You won't have to do this alone: fruity friends await, ready to lend a hand!",
+          "effectiveDate": "2021-08-11T17:00:00.000Z",
           "offerType": "BASE_GAME",
           "expiryDate": null,
-          "viewableDate": "2025-02-05T16:47:52.000Z",
+          "viewableDate": null,
           "status": "ACTIVE",
           "isCodeRedemptionOnly": false,
           "keyImages": [
             {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/bd9fd28ca1214868922f2ab41d6d3b65/offer/EGS_BeyondBlue_ELineMedia_S1-2560x1440-5d205f1273f6b805db82bc525a1432b9.jpg"
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/offer/0f3f352865294c3ea5e10454f24fde85/EGS_GardenStory_Picogram_S2_1200x1600-e2a799a996d78e477b4353cab8b1cf8c"
             },
             {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/bd9fd28ca1214868922f2ab41d6d3b65/offer/EGS_BeyondBlue_ELineMedia_S2-1200x1600-66ee2b1322a74ff2e35e462d644ff519.jpg"
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/offer/0f3f352865294c3ea5e10454f24fde85/EGS_GardenStory_Picogram_S1_2560x1440-b1549cf6645f51ab0bacf6d73aa1631d"
             },
             {
               "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/bd9fd28ca1214868922f2ab41d6d3b65/offer/EGS_BeyondBlue_ELineMedia_S2-1200x1600-66ee2b1322a74ff2e35e462d644ff519.jpg"
+              "url": "https://cdn1.epicgames.com/offer/0f3f352865294c3ea5e10454f24fde85/EGS_GardenStory_Picogram_S2_1200x1600-e2a799a996d78e477b4353cab8b1cf8c"
             },
             {
-              "type": "DieselGameBox",
-              "url": "https://cdn1.epicgames.com/bd9fd28ca1214868922f2ab41d6d3b65/offer/EGS_BeyondBlue_ELineMedia_S1-2560x1440-5d205f1273f6b805db82bc525a1432b9.jpg"
-            },
-            {
-              "type": "heroCarouselVideo",
-              "url": "com.epicgames.video://3820f03e-2bc8-4d59-b5e2-dfd58bbd5c8e?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F4c998fd4568946c7875a6d5ab11979fc%2Fbeyond-blue-video-v9bm3.jpg"
-            },
-            {
-              "type": "heroCarouselVideo",
-              "url": "com.epicgames.video://57a100ff-3835-4d1f-930b-7ebc39d265de?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F4c998fd4568946c7875a6d5ab11979fc%2Fbeyond-blue-video-1coy5.jpg"
-            },
-            {
-              "type": "heroCarouselVideo",
-              "url": "com.epicgames.video://e0ce4782-25e7-4c16-b12c-6936bfe294c2?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F4c998fd4568946c7875a6d5ab11979fc%2Fbeyond-blue-video-gjf6h.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn2.unrealengine.com/egs-beyondblue-elinemedia-g1a-01-1920x1080-129661569.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn2.unrealengine.com/egs-beyondblue-elinemedia-g1a-02-1920x1080-129662099.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn2.unrealengine.com/egs-beyondblue-elinemedia-g1a-03-1920x1080-129662730.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn2.unrealengine.com/egs-beyondblue-elinemedia-g1a-04-1920x1080-129663227.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn2.unrealengine.com/egs-beyondblue-elinemedia-g1a-05-1920x1080-129663883.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn2.unrealengine.com/egs-beyondblue-elinemedia-g1a-06-1920x1080-129664417.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn2.unrealengine.com/egs-beyondblue-elinemedia-g1a-07-1920x1080-129665161.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn2.unrealengine.com/egs-beyondblue-elinemedia-g1a-08-1920x1080-129665846.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn2.unrealengine.com/egs-beyondblue-elinemedia-g1a-09-1920x1080-129666521.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn2.unrealengine.com/egs-beyondblue-elinemedia-g1a-10-1920x1080-129666936.jpg"
-            },
-            {
-              "type": "GalleryImage",
-              "url": "https://cdn1.epicgames.com/spt-assets/4c998fd4568946c7875a6d5ab11979fc/beyond-blue-1ylvh.jpg"
+              "type": "CodeRedemption_340x440",
+              "url": "https://cdn1.epicgames.com/offer/0f3f352865294c3ea5e10454f24fde85/EGS_GardenStory_Picogram_S2_1200x1600-e2a799a996d78e477b4353cab8b1cf8c"
             }
           ],
           "seller": {
-            "id": "o-4ngf8f445bswz3vfhmvbfxbgf67bc4",
-            "name": "E-Line Media"
+            "id": "o-q33grcu5fnu5f6ywl7st6avfuc3ry4",
+            "name": "Rose City Games"
           },
-          "productSlug": "beyond-blue",
-          "urlSlug": "beyond-blue",
+          "productSlug": "garden-story",
+          "urlSlug": "genericviridian-general-audience",
           "url": null,
           "items": [
             {
-              "id": "def4268a97694dfb85572ea4990d86ce",
-              "namespace": "bd9fd28ca1214868922f2ab41d6d3b65"
+              "id": "d47ef5e7c5c24210be62c0a73b737018",
+              "namespace": "0f3f352865294c3ea5e10454f24fde85"
             }
           ],
           "customAttributes": [
             {
-              "key": "autoGeneratedPrice",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetViewableDate",
-              "value": "true"
-            },
-            {
-              "key": "com.epicgames.app.blacklist",
-              "value": "[]"
-            },
-            {
               "key": "publisherName",
-              "value": "E-Line Media"
+              "value": "Rose City Games"
             },
             {
               "key": "developerName",
-              "value": "E-Line Media"
+              "value": "Picogram"
             },
             {
               "key": "com.epicgames.app.productSlug",
-              "value": "beyond-blue"
-            },
-            {
-              "key": "isBlockchainUsed",
-              "value": "false"
+              "value": "garden-story"
             }
           ],
           "categories": [
@@ -142,17 +70,17 @@
             },
             {
               "path": "games/edition/base"
-            },
-            {
-              "path": "applications"
             }
           ],
           "tags": [
             {
-              "id": "1296"
+              "id": "1216"
             },
             {
               "id": "21894"
+            },
+            {
+              "id": "1367"
             },
             {
               "id": "1370"
@@ -161,7 +89,7 @@
               "id": "9547"
             },
             {
-              "id": "1117"
+              "id": "9549"
             },
             {
               "id": "1263"
@@ -170,204 +98,7 @@
           "catalogNs": {
             "mappings": [
               {
-                "pageSlug": "beyond-blue",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [
-            {
-              "pageSlug": "beyond-blue",
-              "pageType": "productHome"
-            }
-          ],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 1999,
-              "voucherDiscount": 0,
-              "discount": 1999,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$19.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": [
-                  {
-                    "id": "a7f41925cd6c4edc8d9d3edada67b121",
-                    "endDate": "2025-02-13T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-02-06T16:00:00.000Z",
-                    "endDate": "2025-02-13T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
-        },
-        {
-          "title": "HUMANKIND™ Standard Edition",
-          "id": "e79119839e374d468236b7acc979ff95",
-          "namespace": "02c14a01b7044db98de3f3a10813a42e",
-          "description": "HUMANKIND™ is a historical strategy game, where you’ll be re-writing the entire narrative of human history and combining cultures to create a civilization that’s as unique as you are.",
-          "effectiveDate": "2021-08-17T14:00:00.000Z",
-          "offerType": "BASE_GAME",
-          "expiryDate": null,
-          "viewableDate": "2021-08-17T14:00:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "CodeRedemption_340x440",
-              "url": "https://cdn1.epicgames.com/offer/02c14a01b7044db98de3f3a10813a42e/newimg_1200x1600-41d8535c87839b2c2d0aeb3e43d00d57"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/offer/02c14a01b7044db98de3f3a10813a42e/newimg_1200x1600-41d8535c87839b2c2d0aeb3e43d00d57"
-            },
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/offer/02c14a01b7044db98de3f3a10813a42e/HK_Landscape_2560x1440-0233eae757a0e921c879b7be3a697d97"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/offer/02c14a01b7044db98de3f3a10813a42e/newimg_1200x1600-41d8535c87839b2c2d0aeb3e43d00d57"
-            }
-          ],
-          "seller": {
-            "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
-            "name": "SEGA of Europe"
-          },
-          "productSlug": "humankind",
-          "urlSlug": "scorpiogeneralaudience",
-          "url": null,
-          "items": [
-            {
-              "id": "a72585838efe416bbc19b8e6e9bb9491",
-              "namespace": "02c14a01b7044db98de3f3a10813a42e"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "publisherName",
-              "value": "SEGA"
-            },
-            {
-              "key": "developerName",
-              "value": "AMPLITUDE Studios"
-            },
-            {
-              "key": "com.epicgames.app.productSlug",
-              "value": "humankind"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "games/edition"
-            },
-            {
-              "path": "games/edition/base"
-            },
-            {
-              "path": "applications"
-            }
-          ],
-          "tags": [
-            {
-              "id": "1088"
-            },
-            {
-              "id": "21122"
-            },
-            {
-              "id": "1188"
-            },
-            {
-              "id": "21125"
-            },
-            {
-              "id": "21894"
-            },
-            {
-              "id": "21127"
-            },
-            {
-              "id": "39911"
-            },
-            {
-              "id": "9547"
-            },
-            {
-              "id": "1166"
-            },
-            {
-              "id": "21138"
-            },
-            {
-              "id": "1203"
-            },
-            {
-              "id": "1299"
-            },
-            {
-              "id": "21139"
-            },
-            {
-              "id": "21140"
-            },
-            {
-              "id": "21141"
-            },
-            {
-              "id": "1370"
-            },
-            {
-              "id": "21146"
-            },
-            {
-              "id": "1115"
-            },
-            {
-              "id": "21149"
-            },
-            {
-              "id": "10719"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "humankind",
+                "pageSlug": "garden-story",
                 "pageType": "productHome"
               }
             ]
@@ -375,49 +106,34 @@
           "offerMappings": [],
           "price": {
             "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 4999,
+              "discountPrice": 1999,
+              "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 4999,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
-                "originalPrice": "$49.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
+                "originalPrice": "$19.99",
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "d480984cb6714bad93c7e3ffe448bf18",
-                    "endDate": "2025-02-13T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2025-02-10T16:00:00.000Z",
-                    "endDate": "2025-02-24T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 20
-                    }
-                  },
-                  {
-                    "startDate": "2025-02-06T16:00:00.000Z",
-                    "endDate": "2025-02-13T16:00:00.000Z",
+                    "startDate": "2025-02-20T16:00:00.000Z",
+                    "endDate": "2025-02-27T16:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 0
@@ -425,8 +141,7 @@
                   }
                 ]
               }
-            ],
-            "upcomingPromotionalOffers": []
+            ]
           }
         },
         {
@@ -1380,29 +1095,36 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 3499,
+              "discountPrice": 0,
               "originalPrice": 3499,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 3499,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$34.99",
-                "discountPrice": "$34.99",
-                "intermediatePrice": "$34.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "d559e3353a954ea7a1d74d72fa0ecb9c",
+                    "endDate": "2025-02-20T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -1415,7 +1137,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -1689,8 +1412,7 @@
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -1703,13 +1425,14 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         }
       ],
       "paging": {
         "count": 1000,
-        "total": 10
+        "total": 9
       }
     }
   }
