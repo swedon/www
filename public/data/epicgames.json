@@ -1339,7 +1339,7 @@
             },
             {
               "key": "isPromotionalContentUsed",
-              "value": "null"
+              "value": "false"
             },
             {
               "key": "isManuallySetPCReleaseDate",
