@@ -106,29 +106,36 @@
           "offerMappings": [],
           "price": {
             "totalPrice": {
-              "discountPrice": 1999,
+              "discountPrice": 0,
               "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1999,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "c34bbd0877014184b56ed871180ca596",
+                    "endDate": "2025-02-27T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -141,7 +148,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -287,26 +295,26 @@
           "offerMappings": [],
           "price": {
             "totalPrice": {
-              "discountPrice": 1999,
+              "discountPrice": 0,
               "originalPrice": 3999,
               "voucherDiscount": 0,
-              "discount": 2000,
+              "discount": 3999,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$39.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
                 "appliedRules": [
                   {
-                    "id": "192f1e0567ec4fea925c25b60a293a97",
-                    "endDate": "2025-02-24T16:00:00.000Z",
+                    "id": "5a8681fdf5f748a08eb546965ca07267",
+                    "endDate": "2025-02-27T16:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE"
                     }
@@ -320,6 +328,14 @@
               {
                 "promotionalOffers": [
                   {
+                    "startDate": "2025-02-20T16:00:00.000Z",
+                    "endDate": "2025-02-27T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  },
+                  {
                     "startDate": "2025-02-10T16:00:00.000Z",
                     "endDate": "2025-02-24T16:00:00.000Z",
                     "discountSetting": {
@@ -330,20 +346,7 @@
                 ]
               }
             ],
-            "upcomingPromotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-02-20T16:00:00.000Z",
-                    "endDate": "2025-02-27T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ]
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -1099,198 +1102,6 @@
           }
         },
         {
-          "title": "F1® Manager 2024",
-          "id": "80480c4dce974e03a009beeffc625b21",
-          "namespace": "53ea1f0a585f4fbc9c8adc6b76af1165",
-          "description": "Lead your team to glory in F1® Manager 2024. A new Formula 1® season has arrived, and with it, the most comprehensive F1® management experience to date. Build a legacy with one of 10 official F1® constructors or create your own team for the very first time.",
-          "effectiveDate": "2024-07-23T14:00:00.000Z",
-          "offerType": "BASE_GAME",
-          "expiryDate": null,
-          "viewableDate": "2024-07-23T14:00:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/spt-assets/57015e643399448f8139291daa15bfc2/f1-manager-2024-ky8bk.jpg"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/spt-assets/57015e643399448f8139291daa15bfc2/f1-manager-2024-15uhb.jpg"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/spt-assets/57015e643399448f8139291daa15bfc2/f1-manager-2024-15uhb.jpg"
-            }
-          ],
-          "seller": {
-            "id": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
-            "name": "Frontier Developments"
-          },
-          "productSlug": null,
-          "urlSlug": "f1-manager-2024-01",
-          "url": null,
-          "items": [
-            {
-              "id": "9881250ba4e5476ebba231b15dfcbd38",
-              "namespace": "53ea1f0a585f4fbc9c8adc6b76af1165"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "autoGeneratedPrice",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetViewableDate",
-              "value": "true"
-            },
-            {
-              "key": "isPromotionalContentUsed",
-              "value": "true"
-            },
-            {
-              "key": "isManuallySetPCReleaseDate",
-              "value": "false"
-            },
-            {
-              "key": "isBlockchainUsed",
-              "value": "false"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "games/edition"
-            },
-            {
-              "path": "games/edition/base"
-            }
-          ],
-          "tags": [
-            {
-              "id": "21122"
-            },
-            {
-              "id": "1188"
-            },
-            {
-              "id": "21125"
-            },
-            {
-              "id": "21894"
-            },
-            {
-              "id": "19847"
-            },
-            {
-              "id": "33639"
-            },
-            {
-              "id": "9547"
-            },
-            {
-              "id": "21135"
-            },
-            {
-              "id": "1393"
-            },
-            {
-              "id": "21138"
-            },
-            {
-              "id": "21139"
-            },
-            {
-              "id": "21140"
-            },
-            {
-              "id": "21141"
-            },
-            {
-              "id": "1370"
-            },
-            {
-              "id": "21146"
-            },
-            {
-              "id": "1115"
-            },
-            {
-              "id": "21149"
-            },
-            {
-              "id": "21119"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "f1-manager-2024-fe51bd",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [
-            {
-              "pageSlug": "f1-manager-2024-fe51bd",
-              "pageType": "productHome"
-            }
-          ],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 3499,
-              "voucherDiscount": 0,
-              "discount": 3499,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$34.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": [
-                  {
-                    "id": "d559e3353a954ea7a1d74d72fa0ecb9c",
-                    "endDate": "2025-02-20T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-02-13T16:00:00.000Z",
-                    "endDate": "2025-02-20T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
-        },
-        {
           "title": "Castlevania Anniversary Collection",
           "id": "8f80897c0b6e4e678fed08da169d44be",
           "namespace": "247d4d4b4e424afd9b474334fe450a43",
@@ -1427,161 +1238,11 @@
             ]
           },
           "promotions": null
-        },
-        {
-          "title": "Apex Legends™: Loba Free Unlock Bundle",
-          "id": "f4b09c0830d44f08a4a042b697483977",
-          "namespace": "f9f24f4a353b451297e31f5db9cc54f2",
-          "description": "Grab the Loba Free Unlock Bundle and drop straight into Apex Legends: Takeover,  for energetic mayhem and fun.\nThe bundle includes: Loba unlocked and Loba 'Torrent' Epic Skin",
-          "effectiveDate": "2025-02-13T16:00:00.000Z",
-          "offerType": "ADD_ON",
-          "expiryDate": "2025-02-20T16:00:00.000Z",
-          "viewableDate": "2025-02-06T16:00:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-bnz8f.jpg"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-1nk9w.jpg"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-1nk9w.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-m7i3m.jpg"
-            }
-          ],
-          "seller": {
-            "id": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
-            "name": "Electronic Arts"
-          },
-          "productSlug": null,
-          "urlSlug": "season-24-epic-content-offer",
-          "url": null,
-          "items": [
-            {
-              "id": "6f53de8bd11b4d3995a804b5960978c9",
-              "namespace": "f9f24f4a353b451297e31f5db9cc54f2"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "isManuallySetRefundableType",
-              "value": "true"
-            },
-            {
-              "key": "autoGeneratedPrice",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetViewableDate",
-              "value": "true"
-            },
-            {
-              "key": "isPromotionalContentUsed",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetPCReleaseDate",
-              "value": "false"
-            },
-            {
-              "key": "isBlockchainUsed",
-              "value": "false"
-            }
-          ],
-          "categories": [
-            {
-              "path": "addons"
-            },
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "addons/durable"
-            }
-          ],
-          "tags": [
-            {
-              "id": "1216"
-            },
-            {
-              "id": "29088"
-            },
-            {
-              "id": "1299"
-            },
-            {
-              "id": "19847"
-            },
-            {
-              "id": "9547"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "apex-legends-006cde",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [
-            {
-              "pageSlug": "apex-legends-season-24-epic-content-offer-f63bd1",
-              "pageType": "offer"
-            }
-          ],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 0,
-              "voucherDiscount": 0,
-              "discount": 0,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "0",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": []
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-02-13T16:00:00.000Z",
-                    "endDate": "2025-02-20T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
         }
       ],
       "paging": {
         "count": 1000,
-        "total": 10
+        "total": 8
       }
     }
   }
