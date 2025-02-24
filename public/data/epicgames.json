@@ -242,9 +242,6 @@
               "id": "21894"
             },
             {
-              "id": "39911"
-            },
-            {
               "id": "9547"
             },
             {
@@ -327,14 +324,6 @@
             "promotionalOffers": [
               {
                 "promotionalOffers": [
-                  {
-                    "startDate": "2025-02-10T16:00:00.000Z",
-                    "endDate": "2025-02-24T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 50
-                    }
-                  },
                   {
                     "startDate": "2025-02-20T16:00:00.000Z",
                     "endDate": "2025-02-27T16:00:00.000Z",
@@ -874,9 +863,6 @@
               "id": "19847"
             },
             {
-              "id": "39911"
-            },
-            {
               "id": "1336"
             },
             {
@@ -905,49 +891,28 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 374,
+              "discountPrice": 1499,
               "originalPrice": 1499,
               "voucherDiscount": 0,
-              "discount": 1125,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$14.99",
-                "discountPrice": "$3.74",
-                "intermediatePrice": "$3.74"
+                "discountPrice": "$14.99",
+                "intermediatePrice": "$14.99"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "10561264d615448e9975cb13cf9805dd",
-                    "endDate": "2025-02-24T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-02-10T16:00:00.000Z",
-                    "endDate": "2025-02-24T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 25
-                    }
-                  }
-                ]
-              }
-            ],
+            "promotionalOffers": [],
             "upcomingPromotionalOffers": [
               {
                 "promotionalOffers": [
@@ -1034,9 +999,6 @@
               "id": "1367"
             },
             {
-              "id": "39911"
-            },
-            {
               "id": "1370"
             },
             {
@@ -1058,51 +1020,27 @@
           "offerMappings": null,
           "price": {
             "totalPrice": {
-              "discountPrice": 1749,
+              "discountPrice": 2499,
               "originalPrice": 2499,
               "voucherDiscount": 0,
-              "discount": 750,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$24.99",
-                "discountPrice": "$17.49",
-                "intermediatePrice": "$17.49"
+                "discountPrice": "$24.99",
+                "intermediatePrice": "$24.99"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "b626b34b118a46ba80bf0a63791563ef",
-                    "endDate": "2025-02-24T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-02-10T16:00:00.000Z",
-                    "endDate": "2025-02-24T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 70
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         },
         {
           "title": "Castlevania Anniversary Collection",
