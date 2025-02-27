@@ -3,156 +3,6 @@
     "searchStore": {
       "elements": [
         {
-          "title": "Garden Story",
-          "id": "794bbf45d5fe451d9f805d99d30bbbd0",
-          "namespace": "0f3f352865294c3ea5e10454f24fde85",
-          "description": "Unify a broken community as the newly-appointed Guardian of The Grove. Traverse a vibrant island to combat invasive Rot, inspire its inhabitants, and rebuild your home. You won't have to do this alone: fruity friends await, ready to lend a hand!",
-          "effectiveDate": "2021-08-11T17:00:00.000Z",
-          "offerType": "BASE_GAME",
-          "expiryDate": null,
-          "viewableDate": null,
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/offer/0f3f352865294c3ea5e10454f24fde85/EGS_GardenStory_Picogram_S2_1200x1600-e2a799a996d78e477b4353cab8b1cf8c"
-            },
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/offer/0f3f352865294c3ea5e10454f24fde85/EGS_GardenStory_Picogram_S1_2560x1440-b1549cf6645f51ab0bacf6d73aa1631d"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/offer/0f3f352865294c3ea5e10454f24fde85/EGS_GardenStory_Picogram_S2_1200x1600-e2a799a996d78e477b4353cab8b1cf8c"
-            },
-            {
-              "type": "CodeRedemption_340x440",
-              "url": "https://cdn1.epicgames.com/offer/0f3f352865294c3ea5e10454f24fde85/EGS_GardenStory_Picogram_S2_1200x1600-e2a799a996d78e477b4353cab8b1cf8c"
-            }
-          ],
-          "seller": {
-            "id": "o-q33grcu5fnu5f6ywl7st6avfuc3ry4",
-            "name": "Rose City Games"
-          },
-          "productSlug": "garden-story",
-          "urlSlug": "genericviridian-general-audience",
-          "url": null,
-          "items": [
-            {
-              "id": "d47ef5e7c5c24210be62c0a73b737018",
-              "namespace": "0f3f352865294c3ea5e10454f24fde85"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "publisherName",
-              "value": "Rose City Games"
-            },
-            {
-              "key": "developerName",
-              "value": "Picogram"
-            },
-            {
-              "key": "com.epicgames.app.productSlug",
-              "value": "garden-story"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "games/edition"
-            },
-            {
-              "path": "games/edition/base"
-            }
-          ],
-          "tags": [
-            {
-              "id": "1216"
-            },
-            {
-              "id": "21894"
-            },
-            {
-              "id": "1367"
-            },
-            {
-              "id": "1370"
-            },
-            {
-              "id": "9547"
-            },
-            {
-              "id": "9549"
-            },
-            {
-              "id": "1263"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "garden-story",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 1999,
-              "voucherDiscount": 0,
-              "discount": 1999,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$19.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": [
-                  {
-                    "id": "c34bbd0877014184b56ed871180ca596",
-                    "endDate": "2025-02-27T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-02-20T16:00:00.000Z",
-                    "endDate": "2025-02-27T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
-        },
-        {
           "title": "World War Z Aftermath",
           "id": "05af9ab1d2dc4b78ada8b2f09724da20",
           "namespace": "wombat",
@@ -295,49 +145,28 @@
           "offerMappings": [],
           "price": {
             "totalPrice": {
-              "discountPrice": 0,
+              "discountPrice": 3999,
               "originalPrice": 3999,
               "voucherDiscount": 0,
-              "discount": 3999,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$39.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
+                "discountPrice": "$39.99",
+                "intermediatePrice": "$39.99"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "5a8681fdf5f748a08eb546965ca07267",
-                    "endDate": "2025-02-27T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-02-20T16:00:00.000Z",
-                    "endDate": "2025-02-27T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
+            "promotionalOffers": [],
             "upcomingPromotionalOffers": []
           }
         },
@@ -449,6 +278,204 @@
           "offerMappings": [],
           "price": {
             "totalPrice": {
+              "discountPrice": 0,
+              "originalPrice": 1999,
+              "voucherDiscount": 0,
+              "discount": 1999,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$19.99",
+                "discountPrice": "0",
+                "intermediatePrice": "0"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": [
+                  {
+                    "id": "35886a83e7bb41b88e3cf835badfdd0f",
+                    "endDate": "2025-03-06T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-02-27T16:00:00.000Z",
+                    "endDate": "2025-03-06T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": []
+          }
+        },
+        {
+          "title": "Them's Fightin' Herds",
+          "id": "1f723b00df58467998c4984ca39915ad",
+          "namespace": "a567c32599bf4d4fb609e424f3691b39",
+          "description": "Them's Fightin' Herds",
+          "effectiveDate": "2022-12-19T16:00:00.000Z",
+          "offerType": "BASE_GAME",
+          "expiryDate": null,
+          "viewableDate": "2022-12-19T15:55:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/offer/a567c32599bf4d4fb609e424f3691b39/EGS_ThemsFightinHerds_Mane6Inc_S1_2560x1440-da3a940faafe30c602d3966d2c295825"
+            },
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/offer/a567c32599bf4d4fb609e424f3691b39/EGS_ThemsFightinHerds_Mane6Inc_S1_2560x1440-da3a940faafe30c602d3966d2c295825"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/offer/a567c32599bf4d4fb609e424f3691b39/EGS_ThemsFightinHerds_Mane6Inc_S2_1200x1600-9793ee024c43026c5c2b1612c7a487d0"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/offer/a567c32599bf4d4fb609e424f3691b39/EGS_ThemsFightinHerds_Mane6Inc_S2_1200x1600-9793ee024c43026c5c2b1612c7a487d0_1200x1600-9793ee024c43026c5c2b1612c7a487d0"
+            }
+          ],
+          "seller": {
+            "id": "o-awmpgf6ydj3bnkdtza83f25d5xcr2n",
+            "name": "Maximum Entertainment"
+          },
+          "productSlug": "thems-fightin-herds/home",
+          "urlSlug": "thems-fightin-herds",
+          "url": null,
+          "items": [
+            {
+              "id": "10deb2d9a2654231a12e24f8e58a446d",
+              "namespace": "a567c32599bf4d4fb609e424f3691b39"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "autoGeneratedPrice",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetViewableDate",
+              "value": "true"
+            },
+            {
+              "key": "isPromotionalContentUsed",
+              "value": "null"
+            },
+            {
+              "key": "publisherName",
+              "value": "Maximum Entertainment LLC"
+            },
+            {
+              "key": "developerName",
+              "value": "Mane6"
+            },
+            {
+              "key": "com.epicgames.app.productSlug",
+              "value": "thems-fightin-herds/home"
+            },
+            {
+              "key": "isBlockchainUsed",
+              "value": "false"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "games/edition"
+            },
+            {
+              "path": "games/edition/base"
+            },
+            {
+              "path": "applications"
+            }
+          ],
+          "tags": [
+            {
+              "id": "1344"
+            },
+            {
+              "id": "29088"
+            },
+            {
+              "id": "21121"
+            },
+            {
+              "id": "21122"
+            },
+            {
+              "id": "21124"
+            },
+            {
+              "id": "21125"
+            },
+            {
+              "id": "19847"
+            },
+            {
+              "id": "9547"
+            },
+            {
+              "id": "1263"
+            },
+            {
+              "id": "21138"
+            },
+            {
+              "id": "21139"
+            },
+            {
+              "id": "21140"
+            },
+            {
+              "id": "21141"
+            },
+            {
+              "id": "1370"
+            },
+            {
+              "id": "21119"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "thems-fightin-herds",
+                "pageType": "productHome"
+              }
+            ]
+          },
+          "offerMappings": [
+            {
+              "pageSlug": "thems-fightin-herds",
+              "pageType": "productHome"
+            }
+          ],
+          "price": {
+            "totalPrice": {
               "discountPrice": 1999,
               "originalPrice": 1999,
               "voucherDiscount": 0,
@@ -475,8 +502,8 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2025-02-27T16:00:00.000Z",
-                    "endDate": "2025-03-06T16:00:00.000Z",
+                    "startDate": "2025-03-06T16:00:00.000Z",
+                    "endDate": "2025-03-13T15:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 0
