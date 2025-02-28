@@ -902,7 +902,23 @@
               }
             ]
           },
-          "promotions": null
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-03-26T16:00:00.000Z",
+                    "endDate": "2025-04-09T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 65
+                    }
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "title": "Castlevania Anniversary Collection",
