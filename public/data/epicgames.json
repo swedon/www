@@ -178,160 +178,6 @@
           }
         },
         {
-          "title": "Mages of Mystralia",
-          "id": "464a19f4865248b5948c9514af11d563",
-          "namespace": "bd12fd574df14846ad24703ca7b1a12b",
-          "description": "In a world of magic, your mind is your greatest weapon. Learn the ways of magic and design your own spells to fight enemies, navigate treacherous terrain, and right past wrongs in the kingdom of Mystralia.",
-          "effectiveDate": "2021-12-27T16:00:00.000Z",
-          "offerType": "BASE_GAME",
-          "expiryDate": null,
-          "viewableDate": "2021-12-27T16:00:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "DieselStoreFrontTall",
-              "url": "https://cdn1.epicgames.com/offer/bd12fd574df14846ad24703ca7b1a12b/EGS_MagesofMystralia_BorealysGames_S2_1200x1600-ba8f7f9dbc0d6e76c3d3746df6ce5077"
-            },
-            {
-              "type": "DieselStoreFrontWide",
-              "url": "https://cdn1.epicgames.com/offer/bd12fd574df14846ad24703ca7b1a12b/EGS_MagesofMystralia_BorealysGames_S1_2560x1440-fef9c8f9f6253ed99fb389372df85f88"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/offer/bd12fd574df14846ad24703ca7b1a12b/EGS_MagesofMystralia_BorealysGames_S2_1200x1600-ba8f7f9dbc0d6e76c3d3746df6ce5077"
-            },
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/offer/bd12fd574df14846ad24703ca7b1a12b/EGS_MagesofMystralia_BorealysGames_S1_2560x1440-fef9c8f9f6253ed99fb389372df85f88"
-            },
-            {
-              "type": "CodeRedemption_340x440",
-              "url": "https://cdn1.epicgames.com/offer/bd12fd574df14846ad24703ca7b1a12b/EGS_MagesofMystralia_BorealysGames_S2_1200x1600-ba8f7f9dbc0d6e76c3d3746df6ce5077"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/offer/bd12fd574df14846ad24703ca7b1a12b/EGS_MagesofMystralia_BorealysGames_S2_1200x1600-ba8f7f9dbc0d6e76c3d3746df6ce5077"
-            }
-          ],
-          "seller": {
-            "id": "o-xez4pg2utm5x7l9d2xvzff2cuvsfzb",
-            "name": "Dan Adelman LLC"
-          },
-          "productSlug": "mages-of-mystralia",
-          "urlSlug": "mages-of-mystralia",
-          "url": null,
-          "items": [
-            {
-              "id": "e0b43e0732a14730a11810de940e47f9",
-              "namespace": "bd12fd574df14846ad24703ca7b1a12b"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "com.epicgames.app.blacklist",
-              "value": "[]"
-            },
-            {
-              "key": "com.epicgames.app.productSlug",
-              "value": "mages-of-mystralia"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "games/edition"
-            },
-            {
-              "path": "games/edition/base"
-            },
-            {
-              "path": "applications"
-            }
-          ],
-          "tags": [
-            {
-              "id": "1216"
-            },
-            {
-              "id": "21109"
-            },
-            {
-              "id": "1370"
-            },
-            {
-              "id": "9547"
-            },
-            {
-              "id": "1117"
-            },
-            {
-              "id": "1263"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "mages-of-mystralia",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 1999,
-              "voucherDiscount": 0,
-              "discount": 1999,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$19.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": [
-                  {
-                    "id": "35886a83e7bb41b88e3cf835badfdd0f",
-                    "endDate": "2025-03-06T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-02-27T16:00:00.000Z",
-                    "endDate": "2025-03-06T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
-        },
-        {
           "title": "Them's Fightin' Herds",
           "id": "1f723b00df58467998c4984ca39915ad",
           "namespace": "a567c32599bf4d4fb609e424f3691b39",
@@ -483,29 +329,36 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1999,
+              "discountPrice": 0,
               "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1999,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "fbbf86292a2e4552a7b85c2c3f17c56b",
+                    "endDate": "2025-03-13T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -518,7 +371,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -1240,6 +1094,160 @@
             ]
           },
           "promotions": null
+        },
+        {
+          "title": "World of Warships — Anniversary Party Favor",
+          "id": "ffb6b42a72d74d7fba7b9720fda5feee",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "description": "Behold our token of appreciation for playing World of Warships at the Epic Games Store on this, our fourth anniversary on the platform!",
+          "effectiveDate": "2025-03-13T15:00:00.000Z",
+          "offerType": "ADD_ON",
+          "expiryDate": "2025-03-20T15:00:00.000Z",
+          "viewableDate": "2025-03-06T16:00:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1o35p.jpg"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1550k.jpg"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1550k.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1ckhl.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-xb89h.jpg"
+            }
+          ],
+          "seller": {
+            "id": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+            "name": "Wargaming Group Limited"
+          },
+          "productSlug": null,
+          "urlSlug": "world-of-warships-anniversary-party-favor",
+          "url": null,
+          "items": [
+            {
+              "id": "11ada746480a4b979292dfa52cb6d17e",
+              "namespace": "84c76746bce94effb8e1047fabfd7eb7"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "isManuallySetRefundableType",
+              "value": "true"
+            },
+            {
+              "key": "autoGeneratedPrice",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetViewableDate",
+              "value": "true"
+            },
+            {
+              "key": "isPromotionalContentUsed",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetPCReleaseDate",
+              "value": "false"
+            },
+            {
+              "key": "isBlockchainUsed",
+              "value": "false"
+            }
+          ],
+          "categories": [
+            {
+              "path": "addons"
+            },
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "addons/durable"
+            }
+          ],
+          "tags": [
+            {
+              "id": "1216"
+            },
+            {
+              "id": "29088"
+            },
+            {
+              "id": "19847"
+            },
+            {
+              "id": "22775"
+            },
+            {
+              "id": "9547"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "world-of-warships",
+                "pageType": "productHome"
+              }
+            ]
+          },
+          "offerMappings": [
+            {
+              "pageSlug": "world-of-warships-world-of-warships-—-anniversary-party-favor-68fa01",
+              "pageType": "offer"
+            }
+          ],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 3000,
+              "originalPrice": 3000,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$30.00",
+                "discountPrice": "$30.00",
+                "intermediatePrice": "$30.00"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-03-13T15:00:00.000Z",
+                    "endDate": "2025-03-20T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
         }
       ],
       "paging": {
