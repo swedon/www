@@ -3,6 +3,181 @@
     "searchStore": {
       "elements": [
         {
+          "title": "Mortal Shell",
+          "id": "10c62ba6044c4cbba8b50ad16dc58c4d",
+          "namespace": "ff8c96d781824ba1ae62d18d207fc52e",
+          "description": "Mortal Shell is a deep action-RPG that tests your sanity and resilience in a shattered world. Your adversaries spare no mercy, with survival demanding superior awareness and precision. Possess lost warriors, discover hidden sanctums, and face formidable foes.",
+          "effectiveDate": "2020-08-18T12:00:00.000Z",
+          "offerType": "BASE_GAME",
+          "expiryDate": null,
+          "viewableDate": "2020-08-18T12:00:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "CodeRedemption_340x440",
+              "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/c54f6d5f-2a48-41f9-9f36-38a441bdb535_1200x1600-8f81674351d5cbaa78be417ee078a80e"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/c54f6d5f-2a48-41f9-9f36-38a441bdb535_1200x1600-8f81674351d5cbaa78be417ee078a80e"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/c54f6d5f-2a48-41f9-9f36-38a441bdb535_1200x1600-8f81674351d5cbaa78be417ee078a80e"
+            },
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/066a34b0-e1dc-4eee-87f9-42b95d5238c6_2560x1440-60b72b7b1479ebafc188502d441c3ee5"
+            },
+            {
+              "type": "DieselStoreFrontTall",
+              "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/c54f6d5f-2a48-41f9-9f36-38a441bdb535_1200x1600-8f81674351d5cbaa78be417ee078a80e"
+            },
+            {
+              "type": "DieselStoreFrontWide",
+              "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/066a34b0-e1dc-4eee-87f9-42b95d5238c6_2560x1440-60b72b7b1479ebafc188502d441c3ee5"
+            }
+          ],
+          "seller": {
+            "id": "o-fwcegrmgnhg9bjn597f2ywf3gvrvqw",
+            "name": "Playstack"
+          },
+          "productSlug": "mortal-shell",
+          "urlSlug": "spinellaunchaudience",
+          "url": null,
+          "items": [
+            {
+              "id": "85e2cfb26a6a4031b7c3c6ca35ef502d",
+              "namespace": "ff8c96d781824ba1ae62d18d207fc52e"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "com.epicgames.app.blacklist",
+              "value": "[]"
+            },
+            {
+              "key": "publisherName",
+              "value": "Playstack Ltd"
+            },
+            {
+              "key": "developerName",
+              "value": "Cold Symmetry"
+            },
+            {
+              "key": "com.epicgames.app.productSlug",
+              "value": "mortal-shell"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "games/edition"
+            },
+            {
+              "path": "games/edition/base"
+            },
+            {
+              "path": "applications"
+            }
+          ],
+          "tags": [
+            {
+              "id": "21122"
+            },
+            {
+              "id": "21125"
+            },
+            {
+              "id": "21894"
+            },
+            {
+              "id": "21129"
+            },
+            {
+              "id": "9547"
+            },
+            {
+              "id": "1263"
+            },
+            {
+              "id": "21137"
+            },
+            {
+              "id": "21138"
+            },
+            {
+              "id": "21139"
+            },
+            {
+              "id": "21141"
+            },
+            {
+              "id": "1367"
+            },
+            {
+              "id": "1370"
+            },
+            {
+              "id": "21149"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "mortal-shell",
+                "pageType": "productHome"
+              }
+            ]
+          },
+          "offerMappings": [],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 2999,
+              "originalPrice": 2999,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$29.99",
+                "discountPrice": "$29.99",
+                "intermediatePrice": "$29.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-03-13T15:00:00.000Z",
+                    "endDate": "2025-03-20T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
           "title": "Mages of Mystralia",
           "id": "464a19f4865248b5948c9514af11d563",
           "namespace": "bd12fd574df14846ad24703ca7b1a12b",
@@ -908,16 +1083,16 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2025-03-26T16:00:00.000Z",
-                    "endDate": "2025-04-09T15:00:00.000Z",
+                    "startDate": "2025-05-15T15:00:00.000Z",
+                    "endDate": "2025-06-12T15:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 65
                     }
                   },
                   {
-                    "startDate": "2025-05-15T15:00:00.000Z",
-                    "endDate": "2025-06-12T15:00:00.000Z",
+                    "startDate": "2025-03-26T16:00:00.000Z",
+                    "endDate": "2025-04-09T15:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 65
@@ -1069,7 +1244,7 @@
       ],
       "paging": {
         "count": 1000,
-        "total": 7
+        "total": 8
       }
     }
   }
