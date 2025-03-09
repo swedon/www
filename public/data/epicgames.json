@@ -1193,7 +1193,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "world-of-warships",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
