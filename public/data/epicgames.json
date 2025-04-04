@@ -1027,7 +1027,7 @@
           }
         },
         {
-          "title": "Arcadgeddon",
+          "title": "Arcadegeddon",
           "id": "33b2cb59eb304f0d978457bffaac8f0c",
           "namespace": "043ffc92cbd64a9fbc350ea68f415937",
           "description": "Jump into Arcadegeddon today and get 5,000 ARCoins\n\nRise up and play with up to three friends in this ever-evolving cooperative multiplayer, roguelite shooter. Explore multiple biomes, mini games, find hidden chests, and defeat numerous enemies and bosses.",
@@ -1140,6 +1140,9 @@
           "tags": [
             {
               "id": "29088"
+            },
+            {
+              "id": "19847"
             },
             {
               "id": "1210"
