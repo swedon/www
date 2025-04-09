@@ -485,7 +485,23 @@
               }
             ]
           },
-          "promotions": null
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-04-17T15:00:00.000Z",
+                    "endDate": "2025-04-24T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "title": "River City Girls",
