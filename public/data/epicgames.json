@@ -1225,7 +1225,7 @@
         }
       ],
       "paging": {
-        "count": 1000,
+        "count": 40,
         "total": 8
       }
     }
