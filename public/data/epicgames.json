@@ -223,29 +223,36 @@
           "offerMappings": [],
           "price": {
             "totalPrice": {
-              "discountPrice": 1999,
+              "discountPrice": 0,
               "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1999,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "54bff5bbd41c45499856a6e0a99cb8f6",
+                    "endDate": "2025-05-15T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -258,7 +265,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -872,51 +880,27 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 0,
+              "discountPrice": 1499,
               "originalPrice": 1499,
               "voucherDiscount": 0,
-              "discount": 1499,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$14.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
+                "discountPrice": "$14.99",
+                "intermediatePrice": "$14.99"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "e3cd37de9e86496b91443ac541c6fc01",
-                    "endDate": "2025-05-08T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-05-01T15:00:00.000Z",
-                    "endDate": "2025-05-08T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         },
         {
           "title": "Deadtime Defenders",
@@ -1114,29 +1098,36 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 999,
+              "discountPrice": 0,
               "originalPrice": 999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 999,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$9.99",
-                "discountPrice": "$9.99",
-                "intermediatePrice": "$9.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "6e2fb8fb672e418bb1c77c5e6230b530",
+                    "endDate": "2025-05-15T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -1149,7 +1140,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
