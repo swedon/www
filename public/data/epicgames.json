@@ -1052,10 +1052,10 @@
           }
         },
         {
-          "title": "Mystery Game 7",
+          "title": "Limbo",
           "id": "8ac7a28bdcdf4f4db7706419aa502c0e",
           "namespace": "d5241c76f178492ea1540fce45616757",
-          "description": "Mystery Game 7",
+          "description": "Limbo is an award-winning indie adventure, critically acclaimed for its captivating puzzle design and immersive sound and visuals. Its dark, misty spaces and haunting narrative will stay with you forever.",
           "effectiveDate": "2025-05-29T15:00:00.000Z",
           "offerType": "OTHERS",
           "expiryDate": null,
@@ -1065,11 +1065,11 @@
           "keyImages": [
             {
               "type": "DieselStoreFrontWide",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813_1920x1080-a27cf3919dde320a72936374a1d47813"
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day7wide_2560x1440-6c93379907b03def09fcd60c6677a5d9"
             },
             {
               "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x16001_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day7tall_1200x1600-b64b7e087d5bc3b29085a390ea79a7e9"
             },
             {
               "type": "VaultClosed",
@@ -1080,7 +1080,7 @@
             "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
             "name": "Epic Dev Test Account"
           },
-          "productSlug": "[]",
+          "productSlug": "limbo",
           "urlSlug": "mystery-game-7-01",
           "url": null,
           "items": [
@@ -1108,7 +1108,7 @@
             },
             {
               "key": "com.epicgames.app.productSlug",
-              "value": "[]"
+              "value": "limbo"
             }
           ],
           "categories": [
