@@ -736,7 +736,7 @@
           "description": "Tiny Tina's Wonderlands",
           "effectiveDate": "2025-05-29T15:00:00.000Z",
           "offerType": "OTHERS",
-          "expiryDate": null,
+          "expiryDate": "2025-06-05T15:06:00.000Z",
           "viewableDate": "2025-05-22T14:25:00.000Z",
           "status": "ACTIVE",
           "isCodeRedemptionOnly": false,
@@ -791,12 +791,6 @@
           ],
           "categories": [
             {
-              "path": "freegames/vaulted"
-            },
-            {
-              "path": "freegames"
-            },
-            {
               "path": "games"
             },
             {
@@ -830,23 +824,7 @@
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-05-29T15:00:00.000Z",
-                    "endDate": "2025-06-05T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         },
         {
           "title": "Limbo",
@@ -855,7 +833,7 @@
           "description": "Limbo is an award-winning indie adventure, critically acclaimed for its captivating puzzle design and immersive sound and visuals. Its dark, misty spaces and haunting narrative will stay with you forever.",
           "effectiveDate": "2025-05-29T15:00:00.000Z",
           "offerType": "OTHERS",
-          "expiryDate": null,
+          "expiryDate": "2025-06-05T15:06:00.000Z",
           "viewableDate": "2025-05-22T14:25:00.000Z",
           "status": "ACTIVE",
           "isCodeRedemptionOnly": false,
@@ -910,12 +888,6 @@
           ],
           "categories": [
             {
-              "path": "freegames/vaulted"
-            },
-            {
-              "path": "freegames"
-            },
-            {
               "path": "games"
             },
             {
@@ -949,23 +921,7 @@
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-05-29T15:00:00.000Z",
-                    "endDate": "2025-06-05T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         },
         {
           "title": "Ogu and the Secret Forest",
@@ -1069,8 +1025,7 @@
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -1083,7 +1038,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -1188,8 +1144,7 @@
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -1202,7 +1157,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         }
       ],
