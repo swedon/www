@@ -105,7 +105,7 @@
     "@tsparticles/updater-twinkle": "3.1.0",
     "@tsparticles/updater-wobble": "3.1.0",
     "@types/node": "22.15.29",
-    "@types/react": "19.1.6",
+    "@types/react": "19.1.7",
     "@types/react-dom": "19.1.6",
     "animate.css": "^4.1.1",
     "autoprefixer": "^10.4.21",
