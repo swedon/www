@@ -404,51 +404,27 @@
           "offerMappings": null,
           "price": {
             "totalPrice": {
-              "discountPrice": 1624,
+              "discountPrice": 2499,
               "originalPrice": 2499,
               "voucherDiscount": 0,
-              "discount": 875,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$24.99",
-                "discountPrice": "$16.24",
-                "intermediatePrice": "$16.24"
+                "discountPrice": "$24.99",
+                "intermediatePrice": "$24.99"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "f2922db20b5b4611b0dc9f9f48b504c7",
-                    "endDate": "2025-06-12T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-05-15T15:00:00.000Z",
-                    "endDate": "2025-06-12T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 65
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         },
         {
           "title": "Castlevania Anniversary Collection",
@@ -691,142 +667,31 @@
           "offerMappings": [],
           "price": {
             "totalPrice": {
-              "discountPrice": 2999,
+              "discountPrice": 0,
               "originalPrice": 2999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 2999,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$29.99",
-                "discountPrice": "$29.99",
-                "intermediatePrice": "$29.99"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": []
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-06-12T15:00:00.000Z",
-                    "endDate": "2025-06-19T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "title": "Ogu and the Secret Forest",
-          "id": "550d30ebf2f343609a2b01c98293b264",
-          "namespace": "d5241c76f178492ea1540fce45616757",
-          "description": "Explore the wonderful world with baby Ogu! 'Ogu and the Secret Forest' is a 2D adventure game with hand-drawn characters and various types of puzzles. Befriend bouncy characters and defeat strange creatures to unravel the mystery of the charming world.",
-          "effectiveDate": "2025-06-05T15:00:00.000Z",
-          "offerType": "OTHERS",
-          "expiryDate": null,
-          "viewableDate": "2025-05-29T14:25:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "DieselStoreFrontWide",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day9wide_2560x1440-f6421d67946917c410a33f9c7a3abaed"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day9tall_1200x1600-1ee245eb887f771cd4a50115eb56226f"
-            },
-            {
-              "type": "VaultClosed",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
-            }
-          ],
-          "seller": {
-            "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-            "name": "Epic Dev Test Account"
-          },
-          "productSlug": "ogu-and-the-secret-forest-ffc421",
-          "urlSlug": "mystery-game-9",
-          "url": null,
-          "items": [
-            {
-              "id": "8341d7c7e4534db7848cc428aa4cbe5a",
-              "namespace": "d5241c76f178492ea1540fce45616757"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "com.epicgames.app.freegames.vault.close",
-              "value": "[]"
-            },
-            {
-              "key": "com.epicgames.app.blacklist",
-              "value": "[]"
-            },
-            {
-              "key": "com.epicgames.app.freegames.vault.slug",
-              "value": "free-games"
-            },
-            {
-              "key": "com.epicgames.app.freegames.vault.open",
-              "value": "[]"
-            },
-            {
-              "key": "com.epicgames.app.productSlug",
-              "value": "ogu-and-the-secret-forest-ffc421"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames/vaulted"
-            },
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "applications"
-            }
-          ],
-          "tags": [],
-          "catalogNs": {
-            "mappings": []
-          },
-          "offerMappings": [],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 0,
-              "voucherDiscount": 0,
-              "discount": 0,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "0",
                 "discountPrice": "0",
                 "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "6c7087a25bbc4833bd43df2fcc7e7eef",
+                    "endDate": "2025-06-19T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
@@ -835,8 +700,8 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2025-06-05T15:00:00.000Z",
-                    "endDate": "2025-06-12T15:00:00.000Z",
+                    "startDate": "2025-06-12T15:00:00.000Z",
+                    "endDate": "2025-06-19T15:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 0
@@ -949,23 +814,7 @@
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-06-05T15:00:00.000Z",
-                    "endDate": "2025-06-12T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         },
         {
           "title": "The Operator",
@@ -1157,7 +1006,7 @@
       ],
       "paging": {
         "count": 40,
-        "total": 8
+        "total": 7
       }
     }
   }
