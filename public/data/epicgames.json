@@ -720,7 +720,7 @@
           "description": "DEATHLOOP",
           "effectiveDate": "2025-06-05T15:00:00.000Z",
           "offerType": "OTHERS",
-          "expiryDate": null,
+          "expiryDate": "2025-06-12T15:00:00.000Z",
           "viewableDate": "2025-05-29T14:25:00.000Z",
           "status": "ACTIVE",
           "isCodeRedemptionOnly": false,
@@ -774,12 +774,6 @@
             }
           ],
           "categories": [
-            {
-              "path": "freegames/vaulted"
-            },
-            {
-              "path": "freegames"
-            },
             {
               "path": "games"
             },
