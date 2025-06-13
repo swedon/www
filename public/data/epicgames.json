@@ -714,103 +714,6 @@
           }
         },
         {
-          "title": "DEATHLOOP",
-          "id": "172406399087483db3a8b84e7051107b",
-          "namespace": "d5241c76f178492ea1540fce45616757",
-          "description": "DEATHLOOP",
-          "effectiveDate": "2025-06-05T15:00:00.000Z",
-          "offerType": "OTHERS",
-          "expiryDate": "2025-06-12T15:00:00.000Z",
-          "viewableDate": "2025-05-29T14:25:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "DieselStoreFrontWide",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day8wide_2560x1440-bf6d342edbd2411ccf24e326852fca93"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day8tall_1200x1600-d062aa01760072626d27af24af05db77"
-            },
-            {
-              "type": "VaultClosed",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
-            }
-          ],
-          "seller": {
-            "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-            "name": "Epic Dev Test Account"
-          },
-          "productSlug": "deathloop",
-          "urlSlug": "mystery-game-08",
-          "url": null,
-          "items": [
-            {
-              "id": "8341d7c7e4534db7848cc428aa4cbe5a",
-              "namespace": "d5241c76f178492ea1540fce45616757"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "com.epicgames.app.freegames.vault.close",
-              "value": "[]"
-            },
-            {
-              "key": "com.epicgames.app.blacklist",
-              "value": "[]"
-            },
-            {
-              "key": "com.epicgames.app.freegames.vault.slug",
-              "value": "free-games"
-            },
-            {
-              "key": "com.epicgames.app.freegames.vault.open",
-              "value": "[]"
-            },
-            {
-              "key": "com.epicgames.app.productSlug",
-              "value": "deathloop"
-            }
-          ],
-          "categories": [
-            {
-              "path": "games"
-            },
-            {
-              "path": "applications"
-            }
-          ],
-          "tags": [],
-          "catalogNs": {
-            "mappings": []
-          },
-          "offerMappings": [],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 0,
-              "voucherDiscount": 0,
-              "discount": 0,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "0",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": []
-              }
-            ]
-          },
-          "promotions": null
-        },
-        {
           "title": "The Operator",
           "id": "e462627d3a864052a6b5fe2c0eaf0ba8",
           "namespace": "2485eccb13d14250a0a5649e8ed63a3b",
@@ -1000,7 +903,7 @@
       ],
       "paging": {
         "count": 40,
-        "total": 7
+        "total": 6
       }
     }
   }
