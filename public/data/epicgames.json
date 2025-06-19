@@ -770,179 +770,6 @@
           "promotions": null
         },
         {
-          "title": "Two Point Hospital",
-          "id": "1078bc6439ab4b92b8786695e5f7f37d",
-          "namespace": "0f4a572a3c1541319db70c3737d3a123",
-          "description": "Design stunning hospitals, cure peculiar illnesses and manage troublesome staff as you spread your budding healthcare organisation across Two Point County.",
-          "effectiveDate": "2025-02-13T16:00:00.000Z",
-          "offerType": "BASE_GAME",
-          "expiryDate": null,
-          "viewableDate": "2025-02-13T16:00:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/offer/0f4a572a3c1541319db70c3737d3a123/EGS_TwoPointHospital_TwoPointStudios_S2_1200x1600-8bd004a67b677888a8a1510bde5aa586"
-            },
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/offer/0f4a572a3c1541319db70c3737d3a123/EGS_TwoPointHospital_TwoPointStudios_S1_2560x1440-ee16893556f141506d548b32d4cd23cc"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/offer/0f4a572a3c1541319db70c3737d3a123/EGS_TwoPointHospital_TwoPointStudios_S2_1200x1600-8bd004a67b677888a8a1510bde5aa586"
-            }
-          ],
-          "seller": {
-            "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
-            "name": "SEGA of Europe"
-          },
-          "productSlug": null,
-          "urlSlug": "two-point-hospital",
-          "url": null,
-          "items": [
-            {
-              "id": "1cddd0e043ac4471a7917dcb854ebed5",
-              "namespace": "0f4a572a3c1541319db70c3737d3a123"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "com.epicgames.app.blacklist",
-              "value": "[]"
-            },
-            {
-              "key": "publisherName",
-              "value": "SEGA of Europe"
-            },
-            {
-              "key": "developerName",
-              "value": "SEGA of Europe"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "games/edition"
-            },
-            {
-              "path": "games/edition/base"
-            },
-            {
-              "path": "applications"
-            }
-          ],
-          "tags": [
-            {
-              "id": "21122"
-            },
-            {
-              "id": "1188"
-            },
-            {
-              "id": "21127"
-            },
-            {
-              "id": "9547"
-            },
-            {
-              "id": "1296"
-            },
-            {
-              "id": "21136"
-            },
-            {
-              "id": "1393"
-            },
-            {
-              "id": "21138"
-            },
-            {
-              "id": "21139"
-            },
-            {
-              "id": "21140"
-            },
-            {
-              "id": "21141"
-            },
-            {
-              "id": "1370"
-            },
-            {
-              "id": "1115"
-            },
-            {
-              "id": "21149"
-            },
-            {
-              "id": "21119"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "two-point-hospital",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 2999,
-              "voucherDiscount": 0,
-              "discount": 2999,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$29.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": [
-                  {
-                    "id": "6c7087a25bbc4833bd43df2fcc7e7eef",
-                    "endDate": "2025-06-19T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-06-12T15:00:00.000Z",
-                    "endDate": "2025-06-19T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
-        },
-        {
           "title": "The Operator",
           "id": "e462627d3a864052a6b5fe2c0eaf0ba8",
           "namespace": "2485eccb13d14250a0a5649e8ed63a3b",
@@ -1091,29 +918,36 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1499,
+              "discountPrice": 0,
               "originalPrice": 1499,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1499,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$14.99",
-                "discountPrice": "$14.99",
-                "intermediatePrice": "$14.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "9eacfe48a5bd40f3aa6a9cdf52f08452",
+                    "endDate": "2025-06-26T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -1126,13 +960,14 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         }
       ],
       "paging": {
         "count": 40,
-        "total": 7
+        "total": 6
       }
     }
   }
