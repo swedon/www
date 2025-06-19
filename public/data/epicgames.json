@@ -3,6 +3,202 @@
     "searchStore": {
       "elements": [
         {
+          "title": "Sable",
+          "id": "d19627e74ac445bcbcfc8157a35d6f80",
+          "namespace": "66a0893b7b9a42a695f0a387d64dfcc6",
+          "description": "Embark on a unique and unforgettable journey and guide Sable through her Gliding; a rite of passage that will take her across vast deserts and mesmerizing landscapes, capped by the remains of spaceships and ancient wonders.",
+          "effectiveDate": "2021-09-23T13:00:00.000Z",
+          "offerType": "BASE_GAME",
+          "expiryDate": null,
+          "viewableDate": "2021-06-12T15:00:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S1_2560x1440-64ec090eed8335263a9083de0eb7f5cf"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S2_1200x1600-8c822a6ef6f9cb4f07651ea61f291391"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S4_1200x1600-8c822a6ef6f9cb4f07651ea61f291391"
+            },
+            {
+              "type": "CodeRedemption_340x440",
+              "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S2_1200x1600-8c822a6ef6f9cb4f07651ea61f291391"
+            },
+            {
+              "type": "DieselStoreFrontWide",
+              "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S1_2560x1440-64ec090eed8335263a9083de0eb7f5cf"
+            },
+            {
+              "type": "DieselStoreFrontTall",
+              "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S2_1200x1600-8c822a6ef6f9cb4f07651ea61f291391"
+            }
+          ],
+          "seller": {
+            "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+            "name": "Raw Fury"
+          },
+          "productSlug": "sable",
+          "urlSlug": "sable",
+          "url": null,
+          "items": [
+            {
+              "id": "5623f6cc511545bc98bca0201a1b847c",
+              "namespace": "66a0893b7b9a42a695f0a387d64dfcc6"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "com.epicgames.app.blacklist",
+              "value": "[]"
+            },
+            {
+              "key": "publisherName",
+              "value": "Raw Fury"
+            },
+            {
+              "key": "developerName",
+              "value": "Shedworks"
+            },
+            {
+              "key": "com.epicgames.app.productSlug",
+              "value": "sable"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "games/edition"
+            },
+            {
+              "path": "games/edition/base"
+            },
+            {
+              "path": "applications"
+            }
+          ],
+          "tags": [
+            {
+              "id": "21122"
+            },
+            {
+              "id": "1188"
+            },
+            {
+              "id": "21894"
+            },
+            {
+              "id": "19847"
+            },
+            {
+              "id": "21127"
+            },
+            {
+              "id": "21130"
+            },
+            {
+              "id": "9547"
+            },
+            {
+              "id": "9549"
+            },
+            {
+              "id": "1263"
+            },
+            {
+              "id": "21137"
+            },
+            {
+              "id": "21138"
+            },
+            {
+              "id": "21139"
+            },
+            {
+              "id": "21140"
+            },
+            {
+              "id": "21141"
+            },
+            {
+              "id": "1370"
+            },
+            {
+              "id": "21146"
+            },
+            {
+              "id": "1307"
+            },
+            {
+              "id": "1117"
+            },
+            {
+              "id": "21149"
+            },
+            {
+              "id": "21119"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "sable",
+                "pageType": "productHome"
+              }
+            ]
+          },
+          "offerMappings": [],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 2499,
+              "originalPrice": 2499,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$24.99",
+                "discountPrice": "$24.99",
+                "intermediatePrice": "$24.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-06-26T15:00:00.000Z",
+                    "endDate": "2025-07-03T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
           "title": "Model Builder: Complete Edition",
           "id": "d3e5b556640144bfa5de2d5d3b283d68",
           "namespace": "23499f64e5304139b514c3e674c5c0d6",
@@ -936,7 +1132,7 @@
       ],
       "paging": {
         "count": 40,
-        "total": 6
+        "total": 7
       }
     }
   }
