@@ -145,19 +145,19 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2025-07-03T15:00:00.000Z",
-                    "endDate": "2025-07-10T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  },
-                  {
                     "startDate": "2025-09-04T15:00:00.000Z",
                     "endDate": "2025-09-18T15:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 20
+                    }
+                  },
+                  {
+                    "startDate": "2025-07-03T15:00:00.000Z",
+                    "endDate": "2025-07-10T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
                     }
                   }
                 ]
@@ -777,12 +777,7 @@
             }
           ],
           "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "lost-castle-abb2e2",
-                "pageType": "productHome"
-              }
-            ]
+            "mappings": null
           },
           "offerMappings": [
             {
@@ -1053,12 +1048,7 @@
             }
           ],
           "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "castlevania-anniversary-collection-a61f94",
-                "pageType": "productHome"
-              }
-            ]
+            "mappings": null
           },
           "offerMappings": [
             {
