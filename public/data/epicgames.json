@@ -228,7 +228,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "sky-racket-4cf23a",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -388,7 +393,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "model-builder-complete-edition-f9b456",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -530,7 +540,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "figment2-creed-valley",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -722,7 +737,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "lost-castle-abb2e2",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -993,7 +1013,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "castlevania-anniversary-collection-a61f94",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
