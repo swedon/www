@@ -3,137 +3,6 @@
     "searchStore": {
       "elements": [
         {
-          "title": "Sid Meier’s Civilization® VI Platinum Edition",
-          "id": "9cf93671754649668f7a043b6200ff9b",
-          "namespace": "cd14dcaa4f3443f19f7169a980559c62",
-          "description": "Sid Meier’s Civilization VI: Platinum Edition is the perfect entry point for PC gamers who have yet to experience the addictive gameplay that has made Civilization one of the greatest game series of all time.",
-          "effectiveDate": "2020-05-28T15:00:00.000Z",
-          "offerType": "EDITION",
-          "expiryDate": null,
-          "viewableDate": null,
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIPlatinumEdition_FiraxisGames_Bundles_S1-2560x1440-377e869fc8f4efea4ff996b406859a4f.jpg"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIPlatinumEdition_FiraxisGames_Bundles_S2-1200x1600-67715a33899e9a531cfff3a99385ebe8.jpg"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIPlatinumEdition_FiraxisGames_Bundles_S2-1200x1600-67715a33899e9a531cfff3a99385ebe8.jpg"
-            },
-            {
-              "type": "CodeRedemption_340x440",
-              "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIPlatinumEdition_FiraxisGames_Bundles_S2-1200x1600-67715a33899e9a531cfff3a99385ebe8.jpg"
-            }
-          ],
-          "seller": {
-            "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
-            "name": "2K Games, Inc."
-          },
-          "productSlug": "sid-meiers-civilization-vi--platinum-edition",
-          "urlSlug": "sid-meiers-civilization-vi--platinum-edition",
-          "url": null,
-          "items": [
-            {
-              "id": "d071707490764c32972609373cd6ad92",
-              "namespace": "cd14dcaa4f3443f19f7169a980559c62"
-            },
-            {
-              "id": "313a52ab4d664e9dad6b545d1fa8500f",
-              "namespace": "cd14dcaa4f3443f19f7169a980559c62"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "com.epicgames.app.blacklist",
-              "value": "CU,IR,SY,VE"
-            },
-            {
-              "key": "com.epicgames.app.productSlug",
-              "value": "sid-meiers-civilization-vi--platinum-edition"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "games/edition"
-            },
-            {
-              "path": "applications"
-            }
-          ],
-          "tags": [
-            {
-              "id": "1088"
-            },
-            {
-              "id": "1203"
-            },
-            {
-              "id": "1370"
-            },
-            {
-              "id": "1386"
-            },
-            {
-              "id": "1115"
-            },
-            {
-              "id": "9547"
-            },
-            {
-              "id": "1166"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "sid-meiers-civilization-vi",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [
-            {
-              "pageSlug": "sid-meiers-civilization-vi--platinum-edition",
-              "pageType": "offer"
-            }
-          ],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 7999,
-              "originalPrice": 7999,
-              "voucherDiscount": 0,
-              "discount": 0,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$79.99",
-                "discountPrice": "$79.99",
-                "intermediatePrice": "$79.99"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": []
-              }
-            ]
-          },
-          "promotions": null
-        },
-        {
           "title": "Model Builder: Complete Edition",
           "id": "d3e5b556640144bfa5de2d5d3b283d68",
           "namespace": "23499f64e5304139b514c3e674c5c0d6",
@@ -1186,7 +1055,7 @@
       ],
       "paging": {
         "count": 40,
-        "total": 8
+        "total": 7
       }
     }
   }
