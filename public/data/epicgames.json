@@ -106,7 +106,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "model-builder-complete-edition-f9b456",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -232,7 +237,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "pilgrims-6d250f",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -704,7 +714,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "legion-td-2-a244b9",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -870,7 +885,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "castlevania-anniversary-collection-a61f94",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -997,7 +1017,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "keylocker-622bcc",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
