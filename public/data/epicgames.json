@@ -1001,7 +1001,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "112-operator-f34b0b",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -1202,7 +1207,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "road-redemption-ce16fb",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
