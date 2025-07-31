@@ -252,29 +252,36 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 699,
+              "discountPrice": 0,
               "originalPrice": 699,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 699,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$6.99",
-                "discountPrice": "$6.99",
-                "intermediatePrice": "$6.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "8d10b4bbc1b8433dbb24845610bd9191",
+                    "endDate": "2025-08-07T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -287,7 +294,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -397,9 +405,6 @@
               "id": "1265"
             },
             {
-              "id": "16979"
-            },
-            {
               "id": "1367"
             },
             {
@@ -431,51 +436,27 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 199,
+              "discountPrice": 399,
               "originalPrice": 399,
               "voucherDiscount": 0,
-              "discount": 200,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$3.99",
-                "discountPrice": "$1.99",
-                "intermediatePrice": "$1.99"
+                "discountPrice": "$3.99",
+                "intermediatePrice": "$3.99"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "dc2e28396e324715a9b220c0afbdd609",
-                    "endDate": "2025-07-31T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-07-17T15:00:00.000Z",
-                    "endDate": "2025-07-31T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 50
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         },
         {
           "title": "LISA: The Definitive Edition",
@@ -589,191 +570,6 @@
             ]
           },
           "promotions": null
-        },
-        {
-          "title": "Legion TD 2",
-          "id": "71f1c64e7e41477ca09228c1253c9ce7",
-          "namespace": "524c3386e7e6470a8d8400cc51d92296",
-          "description": "An infinitely replayable multiplayer and single-player tower defense. Defend against waves of enemies and destroy the enemy's king before they destroy yours. Legion TD 2 is a one-of-a-kind game of tactics, teamwork, and prediction. Party as 1-8 players.",
-          "effectiveDate": "2024-10-22T12:00:00.000Z",
-          "offerType": "BASE_GAME",
-          "expiryDate": null,
-          "viewableDate": "2024-09-18T16:08:17.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/spt-assets/29586d03c1c147569a1991a8616c1413/legion-td-2-1em1j.png"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/spt-assets/29586d03c1c147569a1991a8616c1413/legion-td-2-d1xu1.png"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/spt-assets/29586d03c1c147569a1991a8616c1413/legion-td-2-d1xu1.png"
-            }
-          ],
-          "seller": {
-            "id": "o-eltt9sz3m387aekxfkra3vr5cmfp9f",
-            "name": "Ninja Kiwi"
-          },
-          "productSlug": null,
-          "urlSlug": "19a478231fb64e89b929bb982b03924f",
-          "url": null,
-          "items": [
-            {
-              "id": "e1c29939906a41f5ba1fa3181d88579f",
-              "namespace": "524c3386e7e6470a8d8400cc51d92296"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "autoGeneratedPrice",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetViewableDate",
-              "value": "true"
-            },
-            {
-              "key": "isManuallySetPCReleaseDate",
-              "value": "true"
-            },
-            {
-              "key": "isBlockchainUsed",
-              "value": "false"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "games/edition"
-            },
-            {
-              "path": "games/edition/base"
-            }
-          ],
-          "tags": [
-            {
-              "id": "29088"
-            },
-            {
-              "id": "21122"
-            },
-            {
-              "id": "1188"
-            },
-            {
-              "id": "21125"
-            },
-            {
-              "id": "19847"
-            },
-            {
-              "id": "9547"
-            },
-            {
-              "id": "1263"
-            },
-            {
-              "id": "1264"
-            },
-            {
-              "id": "1170"
-            },
-            {
-              "id": "21138"
-            },
-            {
-              "id": "1299"
-            },
-            {
-              "id": "21141"
-            },
-            {
-              "id": "22776"
-            },
-            {
-              "id": "1370"
-            },
-            {
-              "id": "1115"
-            },
-            {
-              "id": "21149"
-            },
-            {
-              "id": "10719"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "legion-td-2-a244b9",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [
-            {
-              "pageSlug": "legion-td-2-a244b9",
-              "pageType": "productHome"
-            }
-          ],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 1999,
-              "voucherDiscount": 0,
-              "discount": 1999,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$19.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": [
-                  {
-                    "id": "c24bebecd57b4f8aa6e819963ec4d09c",
-                    "endDate": "2025-07-31T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-07-24T15:00:00.000Z",
-                    "endDate": "2025-07-31T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
         },
         {
           "title": "Castlevania Anniversary Collection",
@@ -927,7 +723,7 @@
           "id": "3de25d0eaa7f4b9dbb3fa3f08fd55746",
           "namespace": "1c0e80ffead94d1f911254d457ebb48b",
           "description": "Keylocker is a Cyberpunk turn-based rhythm JRPG. As the electric singer, B0B0, you’ll choose your class, master a challenging combat system, and shake the foundations of Saturnite society in rhythm-game style!",
-          "effectiveDate": "2099-01-01T00:00:00.000Z",
+          "effectiveDate": "2025-07-31T15:00:01.000Z",
           "offerType": "BASE_GAME",
           "expiryDate": null,
           "viewableDate": "2025-07-24T15:00:00.000Z",
@@ -1032,6 +828,400 @@
           ],
           "price": {
             "totalPrice": {
+              "discountPrice": 0,
+              "originalPrice": 1999,
+              "voucherDiscount": 0,
+              "discount": 1999,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$19.99",
+                "discountPrice": "0",
+                "intermediatePrice": "0"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": [
+                  {
+                    "id": "9ed9160358ff42c7919937a46fa97842",
+                    "endDate": "2025-08-07T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-07-31T15:00:00.000Z",
+                    "endDate": "2025-08-07T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": []
+          }
+        },
+        {
+          "title": "112 Operator",
+          "id": "913af1ed18e24007ab5fd2bc2092c175",
+          "namespace": "9f981e2c861e4a8fbd0eab89541ac8e6",
+          "description": "Manage emergency services in any city in the world! Take calls and dispatch rescue forces. Handle difficult situations, now depending on the weather, and traffic. Help the citizens through cataclysms and natural disasters, becoming a better emergency number operator every day!",
+          "effectiveDate": "2025-08-07T15:00:00.000Z",
+          "offerType": "BASE_GAME",
+          "expiryDate": null,
+          "viewableDate": "2025-07-31T15:00:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-1smmi.jpg"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-rwm3x.jpg"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-rwm3x.jpg"
+            },
+            {
+              "type": "heroCarouselVideo",
+              "url": "com.epicgames.video://e49f0f8c-cd61-42fc-8f45-154e304ae056?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F6036e5ea111a448ea1b41d5ab3800d99%2F112-operator-video-6midh.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-ueg1j.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-4jksn.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-8sb8h.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-1hhj8.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-ndilo.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-ho9o7.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-2z35l.jpg"
+            }
+          ],
+          "seller": {
+            "id": "o-8dv8wz77w8tqnymmm8e99p28eny7kg",
+            "name": "Games Operators S.A."
+          },
+          "productSlug": null,
+          "urlSlug": "112-operator",
+          "url": null,
+          "items": [
+            {
+              "id": "f9ccb925e47f439a9797c8d0927830ea",
+              "namespace": "9f981e2c861e4a8fbd0eab89541ac8e6"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "autoGeneratedPrice",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetViewableDate",
+              "value": "true"
+            },
+            {
+              "key": "isPromotionalContentUsed",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetPCReleaseDate",
+              "value": "true"
+            },
+            {
+              "key": "isBlockchainUsed",
+              "value": "false"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "games/edition"
+            },
+            {
+              "path": "games/edition/base"
+            }
+          ],
+          "tags": [
+            {
+              "id": "1296"
+            },
+            {
+              "id": "1393"
+            },
+            {
+              "id": "19847"
+            },
+            {
+              "id": "1370"
+            },
+            {
+              "id": "1115"
+            },
+            {
+              "id": "9547"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "112-operator-f34b0b",
+                "pageType": "productHome"
+              }
+            ]
+          },
+          "offerMappings": [
+            {
+              "pageSlug": "112-operator-f34b0b",
+              "pageType": "productHome"
+            }
+          ],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 2499,
+              "originalPrice": 2499,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$24.99",
+                "discountPrice": "$24.99",
+                "intermediatePrice": "$24.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-08-07T15:00:00.000Z",
+                    "endDate": "2025-08-14T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Road Redemption",
+          "id": "91a0b419d5b741c39cc35ce3a35138c0",
+          "namespace": "462451248e9640f4a211294193034dda",
+          "description": "Road Redemption lets you lead a biker gang on an epic journey across the country in this driving combat road rage adventure.",
+          "effectiveDate": "2025-08-07T15:00:00.000Z",
+          "offerType": "BASE_GAME",
+          "expiryDate": null,
+          "viewableDate": "2025-07-31T15:00:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-1upeb.png"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-13yx5.png"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-13yx5.png"
+            },
+            {
+              "type": "heroCarouselVideo",
+              "url": "com.epicgames.video://82a12b15-9c28-40a4-8fbf-95dd783dbb68?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fee0cf0e1ab6a4e1c83e5de0681fea012%2Froad-redemption-video-hxsgh.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-12nvb.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-bm5fu.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-npf5g.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-s7ual.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-1mdp8.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-4cwt5.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-1ek7i.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-8zkcf.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-5esuv.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-16ave.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-8cyx7.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-18b00.png"
+            }
+          ],
+          "seller": {
+            "id": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+            "name": "Plug In Digital SAS"
+          },
+          "productSlug": null,
+          "urlSlug": "road-redemption",
+          "url": null,
+          "items": [
+            {
+              "id": "21315030dbe44ed89e7ad39b768b3ce1",
+              "namespace": "462451248e9640f4a211294193034dda"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "autoGeneratedPrice",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetViewableDate",
+              "value": "true"
+            },
+            {
+              "key": "isPromotionalContentUsed",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetPCReleaseDate",
+              "value": "true"
+            },
+            {
+              "key": "isBlockchainUsed",
+              "value": "false"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "games/edition"
+            },
+            {
+              "path": "games/edition/base"
+            }
+          ],
+          "tags": [
+            {
+              "id": "1216"
+            },
+            {
+              "id": "1264"
+            },
+            {
+              "id": "19847"
+            },
+            {
+              "id": "1370"
+            },
+            {
+              "id": "9547"
+            },
+            {
+              "id": "1212"
+            },
+            {
+              "id": "1183"
+            },
+            {
+              "id": "10719"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "road-redemption-ce16fb",
+                "pageType": "productHome"
+              }
+            ]
+          },
+          "offerMappings": [
+            {
+              "pageSlug": "road-redemption-ce16fb",
+              "pageType": "productHome"
+            }
+          ],
+          "price": {
+            "totalPrice": {
               "discountPrice": 1999,
               "originalPrice": 1999,
               "voucherDiscount": 0,
@@ -1058,8 +1248,8 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2025-07-31T15:00:00.000Z",
-                    "endDate": "2025-08-07T15:00:00.000Z",
+                    "startDate": "2025-08-07T15:00:00.000Z",
+                    "endDate": "2025-08-14T15:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 0
@@ -1073,7 +1263,7 @@
       ],
       "paging": {
         "count": 40,
-        "total": 7
+        "total": 8
       }
     }
   }
