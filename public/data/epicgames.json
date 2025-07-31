@@ -727,8 +727,53 @@
               "pageType": "productHome"
             }
           ],
-          "price": null,
-          "promotions": null
+          "price": {
+            "totalPrice": {
+              "discountPrice": 0,
+              "originalPrice": 1999,
+              "voucherDiscount": 0,
+              "discount": 1999,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$19.99",
+                "discountPrice": "0",
+                "intermediatePrice": "0"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": [
+                  {
+                    "id": "c24bebecd57b4f8aa6e819963ec4d09c",
+                    "endDate": "2025-07-31T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-07-24T15:00:00.000Z",
+                    "endDate": "2025-07-31T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": []
+          }
         },
         {
           "title": "Castlevania Anniversary Collection",
