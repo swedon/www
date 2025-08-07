@@ -681,7 +681,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "castlevania-anniversary-collection-a61f94",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -811,7 +816,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "keylocker-622bcc",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -994,7 +1004,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "112-operator-f34b0b",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
