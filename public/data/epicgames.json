@@ -451,7 +451,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "lost-castle-abb2e2",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -706,7 +711,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "castlevania-anniversary-collection-a61f94",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -874,7 +884,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "112-operator-f34b0b",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -1083,7 +1098,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "road-redemption-ce16fb",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -1282,7 +1302,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "hidden-folks-239d16",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
