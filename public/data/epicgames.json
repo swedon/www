@@ -451,12 +451,7 @@
             }
           ],
           "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "lost-castle-abb2e2",
-                "pageType": "productHome"
-              }
-            ]
+            "mappings": null
           },
           "offerMappings": [
             {
@@ -711,12 +706,7 @@
             }
           ],
           "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "castlevania-anniversary-collection-a61f94",
-                "pageType": "productHome"
-              }
-            ]
+            "mappings": null
           },
           "offerMappings": [
             {
@@ -862,6 +852,9 @@
               "id": "1393"
             },
             {
+              "id": "21141"
+            },
+            {
               "id": "19847"
             },
             {
@@ -872,15 +865,16 @@
             },
             {
               "id": "9547"
+            },
+            {
+              "id": "21149"
+            },
+            {
+              "id": "21119"
             }
           ],
           "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "112-operator-f34b0b",
-                "pageType": "productHome"
-              }
-            ]
+            "mappings": null
           },
           "offerMappings": [
             {
@@ -1089,12 +1083,7 @@
             }
           ],
           "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "road-redemption-ce16fb",
-                "pageType": "productHome"
-              }
-            ]
+            "mappings": null
           },
           "offerMappings": [
             {
@@ -1293,12 +1282,7 @@
             }
           ],
           "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "hidden-folks-239d16",
-                "pageType": "productHome"
-              }
-            ]
+            "mappings": null
           },
           "offerMappings": [
             {
