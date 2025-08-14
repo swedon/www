@@ -1,7 +1,6 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-
 import DiscordButton, { DiscordLink } from '@/components/Discord'
 
 export default function LandingPage() {
@@ -16,12 +15,18 @@ export default function LandingPage() {
 	}
 
 	return (
-		<div className='flex flex-col items-center justify-center space-y-10 mt-0 animate__animated animate__zoomIn'>
-			<div className='flex flex-col items-center space-y-6 mt-20'>
-				<p className='bg-[--color-dark] text-white px-6 py-6 sm:py-4 lg:px-6 rounded-lg dark:bg-[--color-white] dark:text-black text-lg font-medium animate__animated animate__zoomIn animate__slow animate__delay'>
+		<div className='flex flex-col items-center justify-center space-y-10 mt-25 animate__animated animate__zoomIn'>
+			{/* <div className='flex flex-col items-center space-y-6 mt-20'>
+				<p className='bg-[--color-dark] text-white px-6 py-6 sm:py-4 lg:px-6 rounded-lg dark:bg-[--color-white] dark:text-black text-lg font-medium '>
 					{DiscordLink}
 				</p>
-			</div>
+			</div> */}
+			<div className="rounded overflow-hidden shadow-lg bg-[var(--color-discord)] text-light animate__animated animate__zoomIn animate__slow animate__delay">
+				<div className="px-10 py-2">
+					{/* <div className="font-bold text-xl mb-2">Join our community</div> */}
+					<p className="font-bold text-3xl my-10">{DiscordLink}</p>
+				</div>
+			</div>		
 			<DiscordButton
 				className='flex items-center justify-center space-x-2 text-3xl font-bold uppercase py-[10px] pr-[15px] pl-[15px] animate__animated animate__flash animate__slower animate__delay-1s'
 				classNameIcon='w-12 h-12 ml-1'
