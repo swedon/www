@@ -149,29 +149,36 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1499,
+              "discountPrice": 0,
               "originalPrice": 1499,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1499,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$14.99",
-                "discountPrice": "$14.99",
-                "intermediatePrice": "$14.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "1b26c4ee8650430d8b2b4204d2739504",
+                    "endDate": "2025-08-21T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -184,7 +191,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -1040,432 +1048,6 @@
           }
         },
         {
-          "title": "112 Operator",
-          "id": "913af1ed18e24007ab5fd2bc2092c175",
-          "namespace": "9f981e2c861e4a8fbd0eab89541ac8e6",
-          "description": "Manage emergency services in any city in the world! Take calls and dispatch rescue forces. Handle difficult situations, now depending on the weather, and traffic. Help the citizens through cataclysms and natural disasters, becoming a better emergency number operator every day!",
-          "effectiveDate": "2025-08-07T15:00:00.000Z",
-          "offerType": "BASE_GAME",
-          "expiryDate": null,
-          "viewableDate": "2025-07-31T15:00:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-1smmi.jpg"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-rwm3x.jpg"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-rwm3x.jpg"
-            },
-            {
-              "type": "heroCarouselVideo",
-              "url": "com.epicgames.video://e49f0f8c-cd61-42fc-8f45-154e304ae056?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F6036e5ea111a448ea1b41d5ab3800d99%2F112-operator-video-6midh.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-ueg1j.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-4jksn.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-8sb8h.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-1hhj8.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-ndilo.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-ho9o7.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-2z35l.jpg"
-            }
-          ],
-          "seller": {
-            "id": "o-8dv8wz77w8tqnymmm8e99p28eny7kg",
-            "name": "Games Operators S.A."
-          },
-          "productSlug": null,
-          "urlSlug": "112-operator",
-          "url": null,
-          "items": [
-            {
-              "id": "f9ccb925e47f439a9797c8d0927830ea",
-              "namespace": "9f981e2c861e4a8fbd0eab89541ac8e6"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "autoGeneratedPrice",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetViewableDate",
-              "value": "true"
-            },
-            {
-              "key": "isPromotionalContentUsed",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetPCReleaseDate",
-              "value": "true"
-            },
-            {
-              "key": "isBlockchainUsed",
-              "value": "false"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "games/edition"
-            },
-            {
-              "path": "games/edition/base"
-            }
-          ],
-          "tags": [
-            {
-              "id": "19847"
-            },
-            {
-              "id": "9547"
-            },
-            {
-              "id": "1296"
-            },
-            {
-              "id": "1393"
-            },
-            {
-              "id": "21137"
-            },
-            {
-              "id": "21138"
-            },
-            {
-              "id": "21139"
-            },
-            {
-              "id": "21140"
-            },
-            {
-              "id": "21141"
-            },
-            {
-              "id": "1370"
-            },
-            {
-              "id": "21146"
-            },
-            {
-              "id": "1115"
-            },
-            {
-              "id": "21149"
-            },
-            {
-              "id": "21119"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "112-operator-f34b0b",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [
-            {
-              "pageSlug": "112-operator-f34b0b",
-              "pageType": "productHome"
-            }
-          ],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 2499,
-              "voucherDiscount": 0,
-              "discount": 2499,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$24.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": [
-                  {
-                    "id": "5769b9dc453c47caab157169a856ebd6",
-                    "endDate": "2025-08-14T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-08-07T15:00:00.000Z",
-                    "endDate": "2025-08-14T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
-        },
-        {
-          "title": "Road Redemption",
-          "id": "91a0b419d5b741c39cc35ce3a35138c0",
-          "namespace": "462451248e9640f4a211294193034dda",
-          "description": "Road Redemption lets you lead a biker gang on an epic journey across the country in this driving combat road rage adventure.",
-          "effectiveDate": "2025-08-07T15:00:00.000Z",
-          "offerType": "BASE_GAME",
-          "expiryDate": null,
-          "viewableDate": "2025-07-31T15:00:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-1upeb.png"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-13yx5.png"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-13yx5.png"
-            },
-            {
-              "type": "heroCarouselVideo",
-              "url": "com.epicgames.video://82a12b15-9c28-40a4-8fbf-95dd783dbb68?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fee0cf0e1ab6a4e1c83e5de0681fea012%2Froad-redemption-video-hxsgh.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-12nvb.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-bm5fu.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-npf5g.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-s7ual.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-1mdp8.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-4cwt5.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-1ek7i.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-8zkcf.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-5esuv.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-16ave.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-8cyx7.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-18b00.png"
-            }
-          ],
-          "seller": {
-            "id": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
-            "name": "Plug In Digital SAS"
-          },
-          "productSlug": null,
-          "urlSlug": "road-redemption",
-          "url": null,
-          "items": [
-            {
-              "id": "21315030dbe44ed89e7ad39b768b3ce1",
-              "namespace": "462451248e9640f4a211294193034dda"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "autoGeneratedPrice",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetViewableDate",
-              "value": "true"
-            },
-            {
-              "key": "isPromotionalContentUsed",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetPCReleaseDate",
-              "value": "true"
-            },
-            {
-              "key": "isBlockchainUsed",
-              "value": "false"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "games/edition"
-            },
-            {
-              "path": "games/edition/base"
-            }
-          ],
-          "tags": [
-            {
-              "id": "1216"
-            },
-            {
-              "id": "1264"
-            },
-            {
-              "id": "19847"
-            },
-            {
-              "id": "1370"
-            },
-            {
-              "id": "9547"
-            },
-            {
-              "id": "1212"
-            },
-            {
-              "id": "1183"
-            },
-            {
-              "id": "10719"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "road-redemption-ce16fb",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [
-            {
-              "pageSlug": "road-redemption-ce16fb",
-              "pageType": "productHome"
-            }
-          ],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 1999,
-              "voucherDiscount": 0,
-              "discount": 1999,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$19.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": [
-                  {
-                    "id": "867cef604b5d4f97b97324104a5287a6",
-                    "endDate": "2025-08-14T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-08-07T15:00:00.000Z",
-                    "endDate": "2025-08-14T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
-        },
-        {
           "title": "Hidden Folks",
           "id": "8ea3500dc38e4f429702bf889c172d3d",
           "namespace": "b0545d64f90248208a5dd6f213f4dde7",
@@ -1626,29 +1208,36 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1499,
+              "discountPrice": 0,
               "originalPrice": 1499,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1499,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$14.99",
-                "discountPrice": "$14.99",
-                "intermediatePrice": "$14.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "8270e0379a524593b184ec9c33f09adb",
+                    "endDate": "2025-08-21T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -1661,13 +1250,14 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         }
       ],
       "paging": {
         "count": 40,
-        "total": 10
+        "total": 8
       }
     }
   }
