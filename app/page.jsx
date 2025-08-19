@@ -3,6 +3,8 @@
 import { useState, useEffect } from 'react'
 import DiscordButton, { DiscordLink } from '@/components/Discord'
 
+import FreeGamesPromotions from '@/components/EpicGames'
+
 export default function LandingPage() {
 	const [mounted, setMounted] = useState(false)
 
@@ -15,25 +17,29 @@ export default function LandingPage() {
 	}
 
 	return (
-		<div className='flex flex-col items-center justify-center space-y-10 mt-25 animate__animated animate__zoomIn'>
-			{/* <div className='flex flex-col items-center space-y-6 mt-20'>
-				<p className='bg-[--color-dark] text-white px-6 py-6 sm:py-4 lg:px-6 rounded-lg dark:bg-[--color-white] dark:text-black text-lg font-medium '>
-					{DiscordLink}
-				</p>
-			</div> */}
-			<div className="rounded overflow-hidden shadow-lg bg-[var(--color-discord)] text-light animate__animated animate__zoomIn animate__slow animate__delay">
-				<div className="px-10 py-2">
-					{/* <div className="font-bold text-xl mb-2">Join our community</div> */}
-					<p className="font-bold text-3xl my-10">{DiscordLink}</p>
+		<>
+			<div className='row flex flex-col items-center justify-center space-y-10 mt-25 animate__animated animate__zoomIn'>
+				<div className="col-1 rounded overflow-hidden shadow-lg bg-[var(--color-discord)] text-light animate__animated animate__zoomInUp animate__slow animate__delay">
+					<div className="px-10 py-2">
+						{/* <div className="font-bold text-xl mb-2">Join our community</div> */}
+						<p className="font-bold text-3xl my-10">{DiscordLink}</p>
+					</div>
+				</div>		
+				<DiscordButton
+					className='flex items-center justify-center space-x-2 text-3xl font-bold uppercase py-[10px] pr-[15px] pl-[15px] animate__animated animate__flash animate__slower animate__delay-1s'
+					classNameIcon='w-12 h-12 ml-1'
+					title='Discord'
+				>
+					Discord
+				</DiscordButton>
+			</div>
+			
+			{/* <div className='container mx-auto p-4'>
+				<h1 className='text-xl font-bold text-center bg-gray-200 text-dark p-4 rounded'>Epic Games</h1>
+				<div className='mt-2'>
+					<FreeGamesPromotions></FreeGamesPromotions>
 				</div>
-			</div>		
-			<DiscordButton
-				className='flex items-center justify-center space-x-2 text-3xl font-bold uppercase py-[10px] pr-[15px] pl-[15px] animate__animated animate__flash animate__slower animate__delay-1s'
-				classNameIcon='w-12 h-12 ml-1'
-				title='Discord'
-			>
-				Discord
-			</DiscordButton>
-		</div>
+			</div> */}
+		</>
 	)
 }

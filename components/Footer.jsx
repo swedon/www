@@ -2,8 +2,6 @@
 
 import React from 'react'
 
-import ThemeSwitcher from './ThemeSwitcher'
-
 const Footer = () => {
 	return (
 		<footer className='px-4 sm:px-6 py-6 mt-10'>
@@ -15,7 +13,6 @@ const Footer = () => {
 					</a>
 					, All rights reserved.
 				</div>
-				<ThemeSwitcher />
 			</div>
 		</footer>
 	)

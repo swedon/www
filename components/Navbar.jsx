@@ -17,6 +17,8 @@ import DiscordButton from './Discord'
 import logoWhite from '@/public/s-logo-white.svg'
 import logoBlack from '@/public/s-logo-black.svg'
 
+import ThemeSwitcher from './ThemeSwitcher'
+
 const links = [
 	{ id: 1, text: 'Start', description: '', href: '/start', icon: FaHome },
 	{ id: 2, text: 'Contact', description: '', href: '/contact', icon: MdContactPage },
@@ -148,9 +150,10 @@ const Navbar = ({ children }) => {
 				</div>
 
 				<div className='hidden lg:flex lg:flex-1 lg:justify-end'>
-					<span className='text-sm leading-6 text-gray-900'>
+					<span className='text-sm leading-6 text-gray-900 mr-2'>
 						<DiscordButton href='/discord' />
 					</span>
+					<ThemeSwitcher />
 				</div>
 			</nav>
 
@@ -233,6 +236,7 @@ const Navbar = ({ children }) => {
 							</div>
 							<div className='flex inline-block py-6'>
 								<DiscordButton />
+								<ThemeSwitcher />
 							</div>
 						</div>
 					</div>
