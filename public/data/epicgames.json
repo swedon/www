@@ -623,12 +623,7 @@
             }
           ],
           "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "lost-castle-abb2e2",
-                "pageType": "productHome"
-              }
-            ]
+            "mappings": null
           },
           "offerMappings": [
             {
