@@ -815,7 +815,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "kamaeru-0c301e",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
