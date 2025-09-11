@@ -719,7 +719,23 @@
               }
             ]
           },
-          "promotions": null
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-09-25T15:00:00.000Z",
+                    "endDate": "2025-10-09T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 40
+                    }
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "title": "The Battle of Polytopia",
