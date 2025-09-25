@@ -157,15 +157,63 @@
           "keyImages": [
             {
               "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-99qmh.png"
+              "url": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1p5r8.png"
             },
             {
               "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-uldk2.png"
+              "url": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-hc0l4.png"
             },
             {
               "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-uldk2.png"
+              "url": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-hc0l4.png"
+            },
+            {
+              "type": "heroCarouselVideo",
+              "url": "com.epicgames.video://e59cffa9-cb67-4542-8d0b-58f2329ac825?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F69576a28f7154fe9a0dce97508da5163%2Ffirestone-online-idle-rpg-video-b4k8r.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-e2hhz.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-lynzg.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-vjscu.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-hhxjy.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-suhxf.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-5u2uh.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-14n7c.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-l9uob.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-12yw9.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-rrnvj.png"
+            },
+            {
+              "type": "heroCarouselVideo",
+              "url": "com.epicgames.video://959dd81c-dfdb-4316-abb7-58e7beb72bcb?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F69576a28f7154fe9a0dce97508da5163%2Ffirestone-online-idle-rpg-video-5ns2y.png"
             }
           ],
           "seller": {
@@ -331,161 +379,6 @@
                 ]
               }
             ]
-          }
-        },
-        {
-          "title": "Samorost 2",
-          "id": "15176675e3bd4fcc98949566caa754e4",
-          "namespace": "3341d4dd5b8d44c3a372da3f10122485",
-          "description": "Samorost 2 tells a surreal story of a space gnome whose dog just got kidnapped by mischievous aliens. Set out on a short expedition to rescue the pup, deal with curious strangers and relax to the soothing music by Tomáš \"Floex\" Dvořák.",
-          "effectiveDate": "2023-06-30T13:00:00.000Z",
-          "offerType": "BASE_GAME",
-          "expiryDate": null,
-          "viewableDate": "2023-06-28T08:00:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-1hb4u.jpg"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-l1bxz.jpg"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-l1bxz.jpg"
-            }
-          ],
-          "seller": {
-            "id": "o-9yx3b8bxbr9g2r3z7ahpmgphp2d5kh",
-            "name": "Amanita Design s.r.o."
-          },
-          "productSlug": null,
-          "urlSlug": "7e3160660b3f406aa92c77971f04c4e1",
-          "url": null,
-          "items": [
-            {
-              "id": "b6ddcfb585c74df981b466143db08f51",
-              "namespace": "3341d4dd5b8d44c3a372da3f10122485"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "autoGeneratedPrice",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetViewableDate",
-              "value": "true"
-            },
-            {
-              "key": "isManuallySetPCReleaseDate",
-              "value": "true"
-            },
-            {
-              "key": "isBlockchainUsed",
-              "value": "false"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "games/edition"
-            },
-            {
-              "path": "games/edition/base"
-            }
-          ],
-          "tags": [
-            {
-              "id": "1298"
-            },
-            {
-              "id": "21894"
-            },
-            {
-              "id": "19847"
-            },
-            {
-              "id": "1370"
-            },
-            {
-              "id": "9547"
-            },
-            {
-              "id": "1117"
-            },
-            {
-              "id": "1263"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "samorost-2-1b9bb1",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [
-            {
-              "pageSlug": "samorost-2-1b9bb1",
-              "pageType": "productHome"
-            }
-          ],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 499,
-              "voucherDiscount": 0,
-              "discount": 499,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$4.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": [
-                  {
-                    "id": "138790ca39674530ab038b4ffd0f3ac8",
-                    "endDate": "2025-09-25T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-09-18T15:00:00.000Z",
-                    "endDate": "2025-09-25T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -734,29 +627,36 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1799,
+              "discountPrice": 0,
               "originalPrice": 1799,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1799,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$17.99",
-                "discountPrice": "$17.99",
-                "intermediatePrice": "$17.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "8138dec7816a42d194e61383c95cbd1a",
+                    "endDate": "2025-10-02T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -769,7 +669,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -1317,28 +1218,31 @@
               "id": "21122"
             },
             {
-              "id": "21139"
-            },
-            {
-              "id": "21109"
-            },
-            {
               "id": "19847"
             },
             {
               "id": "21129"
             },
             {
-              "id": "1370"
+              "id": "9547"
             },
             {
-              "id": "9547"
+              "id": "35244"
             },
             {
               "id": "9549"
             },
             {
               "id": "1198"
+            },
+            {
+              "id": "21139"
+            },
+            {
+              "id": "21109"
+            },
+            {
+              "id": "1370"
             },
             {
               "id": "1151"
@@ -1360,29 +1264,36 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1999,
+              "discountPrice": 799,
               "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1200,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
+                "discountPrice": "$7.99",
+                "intermediatePrice": "$7.99"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "6b803b777afb4bb59cbc4e65a2c961f1",
+                    "endDate": "2025-10-09T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -1395,7 +1306,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -1543,29 +1455,36 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1499,
+              "discountPrice": 0,
               "originalPrice": 1499,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1499,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$14.99",
-                "discountPrice": "$14.99",
-                "intermediatePrice": "$14.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "1b058788f91145dcbdeababf8637a6d4",
+                    "endDate": "2025-10-02T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -1578,7 +1497,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -1745,246 +1665,11 @@
             ]
           },
           "promotions": null
-        },
-        {
-          "title": "Project Winter",
-          "id": "185405ac2556457883827885b44e0e69",
-          "namespace": "788e00e07a364c4ab1a42708b6ea6e17",
-          "description": "In Project Winter, survival is just the beginning. Work with your friends to escape the icy wilderness, but don’t get too comfortable. Traitors lurk among you, ready to lie, sabotage, and turn even the closest of friends against each other. Who will you trust?",
-          "effectiveDate": "2025-09-18T15:00:00.000Z",
-          "offerType": "BASE_GAME",
-          "expiryDate": null,
-          "viewableDate": "2025-09-10T17:48:37.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-phsnu.png"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-1n3dm.png"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-1n3dm.png"
-            },
-            {
-              "type": "heroCarouselVideo",
-              "url": "com.epicgames.video://c6679131-5fc1-45dd-a6ac-36844c34984e?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F8b114e51c13344978e0b8693dea6bb74%2Fproject-winter-video-srjs5.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-177ap.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-17iys.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-7z1gx.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-tdl7i.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-4sej6.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-9cbaw.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-zrzhy.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-12nn7.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-1f4o7.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-1kmtp.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-sm1me.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-1wter.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-a1xp5.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-1ljbl.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-ds8wx.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-bqcix.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-1qmds.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-1auxm.png"
-            }
-          ],
-          "seller": {
-            "id": "o-n6nlxccdm655mnvxdmxek4c5pbwm6c",
-            "name": "Other Ocean Interactive"
-          },
-          "productSlug": null,
-          "urlSlug": "7d768bd73c50476f9832d8265114a742",
-          "url": null,
-          "items": [
-            {
-              "id": "63ceb70163254c91aa9c71ca4c54751c",
-              "namespace": "788e00e07a364c4ab1a42708b6ea6e17"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "autoGeneratedPrice",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetViewableDate",
-              "value": "true"
-            },
-            {
-              "key": "isPromotionalContentUsed",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetPCReleaseDate",
-              "value": "true"
-            },
-            {
-              "key": "isBlockchainUsed",
-              "value": "false"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "games/edition"
-            },
-            {
-              "path": "games/edition/base"
-            }
-          ],
-          "tags": [
-            {
-              "id": "1296"
-            },
-            {
-              "id": "29088"
-            },
-            {
-              "id": "1336"
-            },
-            {
-              "id": "22776"
-            },
-            {
-              "id": "9547"
-            },
-            {
-              "id": "9549"
-            },
-            {
-              "id": "1263"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "project-winter-3b9e84",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [
-            {
-              "pageSlug": "project-winter-3b9e84",
-              "pageType": "productHome"
-            }
-          ],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 999,
-              "voucherDiscount": 0,
-              "discount": 999,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$9.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": [
-                  {
-                    "id": "d4270b01f5d247e49ca986179708791b",
-                    "endDate": "2025-09-25T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-09-18T15:00:00.000Z",
-                    "endDate": "2025-09-25T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
         }
       ],
       "paging": {
         "count": 40,
-        "total": 12
+        "total": 10
       }
     }
   }
