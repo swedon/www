@@ -106,7 +106,7 @@
     "@tsparticles/updater-wobble": "3.1.0",
     "@types/node": "24.5.2",
     "@types/react": "19.2.2",
-    "@types/react-dom": "19.1.9",
+    "@types/react-dom": "19.2.1",
     "animate.css": "^4.1.1",
     "autoprefixer": "^10.4.21",
     "axios": "^1.12.2",
@@ -114,7 +114,7 @@
     "next-intl": "^4.3.9",
     "next-themes": "^0.4.6",
     "react": "^19.2.0",
-    "react-dom": "^19.1.1",
+    "react-dom": "^19.2.0",
     "react-icons": "^5.5.0",
     "swr": "^2.3.6",
     "tsparticles": "3.1.0"
