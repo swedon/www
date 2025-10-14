@@ -1005,19 +1005,19 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2025-10-26T16:00:00.000Z",
-                    "endDate": "2025-11-09T17:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 60
-                    }
-                  },
-                  {
                     "startDate": "2025-12-11T16:00:00.000Z",
                     "endDate": "2026-01-08T16:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 50
+                    }
+                  },
+                  {
+                    "startDate": "2025-10-26T16:00:00.000Z",
+                    "endDate": "2025-11-09T17:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 60
                     }
                   }
                 ]
@@ -1123,6 +1123,9 @@
             },
             {
               "id": "1198"
+            },
+            {
+              "id": "21138"
             },
             {
               "id": "21139"
