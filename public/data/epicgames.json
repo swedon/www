@@ -258,29 +258,36 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 2499,
+              "discountPrice": 0,
               "originalPrice": 2499,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 2499,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$24.99",
-                "discountPrice": "$24.99",
-                "intermediatePrice": "$24.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "1c055e02aa16402f8421e512d7873bbc",
+                    "endDate": "2025-10-23T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -293,7 +300,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -405,29 +413,36 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1999,
+              "discountPrice": 0,
               "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1999,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "066389b98ad4494681fd40441aeef4e9",
+                    "endDate": "2025-10-23T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -440,7 +455,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -549,51 +565,27 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 0,
+              "discountPrice": 1699,
               "originalPrice": 1699,
               "voucherDiscount": 0,
-              "discount": 1699,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$16.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
+                "discountPrice": "$16.99",
+                "intermediatePrice": "$16.99"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "0c2ae585a570480391a516cd934125f6",
-                    "endDate": "2025-10-16T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-10-09T15:00:00.000Z",
-                    "endDate": "2025-10-16T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         },
         {
           "title": "Ghostrunner 2",
@@ -1353,60 +1345,76 @@
           "promotions": null
         },
         {
-          "title": "Rogue Journeyman Bundle",
-          "id": "1fabfcaf66d24dc1bd487ab2b2afefe0",
-          "namespace": "72520902fc594621b6daa5a6217b4ee7",
-          "description": "A free gift containing over $55 worth of items! Unlock the Rogue Adventurer vanity bundle, a fiery mount skin, Learning Points to boost your progression, and more.",
-          "effectiveDate": "2025-10-09T15:00:00.000Z",
-          "offerType": "ADD_ON",
-          "expiryDate": "2025-10-16T15:00:00.000Z",
-          "viewableDate": "2025-10-02T15:00:00.000Z",
+          "title": "Fear the Spotlight",
+          "id": "1f1bb7fd09a94d8f9d9219210ffacf95",
+          "namespace": "61159823352c4467b9f6205c01d8d3ee",
+          "description": "Fear the Spotlight is an atmospheric third-person horror adventure with a disturbing mystery to unravel. Sneak into school after hours with Vivian and Amy, survive a séance gone wrong, solve tactile puzzles, and, whatever you do, stay out of the spotlight…",
+          "effectiveDate": "2025-10-23T15:00:00.000Z",
+          "offerType": "BASE_GAME",
+          "expiryDate": null,
+          "viewableDate": "2025-10-16T15:00:00.000Z",
           "status": "ACTIVE",
           "isCodeRedemptionOnly": false,
           "keyImages": [
             {
               "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-qadpy.jpg"
+              "url": "https://cdn1.epicgames.com/spt-assets/7440e6952704438cbb2e4f4dff02e00a/fear-the-spotlight-1ioq7.jpg"
             },
             {
               "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-1fq7b.png"
+              "url": "https://cdn1.epicgames.com/spt-assets/7440e6952704438cbb2e4f4dff02e00a/fear-the-spotlight-1vo8s.jpg"
             },
             {
               "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-1fq7b.png"
+              "url": "https://cdn1.epicgames.com/spt-assets/7440e6952704438cbb2e4f4dff02e00a/fear-the-spotlight-1vo8s.jpg"
             },
             {
               "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-o9ker.png"
+              "url": "https://cdn1.epicgames.com/spt-assets/7440e6952704438cbb2e4f4dff02e00a/fear-the-spotlight-1vdik.png"
             },
             {
-              "type": "heroCarouselVideo",
-              "url": "com.epicgames.video://cfed7fd5-bc4e-48be-83bd-f2f39c789d82?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F92837229023341268267ff64cae425a5%2Falbion-online-video-k3hr3.png"
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/7440e6952704438cbb2e4f4dff02e00a/fear-the-spotlight-51bid.png"
             },
             {
-              "type": "heroCarouselVideo",
-              "url": "com.epicgames.video://2385184f-88ff-4140-97dc-efa96c353dcc?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F92837229023341268267ff64cae425a5%2Falbion-online-video-gbzdr.png"
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/7440e6952704438cbb2e4f4dff02e00a/fear-the-spotlight-1q360.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/7440e6952704438cbb2e4f4dff02e00a/fear-the-spotlight-1ydv1.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/7440e6952704438cbb2e4f4dff02e00a/fear-the-spotlight-19cdk.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/7440e6952704438cbb2e4f4dff02e00a/fear-the-spotlight-1hbd1.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/7440e6952704438cbb2e4f4dff02e00a/fear-the-spotlight-147s3.png"
+            },
+            {
+              "type": "GalleryImage",
+              "url": "https://cdn1.epicgames.com/spt-assets/7440e6952704438cbb2e4f4dff02e00a/fear-the-spotlight-61v4f.jpg"
             }
           ],
           "seller": {
-            "id": "o-bqgxsskl6psb955j4pwt52muzt69yz",
-            "name": "Sandbox Interactive GmbH"
+            "id": "o-d6tmfe9l4k8jj4yesfuuk9bm5ccjgm",
+            "name": "Blumhouse Games"
           },
           "productSlug": null,
-          "urlSlug": "rogue-journeyman-bundle",
+          "urlSlug": "9eea1c9a2590434a9899bd484d9cbfbd",
           "url": null,
           "items": [
             {
-              "id": "6a7c6b2c50224fd2942219f50fa3dc81",
-              "namespace": "72520902fc594621b6daa5a6217b4ee7"
+              "id": "429ad1b28a404b2b9b975ba88350688e",
+              "namespace": "61159823352c4467b9f6205c01d8d3ee"
             }
           ],
           "customAttributes": [
-            {
-              "key": "isManuallySetRefundableType",
-              "value": "true"
-            },
             {
               "key": "autoGeneratedPrice",
               "value": "false"
@@ -1421,7 +1429,7 @@
             },
             {
               "key": "isManuallySetPCReleaseDate",
-              "value": "false"
+              "value": "true"
             },
             {
               "key": "isBlockchainUsed",
@@ -1430,30 +1438,30 @@
           ],
           "categories": [
             {
-              "path": "addons"
-            },
-            {
               "path": "freegames"
             },
             {
-              "path": "addons/durable"
+              "path": "games"
+            },
+            {
+              "path": "games/edition"
+            },
+            {
+              "path": "games/edition/base"
             }
           ],
           "tags": [
             {
-              "id": "29088"
+              "id": "1218"
             },
             {
-              "id": "1287"
+              "id": "1298"
             },
             {
-              "id": "1367"
+              "id": "21894"
             },
             {
-              "id": "22775"
-            },
-            {
-              "id": "22776"
+              "id": "1370"
             },
             {
               "id": "9547"
@@ -1471,21 +1479,21 @@
           "catalogNs": {
             "mappings": [
               {
-                "pageSlug": "albion-online-7eb24d",
+                "pageSlug": "fear-the-spotlight-97656f",
                 "pageType": "productHome"
               }
             ]
           },
           "offerMappings": [
             {
-              "pageSlug": "albion-online-rogue-journeyman-bundle-99807a",
-              "pageType": "offer"
+              "pageSlug": "fear-the-spotlight-97656f",
+              "pageType": "productHome"
             }
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 0,
+              "discountPrice": 1999,
+              "originalPrice": 1999,
               "voucherDiscount": 0,
               "discount": 0,
               "currencyCode": "USD",
@@ -1493,9 +1501,9 @@
                 "decimals": 2
               },
               "fmtPrice": {
-                "originalPrice": "0",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
+                "originalPrice": "$19.99",
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
               }
             },
             "lineOffers": [
@@ -1505,12 +1513,13 @@
             ]
           },
           "promotions": {
-            "promotionalOffers": [
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2025-10-09T15:00:00.000Z",
-                    "endDate": "2025-10-16T15:00:00.000Z",
+                    "startDate": "2025-10-23T15:00:00.000Z",
+                    "endDate": "2025-10-30T15:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 0
@@ -1518,8 +1527,7 @@
                   }
                 ]
               }
-            ],
-            "upcomingPromotionalOffers": []
+            ]
           }
         }
       ],
