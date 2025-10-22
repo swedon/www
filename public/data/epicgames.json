@@ -358,6 +358,10 @@
               "value": "true"
             },
             {
+              "key": "isPromotionalContentUsed",
+              "value": "false"
+            },
+            {
               "key": "isManuallySetPCReleaseDate",
               "value": "true"
             },
