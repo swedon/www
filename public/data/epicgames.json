@@ -902,19 +902,19 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2025-10-26T16:00:00.000Z",
-                    "endDate": "2025-11-09T17:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 60
-                    }
-                  },
-                  {
                     "startDate": "2025-12-11T16:00:00.000Z",
                     "endDate": "2026-01-08T16:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 50
+                    }
+                  },
+                  {
+                    "startDate": "2025-10-26T16:00:00.000Z",
+                    "endDate": "2025-11-09T17:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 60
                     }
                   }
                 ]
@@ -1431,11 +1431,202 @@
               }
             ]
           }
+        },
+        {
+          "title": "Five Nights at Freddy's: Into the Pit",
+          "id": "4f870cf44ac24a64a44225045d4aaa96",
+          "namespace": "afa1cff319dd4f81b58006e223dd4401",
+          "description": "Survive five nights of terror in this chilling adventure game. Travel between time periods to solve puzzles, gather clues, and outrun the threat pursuing you. Move swiftly and stay hidden, and you may just survive. But be careful—it's not just your own life that’s on the line.",
+          "effectiveDate": "2025-10-30T15:00:00.000Z",
+          "offerType": "BASE_GAME",
+          "expiryDate": null,
+          "viewableDate": "2025-10-16T15:00:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-1ng0s.png"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-161gk.png"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-161gk.png"
+            },
+            {
+              "type": "heroCarouselVideo",
+              "url": "com.epicgames.video://164bb980-8588-4760-b2c1-7187339b5680?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F5c65df08b03a43eb8be026116ef8e979%2Ffive-nights-at-freddys-into-the-pit-video-bjpv7.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-106m1.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-1vrau.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-16tpa.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-1c8oo.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-1aqcb.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-14fnu.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-z1usg.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-1qja0.jpg"
+            },
+            {
+              "type": "OgImage",
+              "url": "https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-188mc.jpg"
+            }
+          ],
+          "seller": {
+            "id": "o-jmkhu825d5bwbxx98t57yyruf9n799",
+            "name": "Mega Cat Studios"
+          },
+          "productSlug": null,
+          "urlSlug": "4b89f18efb9645ec8083b37e85cb24db",
+          "url": null,
+          "items": [
+            {
+              "id": "31a90eaaabac45aebde2d56ddd371824",
+              "namespace": "afa1cff319dd4f81b58006e223dd4401"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "autoGeneratedPrice",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetViewableDate",
+              "value": "true"
+            },
+            {
+              "key": "isPromotionalContentUsed",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetPCReleaseDate",
+              "value": "true"
+            },
+            {
+              "key": "isBlockchainUsed",
+              "value": "false"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "games/edition"
+            },
+            {
+              "path": "games/edition/base"
+            }
+          ],
+          "tags": [
+            {
+              "id": "1218"
+            },
+            {
+              "id": "21894"
+            },
+            {
+              "id": "1080"
+            },
+            {
+              "id": "1370"
+            },
+            {
+              "id": "9547"
+            },
+            {
+              "id": "9549"
+            },
+            {
+              "id": "1198"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "five-nights-at-freddys-into-the-pit-99c563",
+                "pageType": "productHome"
+              }
+            ]
+          },
+          "offerMappings": [
+            {
+              "pageSlug": "five-nights-at-freddys-into-the-pit-99c563",
+              "pageType": "productHome"
+            }
+          ],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 1999,
+              "originalPrice": 1999,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$19.99",
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-10-30T15:00:00.000Z",
+                    "endDate": "2025-11-06T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
         }
       ],
       "paging": {
         "count": 40,
-        "total": 9
+        "total": 10
       }
     }
   }
