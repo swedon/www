@@ -1032,6 +1032,9 @@
               "id": "9547"
             },
             {
+              "id": "29899"
+            },
+            {
               "id": "1117"
             }
           ],
@@ -1051,42 +1054,55 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 799,
+              "discountPrice": 279,
               "originalPrice": 799,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 520,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$7.99",
-                "discountPrice": "$7.99",
-                "intermediatePrice": "$7.99"
+                "discountPrice": "$2.79",
+                "intermediatePrice": "$2.79"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "bad81578008a4cf8960aafe4d3194450",
+                    "endDate": "2025-11-04T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-10-28T15:00:00.000Z",
+                    "endDate": "2025-11-04T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 35
+                    }
+                  }
+                ]
+              }
+            ],
             "upcomingPromotionalOffers": [
               {
                 "promotionalOffers": [
                   {
                     "startDate": "2025-12-11T16:00:00.000Z",
                     "endDate": "2026-01-08T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 35
-                    }
-                  },
-                  {
-                    "startDate": "2025-10-28T15:00:00.000Z",
-                    "endDate": "2025-11-04T16:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 35
