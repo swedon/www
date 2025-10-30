@@ -16,15 +16,19 @@
           "keyImages": [
             {
               "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-vjwsp.jpg"
+              "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-v2snm.png"
             },
             {
               "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-cm93r.jpg"
+              "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1v1f5.png"
             },
             {
               "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-cm93r.jpg"
+              "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1v1f5.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-3dlbc.jpg"
             },
             {
               "type": "heroCarouselVideo",
@@ -1502,29 +1506,36 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1999,
+              "discountPrice": 0,
               "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1999,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "35ef2e34e6ac453cb0cc85a357804598",
+                    "endDate": "2025-11-06T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -1537,7 +1548,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -1691,51 +1703,27 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 0,
+              "discountPrice": 1999,
               "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 1999,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "544893a927724ea48dc9b742263ac103",
-                    "endDate": "2025-10-30T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-10-23T15:00:00.000Z",
-                    "endDate": "2025-10-30T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         },
         {
           "title": "Five Nights at Freddy's: Into the Pit",
@@ -1890,8 +1878,214 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1999,
+              "discountPrice": 0,
               "originalPrice": 1999,
+              "voucherDiscount": 0,
+              "discount": 1999,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$19.99",
+                "discountPrice": "0",
+                "intermediatePrice": "0"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": [
+                  {
+                    "id": "dcaee11aac0a4162ae2085282b67b04a",
+                    "endDate": "2025-11-06T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-10-30T15:00:00.000Z",
+                    "endDate": "2025-11-06T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": []
+          }
+        },
+        {
+          "title": "Felix The Reaper",
+          "id": "64dcb34ab8794d67a59bbb4bc805d4c6",
+          "namespace": "77882e466fc140cdb20ea0c72fca9f93",
+          "description": "Felix The Reaper is a challenging and strict 3D puzzle game about bringing humans into deadly situations. You are Felix, the ever-dancing bringer of death, who just so happens to be dangerously in love with Life.",
+          "effectiveDate": "2025-11-06T16:00:00.000Z",
+          "offerType": "BASE_GAME",
+          "expiryDate": null,
+          "viewableDate": "2025-10-30T15:00:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/spt-assets/582d7a7c91264ee2b68f93e666870a1b/felix-the-reaper-w5lqq.jpg"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/spt-assets/582d7a7c91264ee2b68f93e666870a1b/felix-the-reaper-1q432.png"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/spt-assets/582d7a7c91264ee2b68f93e666870a1b/felix-the-reaper-1q432.png"
+            },
+            {
+              "type": "heroCarouselVideo",
+              "url": "com.epicgames.video://5c62441c-164c-43bf-8555-491f6e1971fb?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F582d7a7c91264ee2b68f93e666870a1b%2Ffelix-the-reaper-video-1abdg.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/582d7a7c91264ee2b68f93e666870a1b/felix-the-reaper-1evw4.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/582d7a7c91264ee2b68f93e666870a1b/felix-the-reaper-vv2fj.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/582d7a7c91264ee2b68f93e666870a1b/felix-the-reaper-1jhz4.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/582d7a7c91264ee2b68f93e666870a1b/felix-the-reaper-8u3jf.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/582d7a7c91264ee2b68f93e666870a1b/felix-the-reaper-2ih2a.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/582d7a7c91264ee2b68f93e666870a1b/felix-the-reaper-11v77.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/582d7a7c91264ee2b68f93e666870a1b/felix-the-reaper-pbl2l.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/582d7a7c91264ee2b68f93e666870a1b/felix-the-reaper-yy0w6.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/582d7a7c91264ee2b68f93e666870a1b/felix-the-reaper-ilobu.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/582d7a7c91264ee2b68f93e666870a1b/felix-the-reaper-1a8tu.jpg"
+            }
+          ],
+          "seller": {
+            "id": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+            "name": "Daedalic Entertainment"
+          },
+          "productSlug": null,
+          "urlSlug": "0724c3f1aac0495a85d5a952931b4167",
+          "url": null,
+          "items": [
+            {
+              "id": "297e955e1f8c4b6ebfe3f32e4b8d7284",
+              "namespace": "77882e466fc140cdb20ea0c72fca9f93"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "autoGeneratedPrice",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetViewableDate",
+              "value": "true"
+            },
+            {
+              "key": "isPromotionalContentUsed",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetPCReleaseDate",
+              "value": "true"
+            },
+            {
+              "key": "isBlockchainUsed",
+              "value": "false"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "games/edition"
+            },
+            {
+              "path": "games/edition/base"
+            }
+          ],
+          "tags": [
+            {
+              "id": "1298"
+            },
+            {
+              "id": "21894"
+            },
+            {
+              "id": "19847"
+            },
+            {
+              "id": "1370"
+            },
+            {
+              "id": "9547"
+            },
+            {
+              "id": "9549"
+            },
+            {
+              "id": "1263"
+            },
+            {
+              "id": "10719"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "felix-the-reaper-3f7e62",
+                "pageType": "productHome"
+              }
+            ]
+          },
+          "offerMappings": [
+            {
+              "pageSlug": "felix-the-reaper-3f7e62",
+              "pageType": "productHome"
+            }
+          ],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 999,
+              "originalPrice": 999,
               "voucherDiscount": 0,
               "discount": 0,
               "currencyCode": "USD",
@@ -1899,9 +2093,9 @@
                 "decimals": 2
               },
               "fmtPrice": {
-                "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
+                "originalPrice": "$9.99",
+                "discountPrice": "$9.99",
+                "intermediatePrice": "$9.99"
               }
             },
             "lineOffers": [
@@ -1916,8 +2110,8 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2025-10-30T15:00:00.000Z",
-                    "endDate": "2025-11-06T16:00:00.000Z",
+                    "startDate": "2025-11-06T16:00:00.000Z",
+                    "endDate": "2025-11-13T16:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 0
@@ -1931,7 +2125,7 @@
       ],
       "paging": {
         "count": 40,
-        "total": 11
+        "total": 12
       }
     }
   }
