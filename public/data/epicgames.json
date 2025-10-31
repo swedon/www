@@ -1131,7 +1131,23 @@
               }
             ]
           },
-          "promotions": null
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-11-18T16:00:00.000Z",
+                    "endDate": "2025-12-02T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 40
+                    }
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "title": "Monument Valley",
