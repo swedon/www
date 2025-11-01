@@ -171,28 +171,7 @@
               "pageType": "productHome"
             }
           ],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 0,
-              "voucherDiscount": 0,
-              "discount": 0,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "0",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": []
-              }
-            ]
-          },
+          "price": null,
           "promotions": {
             "promotionalOffers": [],
             "upcomingPromotionalOffers": [
@@ -340,7 +319,28 @@
               "pageType": "productHome"
             }
           ],
-          "price": null,
+          "price": {
+            "totalPrice": {
+              "discountPrice": 1999,
+              "originalPrice": 1999,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$19.99",
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
           "promotions": null
         },
         {
@@ -438,12 +438,7 @@
             }
           ],
           "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "eternal-threads-197169",
-                "pageType": "productHome"
-              }
-            ]
+            "mappings": null
           },
           "offerMappings": [
             {
@@ -579,10 +574,36 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "ghostrunner-2",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [],
-          "price": null,
+          "price": {
+            "totalPrice": {
+              "discountPrice": 3999,
+              "originalPrice": 3999,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$39.99",
+                "discountPrice": "$39.99",
+                "intermediatePrice": "$39.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
           "promotions": {
             "promotionalOffers": [],
             "upcomingPromotionalOffers": [
@@ -724,12 +745,7 @@
             }
           ],
           "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "lost-castle-abb2e2",
-                "pageType": "productHome"
-              }
-            ]
+            "mappings": null
           },
           "offerMappings": [
             {
@@ -737,28 +753,7 @@
               "pageType": "offer"
             }
           ],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 399,
-              "originalPrice": 399,
-              "voucherDiscount": 0,
-              "discount": 0,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$3.99",
-                "discountPrice": "$3.99",
-                "intermediatePrice": "$3.99"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": []
-              }
-            ]
-          },
+          "price": null,
           "promotions": null
         },
         {
@@ -880,36 +875,7 @@
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-10-26T16:00:00.000Z",
-                    "endDate": "2025-11-09T17:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 60
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-12-11T16:00:00.000Z",
-                    "endDate": "2026-01-08T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 50
-                    }
-                  }
-                ]
-              }
-            ]
-          }
+          "promotions": null
         },
         {
           "title": "Castlevania Anniversary Collection",
@@ -1046,45 +1012,8 @@
               "pageType": "productHome"
             }
           ],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 1999,
-              "originalPrice": 1999,
-              "voucherDiscount": 0,
-              "discount": 0,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": []
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-11-18T16:00:00.000Z",
-                    "endDate": "2025-12-02T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 40
-                    }
-                  }
-                ]
-              }
-            ]
-          }
+          "price": null,
+          "promotions": null
         },
         {
           "title": "Monument Valley",
@@ -1217,7 +1146,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "monument-valley-1d99d3",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -1255,36 +1189,7 @@
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-10-28T15:00:00.000Z",
-                    "endDate": "2025-11-04T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 35
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-12-11T16:00:00.000Z",
-                    "endDate": "2026-01-08T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 35
-                    }
-                  }
-                ]
-              }
-            ]
-          }
+          "promotions": null
         },
         {
           "title": "Bendy and the Ink Machine",
@@ -1452,7 +1357,36 @@
               "pageType": "productHome"
             }
           ],
-          "price": null,
+          "price": {
+            "totalPrice": {
+              "discountPrice": 0,
+              "originalPrice": 1999,
+              "voucherDiscount": 0,
+              "discount": 1999,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$19.99",
+                "discountPrice": "0",
+                "intermediatePrice": "0"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": [
+                  {
+                    "id": "35ef2e34e6ac453cb0cc85a357804598",
+                    "endDate": "2025-11-06T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
           "promotions": {
             "promotionalOffers": [
               {
@@ -1612,12 +1546,7 @@
             }
           ],
           "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "five-nights-at-freddys-into-the-pit-99c563",
-                "pageType": "productHome"
-              }
-            ]
+            "mappings": null
           },
           "offerMappings": [
             {
@@ -1818,12 +1747,7 @@
             }
           ],
           "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "felix-the-reaper-3f7e62",
-                "pageType": "productHome"
-              }
-            ]
+            "mappings": null
           },
           "offerMappings": [
             {
@@ -1831,7 +1755,28 @@
               "pageType": "productHome"
             }
           ],
-          "price": null,
+          "price": {
+            "totalPrice": {
+              "discountPrice": 999,
+              "originalPrice": 999,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$9.99",
+                "discountPrice": "$9.99",
+                "intermediatePrice": "$9.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
           "promotions": {
             "promotionalOffers": [],
             "upcomingPromotionalOffers": [
