@@ -171,7 +171,28 @@
               "pageType": "productHome"
             }
           ],
-          "price": null,
+          "price": {
+            "totalPrice": {
+              "discountPrice": 0,
+              "originalPrice": 0,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "0",
+                "discountPrice": "0",
+                "intermediatePrice": "0"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
           "promotions": {
             "promotionalOffers": [],
             "upcomingPromotionalOffers": [
@@ -438,7 +459,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "eternal-threads-197169",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -468,7 +494,23 @@
               }
             ]
           },
-          "promotions": null
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-11-18T16:00:00.000Z",
+                    "endDate": "2025-12-02T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 20
+                    }
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "title": "Ghostrunner 2",
@@ -745,7 +787,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "lost-castle-abb2e2",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -753,7 +800,28 @@
               "pageType": "offer"
             }
           ],
-          "price": null,
+          "price": {
+            "totalPrice": {
+              "discountPrice": 399,
+              "originalPrice": 399,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$3.99",
+                "discountPrice": "$3.99",
+                "intermediatePrice": "$3.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
           "promotions": null
         },
         {
@@ -875,7 +943,36 @@
               }
             ]
           },
-          "promotions": null
+          "promotions": {
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-10-26T16:00:00.000Z",
+                    "endDate": "2025-11-09T17:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 60
+                    }
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-12-11T16:00:00.000Z",
+                    "endDate": "2026-01-08T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 50
+                    }
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "title": "Castlevania Anniversary Collection",
@@ -1012,8 +1109,45 @@
               "pageType": "productHome"
             }
           ],
-          "price": null,
-          "promotions": null
+          "price": {
+            "totalPrice": {
+              "discountPrice": 1999,
+              "originalPrice": 1999,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$19.99",
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
+              }
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-11-18T16:00:00.000Z",
+                    "endDate": "2025-12-02T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 40
+                    }
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "title": "Monument Valley",
@@ -1189,7 +1323,36 @@
               }
             ]
           },
-          "promotions": null
+          "promotions": {
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-10-28T15:00:00.000Z",
+                    "endDate": "2025-11-04T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 35
+                    }
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-12-11T16:00:00.000Z",
+                    "endDate": "2026-01-08T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 35
+                    }
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "title": "Bendy and the Ink Machine",
@@ -1546,7 +1709,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "five-nights-at-freddys-into-the-pit-99c563",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -1747,7 +1915,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "felix-the-reaper-3f7e62",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
