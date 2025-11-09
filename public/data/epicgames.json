@@ -1310,49 +1310,28 @@
           "offerMappings": null,
           "price": {
             "totalPrice": {
-              "discountPrice": 1499,
+              "discountPrice": 2499,
               "originalPrice": 2499,
               "voucherDiscount": 0,
-              "discount": 1000,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$24.99",
-                "discountPrice": "$14.99",
-                "intermediatePrice": "$14.99"
+                "discountPrice": "$24.99",
+                "intermediatePrice": "$24.99"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "fe4fe34999bc41a6979cc2d49d775fcb",
-                    "endDate": "2025-11-09T17:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-10-26T16:00:00.000Z",
-                    "endDate": "2025-11-09T17:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 60
-                    }
-                  }
-                ]
-              }
-            ],
+            "promotionalOffers": [],
             "upcomingPromotionalOffers": [
               {
                 "promotionalOffers": [
