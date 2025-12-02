@@ -103,9 +103,6 @@
               "id": "1299"
             },
             {
-              "id": "39909"
-            },
-            {
               "id": "1110"
             },
             {
@@ -140,49 +137,28 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1124,
+              "discountPrice": 2499,
               "originalPrice": 2499,
               "voucherDiscount": 0,
-              "discount": 1375,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$24.99",
-                "discountPrice": "$11.24",
-                "intermediatePrice": "$11.24"
+                "discountPrice": "$24.99",
+                "intermediatePrice": "$24.99"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "14d6d34305ab4ce18c1a1356dd204ab3",
-                    "endDate": "2025-12-02T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-11-18T16:00:00.000Z",
-                    "endDate": "2025-12-02T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 45
-                    }
-                  }
-                ]
-              }
-            ],
+            "promotionalOffers": [],
             "upcomingPromotionalOffers": [
               {
                 "promotionalOffers": [
@@ -751,9 +727,6 @@
               "id": "1298"
             },
             {
-              "id": "39909"
-            },
-            {
               "id": "19847"
             },
             {
@@ -785,51 +758,27 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 399,
+              "discountPrice": 1999,
               "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 1600,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "$3.99",
-                "intermediatePrice": "$3.99"
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "18273fd84899404690ae54ebafce7407",
-                    "endDate": "2025-12-02T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-11-18T16:00:00.000Z",
-                    "endDate": "2025-12-02T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 20
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         },
         {
           "title": "Ghostrunner 2",
@@ -1510,9 +1459,6 @@
               "id": "21122"
             },
             {
-              "id": "39909"
-            },
-            {
               "id": "19847"
             },
             {
@@ -1568,51 +1514,27 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 799,
+              "discountPrice": 1999,
               "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 1200,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "$7.99",
-                "intermediatePrice": "$7.99"
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
               }
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "719974bfe5ab4d959fb4d28411ab70f8",
-                    "endDate": "2025-12-02T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-11-18T16:00:00.000Z",
-                    "endDate": "2025-12-02T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 40
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         },
         {
           "title": "Monument Valley",
