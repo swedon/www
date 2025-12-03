@@ -149,7 +149,8 @@
                 "originalPrice": "$24.99",
                 "discountPrice": "$24.99",
                 "intermediatePrice": "$24.99"
-              }
+              },
+              "dualPrice": null
             },
             "lineOffers": [
               {
@@ -289,7 +290,8 @@
                 "originalPrice": "$14.99",
                 "discountPrice": "$14.99",
                 "intermediatePrice": "$14.99"
-              }
+              },
+              "dualPrice": null
             },
             "lineOffers": [
               {
@@ -482,7 +484,8 @@
                 "originalPrice": "$19.99",
                 "discountPrice": "$19.99",
                 "intermediatePrice": "$19.99"
-              }
+              },
+              "dualPrice": null
             },
             "lineOffers": [
               {
@@ -635,7 +638,8 @@
                 "originalPrice": "$19.99",
                 "discountPrice": "$19.99",
                 "intermediatePrice": "$19.99"
-              }
+              },
+              "dualPrice": null
             },
             "lineOffers": [
               {
@@ -767,7 +771,8 @@
                 "originalPrice": "$19.99",
                 "discountPrice": "$19.99",
                 "intermediatePrice": "$19.99"
-              }
+              },
+              "dualPrice": null
             },
             "lineOffers": [
               {
@@ -903,7 +908,8 @@
                 "originalPrice": "$39.99",
                 "discountPrice": "$39.99",
                 "intermediatePrice": "$39.99"
-              }
+              },
+              "dualPrice": null
             },
             "lineOffers": [
               {
@@ -1048,7 +1054,8 @@
                 "originalPrice": "$14.99",
                 "discountPrice": "0",
                 "intermediatePrice": "0"
-              }
+              },
+              "dualPrice": null
             },
             "lineOffers": [
               {
@@ -1232,7 +1239,8 @@
                 "originalPrice": "$3.99",
                 "discountPrice": "$3.99",
                 "intermediatePrice": "$3.99"
-              }
+              },
+              "dualPrice": null
             },
             "lineOffers": [
               {
@@ -1345,7 +1353,8 @@
                 "originalPrice": "$24.99",
                 "discountPrice": "$24.99",
                 "intermediatePrice": "$24.99"
-              }
+              },
+              "dualPrice": null
             },
             "lineOffers": [
               {
@@ -1523,7 +1532,8 @@
                 "originalPrice": "$19.99",
                 "discountPrice": "$19.99",
                 "intermediatePrice": "$19.99"
-              }
+              },
+              "dualPrice": null
             },
             "lineOffers": [
               {
@@ -1688,7 +1698,8 @@
                 "originalPrice": "$7.99",
                 "discountPrice": "$7.99",
                 "intermediatePrice": "$7.99"
-              }
+              },
+              "dualPrice": null
             },
             "lineOffers": [
               {
