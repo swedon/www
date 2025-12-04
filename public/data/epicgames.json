@@ -137,30 +137,37 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 2499,
+              "discountPrice": 0,
               "originalPrice": 2499,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 2499,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$24.99",
-                "discountPrice": "$24.99",
-                "intermediatePrice": "$24.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               },
               "dualPrice": null
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "63449c26710f48689c01ae249d7751e9",
+                    "endDate": "2025-12-11T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -173,7 +180,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -278,30 +286,37 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1499,
+              "discountPrice": 0,
               "originalPrice": 1499,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1499,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$14.99",
-                "discountPrice": "$14.99",
-                "intermediatePrice": "$14.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               },
               "dualPrice": null
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "1e36b4ede1724ba2a12d985d24bcf381",
+                    "endDate": "2025-12-11T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -314,7 +329,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -936,160 +952,6 @@
                 ]
               }
             ]
-          }
-        },
-        {
-          "title": "Universe for Sale",
-          "id": "b2b995e52f7a413099e2b1421b9fb2d8",
-          "namespace": "60525048f11c46b88bb6d7492ce7b67d",
-          "description": "A space station nestled in the clouds of Jupiter. A bizarre bazaar where a young, worried woman crafts entire universes in the palm of her hand. A mysterious cultist who's stripped the flesh from his bones in order to reach enlightenment. There's a universe for sale. You buying?",
-          "effectiveDate": "2023-11-16T17:00:00.000Z",
-          "offerType": "BASE_GAME",
-          "expiryDate": null,
-          "viewableDate": "2023-10-05T14:00:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-xr25c.jpg"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-1vrqf.jpg"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-1vrqf.jpg"
-            }
-          ],
-          "seller": {
-            "id": "o-vzv8n7jse99sluj4vaa8522rh45cvg",
-            "name": "Akupara Games"
-          },
-          "productSlug": null,
-          "urlSlug": "116c60adb9db4c5ca089be37bd7c3393",
-          "url": null,
-          "items": [
-            {
-              "id": "343f37f1cf5c4fe0b4ce6121f1f5ba49",
-              "namespace": "60525048f11c46b88bb6d7492ce7b67d"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "autoGeneratedPrice",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetViewableDate",
-              "value": "true"
-            },
-            {
-              "key": "isPromotionalContentUsed",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetPCReleaseDate",
-              "value": "false"
-            },
-            {
-              "key": "isBlockchainUsed",
-              "value": "false"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "games/edition"
-            },
-            {
-              "path": "games/edition/base"
-            }
-          ],
-          "tags": [
-            {
-              "id": "1381"
-            },
-            {
-              "id": "1370"
-            },
-            {
-              "id": "9547"
-            },
-            {
-              "id": "1117"
-            },
-            {
-              "id": "1263"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "universe-for-sale-05c53e",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [
-            {
-              "pageSlug": "universe-for-sale-05c53e",
-              "pageType": "productHome"
-            }
-          ],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 1499,
-              "voucherDiscount": 0,
-              "discount": 1499,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$14.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              },
-              "dualPrice": null
-            },
-            "lineOffers": [
-              {
-                "appliedRules": [
-                  {
-                    "id": "2bfb18fe7bb84fbab29a7cb583113a70",
-                    "endDate": "2025-12-04T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-11-27T16:00:00.000Z",
-                    "endDate": "2025-12-04T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -1721,6 +1583,114 @@
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 35
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Mystery Game 1",
+          "id": "e4f007a25ee8426e97c16e994f6127e9",
+          "namespace": "d5241c76f178492ea1540fce45616757",
+          "description": "Mystery Game 1",
+          "effectiveDate": "2025-12-12T04:00:00.000Z",
+          "offerType": "OTHERS",
+          "expiryDate": "2025-12-18T16:00:00.000Z",
+          "viewableDate": "2025-12-04T16:00:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "VaultClosed",
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS-TheGameAwards-breaker-2560x1440_2560x1440-bdb583c697524be8ede523d920663f2f"
+            }
+          ],
+          "seller": {
+            "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+            "name": "Epic Dev Test Account"
+          },
+          "productSlug": "[]",
+          "urlSlug": "mysterygame2025-1",
+          "url": null,
+          "items": [
+            {
+              "id": "8341d7c7e4534db7848cc428aa4cbe5a",
+              "namespace": "d5241c76f178492ea1540fce45616757"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "com.epicgames.app.freegames.vault.close",
+              "value": "[]"
+            },
+            {
+              "key": "com.epicgames.app.freegames.vault.slug",
+              "value": "free-games"
+            },
+            {
+              "key": "com.epicgames.app.freegames.vault.open",
+              "value": "[]"
+            },
+            {
+              "key": "com.epicgames.app.productSlug",
+              "value": "[]"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames/vaulted"
+            },
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "applications"
+            }
+          ],
+          "tags": [],
+          "catalogNs": {
+            "mappings": []
+          },
+          "offerMappings": [],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 0,
+              "originalPrice": 0,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "0",
+                "discountPrice": "0",
+                "intermediatePrice": "0"
+              },
+              "dualPrice": null
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-12-12T04:00:00.000Z",
+                    "endDate": "2025-12-18T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
                     }
                   }
                 ]
