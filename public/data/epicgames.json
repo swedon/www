@@ -1413,10 +1413,10 @@
           }
         },
         {
-          "title": "Mystery Game 6",
+          "title": "Paradise Killer",
           "id": "7c3cbce4cc9b45b78bc30b5bdc74cf9e",
           "namespace": "d5241c76f178492ea1540fce45616757",
-          "description": "Mystery Game 6",
+          "description": "Paradise Island, a world outside reality. There’s been a murder that only \"investigation freak\" Lady Love Dies can solve. Gather evidence and interrogate suspects in this open world adventure. You can accuse anyone, but you’ll have to prove your case in trial to convict.",
           "effectiveDate": "2025-12-22T16:00:00.000Z",
           "offerType": "OTHERS",
           "expiryDate": "2025-12-23T16:00:00.000Z",
@@ -1426,7 +1426,15 @@
           "keyImages": [
             {
               "type": "DieselStoreFrontWide",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453"
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec22_giveaway_2560x1440_2560x1440-437658951add4defb6ea05b79968795f"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec22_giveaway_1200x1600_1200x1600-2305984cbd8f4d1db54feb6ec6e2e5cf"
+            },
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec22_giveaway_2560x1440_2560x1440-0165246ad3c9454e887f576036328add"
             },
             {
               "type": "VaultClosed",
@@ -1437,7 +1445,7 @@
             "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
             "name": "Epic Dev Test Account"
           },
-          "productSlug": "[]",
+          "productSlug": "paradise-killer-c3ea1c",
           "urlSlug": "mysterygame2025-6",
           "url": null,
           "items": [
@@ -1461,7 +1469,7 @@
             },
             {
               "key": "com.epicgames.app.productSlug",
-              "value": "[]"
+              "value": "paradise-killer-c3ea1c"
             }
           ],
           "categories": [
