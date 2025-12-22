@@ -1293,126 +1293,6 @@
           }
         },
         {
-          "title": "Sorry We're Closed",
-          "id": "efef757f06ef40cb939d568a782087d9",
-          "namespace": "d5241c76f178492ea1540fce45616757",
-          "description": "Sorry We're Closed is a nostalgic, single-player survival horror game with rich lore, deep characters and multiple endings. Explore unsettling locations with fixed camera angles. Open your Third Eye to see between worlds, uncover secrets and solve puzzles.",
-          "effectiveDate": "2025-12-21T16:00:00.000Z",
-          "offerType": "OTHERS",
-          "expiryDate": "2025-12-22T16:00:00.000Z",
-          "viewableDate": "2025-12-20T15:25:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": true,
-          "keyImages": [
-            {
-              "type": "DieselStoreFrontWide",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec21_giveaway_2560x14401_2560x1440-44c02dfeb64346b6bf075109d974c9df"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec21_giveaway_1200x16001_1200x1600-7e6210ecd7204bc78979e0b7d536adc9"
-            },
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec21_giveaway_2560x14401_2560x1440-1a8c8998966447698da1634d33a23f98"
-            },
-            {
-              "type": "VaultClosed",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453"
-            }
-          ],
-          "seller": {
-            "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-            "name": "Epic Dev Test Account"
-          },
-          "productSlug": "sorry-were-closed-724c86",
-          "urlSlug": "mysterygame2025-5",
-          "url": null,
-          "items": [
-            {
-              "id": "8341d7c7e4534db7848cc428aa4cbe5a",
-              "namespace": "d5241c76f178492ea1540fce45616757"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "com.epicgames.app.freegames.vault.close",
-              "value": "[]"
-            },
-            {
-              "key": "com.epicgames.app.freegames.vault.slug",
-              "value": "free-games"
-            },
-            {
-              "key": "com.epicgames.app.freegames.vault.open",
-              "value": "[]"
-            },
-            {
-              "key": "com.epicgames.app.productSlug",
-              "value": "sorry-were-closed-724c86"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames/vaulted"
-            },
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "applications"
-            }
-          ],
-          "tags": [],
-          "catalogNs": {
-            "mappings": []
-          },
-          "offerMappings": [],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 0,
-              "voucherDiscount": 0,
-              "discount": 0,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "0",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              },
-              "dualPrice": null
-            },
-            "lineOffers": [
-              {
-                "appliedRules": []
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-12-21T16:00:00.000Z",
-                    "endDate": "2025-12-22T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
-        },
-        {
           "title": "Paradise Killer",
           "id": "7c3cbce4cc9b45b78bc30b5bdc74cf9e",
           "namespace": "d5241c76f178492ea1540fce45616757",
@@ -1515,8 +1395,7 @@
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -1529,7 +1408,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -1647,7 +1527,7 @@
       ],
       "paging": {
         "count": 40,
-        "total": 11
+        "total": 10
       }
     }
   }
