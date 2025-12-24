@@ -574,12 +574,7 @@
             }
           ],
           "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "ghostrunner-2",
-                "pageType": "productHome"
-              }
-            ]
+            "mappings": null
           },
           "offerMappings": [],
           "price": {
@@ -1227,12 +1222,7 @@
             }
           ],
           "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "monument-valley-1d99d3",
-                "pageType": "productHome"
-              }
-            ]
+            "mappings": null
           },
           "offerMappings": [
             {
@@ -1365,7 +1355,7 @@
           ],
           "tags": [],
           "catalogNs": {
-            "mappings": []
+            "mappings": null
           },
           "offerMappings": [],
           "price": {
