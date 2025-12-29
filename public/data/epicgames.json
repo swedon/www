@@ -1413,14 +1413,134 @@
           }
         },
         {
-          "title": "Mystery Game 13",
+          "title": "Viewfinder",
           "id": "10295136a02b412c9615ceca50e64704",
           "namespace": "d5241c76f178492ea1540fce45616757",
-          "description": "Mystery Game 13",
+          "description": "Challenge perception, redefine reality, and reshape the world around you with an instant camera. Viewfinder is a new single player game offering gamers hours of interesting and fun experiences while uncovering the mysteries left behind.",
           "effectiveDate": "2025-12-29T16:00:00.000Z",
           "offerType": "OTHERS",
           "expiryDate": "2025-12-30T16:00:00.000Z",
           "viewableDate": "2025-12-28T15:25:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": true,
+          "keyImages": [
+            {
+              "type": "DieselStoreFrontWide",
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec29_giveaway_2560x1440_2560x1440-230f566ef09c4874a3b32aa0cb59fb6a"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec29_giveaway_1200x1600_1200x1600-b9358f6d973f45e79e5c51388acd1608"
+            },
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec29_giveaway_2560x1440_2560x1440-ead4f1cf762e477ba1bd89e07eca452b"
+            },
+            {
+              "type": "VaultClosed",
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453"
+            }
+          ],
+          "seller": {
+            "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+            "name": "Epic Dev Test Account"
+          },
+          "productSlug": "viewfinder-61691c",
+          "urlSlug": "mysterygame2025-13",
+          "url": null,
+          "items": [
+            {
+              "id": "8341d7c7e4534db7848cc428aa4cbe5a",
+              "namespace": "d5241c76f178492ea1540fce45616757"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "com.epicgames.app.freegames.vault.close",
+              "value": "[]"
+            },
+            {
+              "key": "com.epicgames.app.freegames.vault.slug",
+              "value": "free-games"
+            },
+            {
+              "key": "com.epicgames.app.freegames.vault.open",
+              "value": "[]"
+            },
+            {
+              "key": "com.epicgames.app.productSlug",
+              "value": "viewfinder-61691c"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames/vaulted"
+            },
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "applications"
+            }
+          ],
+          "tags": [],
+          "catalogNs": {
+            "mappings": []
+          },
+          "offerMappings": [],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 0,
+              "originalPrice": 0,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "0",
+                "discountPrice": "0",
+                "intermediatePrice": "0"
+              },
+              "dualPrice": null
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2025-12-29T16:00:00.000Z",
+                    "endDate": "2025-12-30T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Mystery Game 14",
+          "id": "ba12b3d0fde94f1cafec8e8d5dd3fe67",
+          "namespace": "d5241c76f178492ea1540fce45616757",
+          "description": "Mystery Game 14",
+          "effectiveDate": "2025-12-30T16:00:00.000Z",
+          "offerType": "OTHERS",
+          "expiryDate": "2025-12-31T16:00:00.000Z",
+          "viewableDate": "2025-12-29T15:25:00.000Z",
           "status": "ACTIVE",
           "isCodeRedemptionOnly": true,
           "keyImages": [
@@ -1438,7 +1558,7 @@
             "name": "Epic Dev Test Account"
           },
           "productSlug": "[]",
-          "urlSlug": "mysterygame2025-13",
+          "urlSlug": "mysterygame2025-14",
           "url": null,
           "items": [
             {
@@ -1512,8 +1632,8 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2025-12-29T16:00:00.000Z",
-                    "endDate": "2025-12-30T16:00:00.000Z",
+                    "startDate": "2025-12-30T16:00:00.000Z",
+                    "endDate": "2025-12-31T16:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 0
@@ -1527,7 +1647,7 @@
       ],
       "paging": {
         "count": 40,
-        "total": 10
+        "total": 11
       }
     }
   }
