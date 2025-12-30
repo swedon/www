@@ -1325,7 +1325,7 @@
             "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
             "name": "Epic Dev Test Account"
           },
-          "productSlug": "bundles/trine-classic-collection",
+          "productSlug": "trine-classic-collection",
           "urlSlug": "mysterygame2025-14",
           "url": null,
           "items": [
@@ -1349,12 +1349,15 @@
             },
             {
               "key": "com.epicgames.app.productSlug",
-              "value": "bundles/trine-classic-collection"
+              "value": "trine-classic-collection"
             }
           ],
           "categories": [
             {
               "path": "freegames/vaulted"
+            },
+            {
+              "path": "bundles"
             },
             {
               "path": "freegames"
