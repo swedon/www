@@ -141,30 +141,37 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1399,
+              "discountPrice": 0,
               "originalPrice": 1399,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1399,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$13.99",
-                "discountPrice": "$13.99",
-                "intermediatePrice": "$13.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               },
               "dualPrice": null
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "60c03d3de24b4f1f9656717576f8eae2",
+                    "endDate": "2026-01-15T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -177,7 +184,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -718,12 +726,6 @@
               "id": "21122"
             },
             {
-              "id": "21129"
-            },
-            {
-              "id": "9547"
-            },
-            {
               "id": "21138"
             },
             {
@@ -739,10 +741,13 @@
               "id": "21141"
             },
             {
+              "id": "21129"
+            },
+            {
               "id": "1370"
             },
             {
-              "id": "24570"
+              "id": "9547"
             },
             {
               "id": "1117"
@@ -762,52 +767,28 @@
           "offerMappings": [],
           "price": {
             "totalPrice": {
-              "discountPrice": 799,
+              "discountPrice": 3999,
               "originalPrice": 3999,
               "voucherDiscount": 0,
-              "discount": 3200,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$39.99",
-                "discountPrice": "$7.99",
-                "intermediatePrice": "$7.99"
+                "discountPrice": "$39.99",
+                "intermediatePrice": "$39.99"
               },
               "dualPrice": null
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "d1314a07f999419f90c6251cf14ed266",
-                    "endDate": "2026-01-08T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-12-11T16:00:00.000Z",
-                    "endDate": "2026-01-08T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 20
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         },
         {
           "title": "Lost Castle: The Old Ones Awaken",
@@ -1043,9 +1024,6 @@
               "id": "1370"
             },
             {
-              "id": "24570"
-            },
-            {
               "id": "9547"
             },
             {
@@ -1064,52 +1042,28 @@
           "offerMappings": null,
           "price": {
             "totalPrice": {
-              "discountPrice": 1249,
+              "discountPrice": 2499,
               "originalPrice": 2499,
               "voucherDiscount": 0,
-              "discount": 1250,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$24.99",
-                "discountPrice": "$12.49",
-                "intermediatePrice": "$12.49"
+                "discountPrice": "$24.99",
+                "intermediatePrice": "$24.99"
               },
               "dualPrice": null
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "14ecddc765f640f3afe35ad8f9c8beb4",
-                    "endDate": "2026-01-08T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-12-11T16:00:00.000Z",
-                    "endDate": "2026-01-08T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 50
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         },
         {
           "title": "Castlevania Anniversary Collection",
@@ -1395,9 +1349,6 @@
               "id": "1370"
             },
             {
-              "id": "24570"
-            },
-            {
               "id": "9547"
             },
             {
@@ -1420,146 +1371,18 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 279,
+              "discountPrice": 799,
               "originalPrice": 799,
               "voucherDiscount": 0,
-              "discount": 520,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$7.99",
-                "discountPrice": "$2.79",
-                "intermediatePrice": "$2.79"
-              },
-              "dualPrice": null
-            },
-            "lineOffers": [
-              {
-                "appliedRules": [
-                  {
-                    "id": "401cf5deea8c4a898777bc93b79c1a8e",
-                    "endDate": "2026-01-08T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-12-11T16:00:00.000Z",
-                    "endDate": "2026-01-08T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 35
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
-        },
-        {
-          "title": "Wildgate",
-          "id": "acd0b5048a0d43ec80909788a388964a",
-          "namespace": "d5241c76f178492ea1540fce45616757",
-          "description": "Wildgate is a crew-based PVP multiplayer shooter that blends tactical ship-to-ship combat with fast-paced first-person action. Evade deadly environmental hazards, search for powerful weapons and ship upgrades, and be the first crew to escape with the Artifact.",
-          "effectiveDate": "2026-01-01T16:00:00.000Z",
-          "offerType": "OTHERS",
-          "expiryDate": "2026-01-08T16:00:00.000Z",
-          "viewableDate": "2025-12-31T15:25:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": true,
-          "keyImages": [
-            {
-              "type": "DieselStoreFrontWide",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Jan1-7_Game16_giveaway_2560x1440_2560x1440-22bf2decce1c44e3a49f538de98de940"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Jan1-7_Game16_giveaway_1200x1600_1200x1600-fa310919f19249eea04277b34e3d358f"
-            },
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Jan1-7_Game16_giveaway_2560x1440_2560x1440-e996755894df43a4b28c831e7a0290d2"
-            },
-            {
-              "type": "VaultClosed",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453"
-            }
-          ],
-          "seller": {
-            "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-            "name": "Epic Dev Test Account"
-          },
-          "productSlug": "wildgate-standard-edition-b886b5",
-          "urlSlug": "mysterygame2025-17",
-          "url": null,
-          "items": [
-            {
-              "id": "8341d7c7e4534db7848cc428aa4cbe5a",
-              "namespace": "d5241c76f178492ea1540fce45616757"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "com.epicgames.app.freegames.vault.close",
-              "value": "[]"
-            },
-            {
-              "key": "com.epicgames.app.freegames.vault.slug",
-              "value": "free-games"
-            },
-            {
-              "key": "com.epicgames.app.freegames.vault.open",
-              "value": "[]"
-            },
-            {
-              "key": "com.epicgames.app.productSlug",
-              "value": "wildgate-standard-edition-b886b5"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames/vaulted"
-            },
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "applications"
-            }
-          ],
-          "tags": [],
-          "catalogNs": {
-            "mappings": []
-          },
-          "offerMappings": [],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 0,
-              "voucherDiscount": 0,
-              "discount": 0,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "0",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
+                "discountPrice": "$7.99",
+                "intermediatePrice": "$7.99"
               },
               "dualPrice": null
             },
@@ -1569,148 +1392,12 @@
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2026-01-01T16:00:00.000Z",
-                    "endDate": "2026-01-08T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
-        },
-        {
-          "title": "Total War: THREE KINGDOMS",
-          "id": "77f90158ddc1488baeb4155bd934fbbd",
-          "namespace": "d5241c76f178492ea1540fce45616757",
-          "description": "Total War: THREE KINGDOMS recreates epic conflict across ancient China in an age of heroes and legends, combining gripping empire-building, statecraft and conquest with stunning real-time battles.",
-          "effectiveDate": "2026-01-01T16:00:00.000Z",
-          "offerType": "OTHERS",
-          "expiryDate": "2026-01-08T16:00:00.000Z",
-          "viewableDate": "2025-12-31T15:25:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": true,
-          "keyImages": [
-            {
-              "type": "DieselStoreFrontWide",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Jan1-7_Game17_giveaway_2560x14401_2560x1440-dba68e265f1045f883693b0348cf6ea2"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Jan1-7_Game17_giveaway_1200x16001_1200x1600-c7be7e9799dd46138f23ed8fb70a5366"
-            },
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Jan1-7_Game17_giveaway_2560x14401_2560x1440-ac71243943c54e85955897af724527f2"
-            },
-            {
-              "type": "VaultClosed",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453"
-            }
-          ],
-          "seller": {
-            "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-            "name": "Epic Dev Test Account"
-          },
-          "productSlug": "total-war-three-kingdoms-d3bb7a",
-          "urlSlug": "mysterygame2025-16",
-          "url": null,
-          "items": [
-            {
-              "id": "8341d7c7e4534db7848cc428aa4cbe5a",
-              "namespace": "d5241c76f178492ea1540fce45616757"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "com.epicgames.app.freegames.vault.close",
-              "value": "[]"
-            },
-            {
-              "key": "com.epicgames.app.freegames.vault.slug",
-              "value": "free-games"
-            },
-            {
-              "key": "com.epicgames.app.freegames.vault.open",
-              "value": "[]"
-            },
-            {
-              "key": "com.epicgames.app.productSlug",
-              "value": "total-war-three-kingdoms-d3bb7a"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames/vaulted"
-            },
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "applications"
-            }
-          ],
-          "tags": [],
-          "catalogNs": {
-            "mappings": []
-          },
-          "offerMappings": [],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 0,
-              "voucherDiscount": 0,
-              "discount": 0,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "0",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              },
-              "dualPrice": null
-            },
-            "lineOffers": [
-              {
-                "appliedRules": []
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2026-01-01T16:00:00.000Z",
-                    "endDate": "2026-01-08T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         }
       ],
       "paging": {
         "count": 40,
-        "total": 11
+        "total": 9
       }
     }
   }
