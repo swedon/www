@@ -1186,7 +1186,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "monument-valley-1d99d3",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -1756,7 +1761,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "rustler-grand-theft-horse-21a7ca",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
