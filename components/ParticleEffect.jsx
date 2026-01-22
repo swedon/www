@@ -9,9 +9,11 @@ import logoWhite from '@/public/s-logo-white.svg'
 import logoBlack from '@/public/s-logo-black.svg'
 
 import particlesOptions from '@/style/particles.json'
+import useBackgroundAnimation from './useBackgroundAnimation'
 
 function ParticleEffect({ children, className }) {
 	const [mounted, setMounted] = useState(false)
+	const { enabled } = useBackgroundAnimation()
 	const { systemTheme, theme } = useTheme()
 	const currentTheme = theme === 'system' ? systemTheme : theme
 	const logo = currentTheme === 'dark' ? logoWhite.src : logoBlack.src
@@ -41,6 +43,10 @@ function ParticleEffect({ children, className }) {
 
 	if (!mounted) {
 		return <>{children}</>
+	}
+
+	if (!enabled) {
+		return null
 	}
 
 	return (

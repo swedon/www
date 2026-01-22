@@ -16,14 +16,18 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
 	return (
-		<html lang='en'>
-			<body className='min-h-screen mx-auto flex flex-col w-auto'>
+		<html lang='en' suppressHydrationWarning>
+			<body className='min-h-screen mx-auto flex flex-col w-auto text-[--color-dark]'>
 				<GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS_ID} />
 				<ThemeProvider>
-					<ParticleEffect className='fixed h-full w-full top-0 left-0 m-0 p-0 -z-10' />
-					<Navbar />
-					<main className={`flex flex-col flex-1 w-full ${inter.className}`}>{children}</main>
-					<Footer />
+					<ParticleEffect className='fixed inset-0 m-0 p-0 z-0 pointer-events-none' />
+					<div className='relative z-10'>
+						<Navbar />
+					</div>
+					<main className={`relative z-10 flex flex-col flex-1 w-full ${inter.className}`}>{children}</main>
+					<div className='relative z-10'>
+						<Footer />
+					</div>
 				</ThemeProvider>
 			</body>
 		</html>

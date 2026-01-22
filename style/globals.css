@@ -151,6 +151,23 @@
     --color-error: #dc3545;
   }
 
+  body {
+    color: var(--color-dark);
+    background: var(--color-light);
+  }
+
+  /* next-themes uses class="light"/"dark" on <html>. If both ever exist, fall back to light defaults above. */
+  html.light:not(.dark) body {
+    color: var(--color-dark);
+    background: var(--color-light);
+  }
+
+  html.dark:not(.light) body,
+  body.dark:not(.light) {
+    color: var(--color-light);
+    background: var(--color-dark);
+  }
+
   /* html {
     background: theme('colors.light');
   }
@@ -163,7 +180,13 @@
     background: var(--color-light);
   }
 
-  :root[class~="dark"] {
+  html.light:not(.dark),
+  body.light:not(.dark) {
+    background: var(--color-light);
+  }
+
+  html.dark:not(.light),
+  body.dark:not(.light) {
     background: var(--color-dark);
   }
 }

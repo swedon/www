@@ -18,6 +18,7 @@ import logoWhite from '@/public/s-logo-white.svg'
 import logoBlack from '@/public/s-logo-black.svg'
 
 import ThemeSwitcher from './ThemeSwitcher'
+import BackgroundAnimationToggle from './BackgroundAnimationToggle'
 
 const links = [
 	{ id: 1, text: 'Start', description: '', href: '/start', icon: FaHome },
@@ -83,7 +84,7 @@ const Navbar = ({ children }) => {
 					</button>
 				</div>
 
-				<div className='hidden lg:flex lg:gap-x-12 ml-6 flex items-center gap-x-1 text-lg font-semibold leading-6'>
+				<div className='hidden lg:flex lg:gap-x-12 ml-6 items-center gap-x-1 text-lg font-semibold leading-6'>
 					{links.map(item => {
 						if (item.children) {
 							return (
@@ -153,6 +154,7 @@ const Navbar = ({ children }) => {
 					<span className='text-sm leading-6 text-gray-900 mr-2'>
 						<DiscordButton href='/discord' />
 					</span>
+					<BackgroundAnimationToggle className='mr-2' />
 					<ThemeSwitcher />
 				</div>
 			</nav>
@@ -180,7 +182,7 @@ const Navbar = ({ children }) => {
 											<Disclosure as='div' className='-mx-3' key={item.id}>
 												{({ open }) => (
 													<div className=''>
-														<DisclosureButton className='flex w-full inline-block rounded-lg py-2 pl-3 pr-3.5 text-base font-semibold'>
+														<DisclosureButton className='flex w-full rounded-lg py-2 pl-3 pr-3.5 text-base font-semibold'>
 															{item.icon && (
 																<item.icon className='h-5 w-5 flex-none text-gray-400 mr-1' aria-hidden='true' />
 															)}
@@ -234,8 +236,9 @@ const Navbar = ({ children }) => {
 									}
 								})}
 							</div>
-							<div className='flex inline-block py-6'>
+							<div className='flex py-6'>
 								<DiscordButton />
+								<BackgroundAnimationToggle className='mr-2' />
 								<ThemeSwitcher />
 							</div>
 						</div>

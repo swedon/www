@@ -17,10 +17,22 @@ const ThemeSwitcher = ({ children, className }) => {
 	}
 
 	if (currentTheme === 'dark') {
-		return <FaSun className={`w-8 h-8 text-yellow-500 ${className}`} role='button' onClick={() => setTheme('light')} />
+		return (
+			<FaSun
+				className={`w-8 h-8 text-yellow-500 cursor-pointer transition-opacity hover:opacity-80 ${className ?? ''}`}
+				role='button'
+				onClick={() => setTheme('light')}
+			/>
+		)
 	}
 
-	return <FaMoon className={`w-8 h-8 text-gray-900 ${className}`} role='button' onClick={() => setTheme('dark')} />
+	return (
+		<FaMoon
+			className={`w-8 h-8 text-gray-900 cursor-pointer transition-opacity hover:opacity-80 ${className ?? ''}`}
+			role='button'
+			onClick={() => setTheme('dark')}
+		/>
+	)
 }
 
 export default ThemeSwitcher
