@@ -76,7 +76,7 @@ export default function Contact() {
 
 	return (
 		<form className='flex flex-col items-center justify-center'>
-			<div className='space-y-12 bg-white text-black p-6 m-6 rounded-lg sm:w-[50%]'>
+			<div className='card space-y-12 p-6 m-6 sm:w-[50%]'>
 				<div className=''>
 					<h1 className='font-semibold leading-7 text-center text-lg'>Get in touch</h1>
 					<p className='mt-1 leading-6 text-gray-600'>Fill out the form below to send a message to the admins.</p>
@@ -149,7 +149,7 @@ export default function Contact() {
 						type='submit'
 						disabled={!isFormValid}
 						onClick={handleSubmit}
-						className='flex items-center justify-center rounded-md bg-white px-2.5 py-1.5 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50'
+						className='flex items-center justify-center rounded-md bg-white dark:bg-gray-800 px-2.5 py-1.5 text-sm font-semibold text-gray-900 dark:text-gray-100 shadow-sm ring-1 ring-inset ring-gray-300 dark:ring-white/10 hover:bg-gray-50 dark:hover:bg-gray-700'
 					>
 						<RiMailSendFill />
 						<p className='ml-1'> Send</p>
@@ -158,7 +158,7 @@ export default function Contact() {
 					<div
 						id='alert'
 						role='alert'
-						className='relative block w-full p-4 mb-4 font-bold leading-5 text-white bg-green-500 rounded-lg opacity-100 hidden animate__animated animate__fadeIn'
+						className='relative w-full p-4 mb-4 font-bold leading-5 text-white bg-green-500 rounded-lg opacity-100 hidden animate__animated animate__fadeIn'
 					>
 						<div className='flex items-center mr-12'>
 							Message sent! An admin will be in touch soon. <FaRegSmile className='ml-2 text-lg' />

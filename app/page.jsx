@@ -1,28 +1,14 @@
 'use client'
-
-import { useState, useEffect } from 'react'
 import DiscordButton, { DiscordLink } from '@/components/Discord'
 
-import FreeGamesPromotions from '@/components/EpicGames'
-
 export default function LandingPage() {
-	const [mounted, setMounted] = useState(false)
-
-	useEffect(() => {
-		setMounted(true)
-	}, [])
-
-	if (!mounted) {
-		return null
-	}
-
 	return (
-		<>
-			<div className='row flex flex-col items-center justify-center space-y-10 mt-25 animate__animated animate__zoomIn'>
-				<div className="col-1 rounded overflow-hidden shadow-lg bg-[var(--color-discord)] text-light animate__animated animate__zoomInUp animate__slow animate__delay">
-					<div className="px-10 py-2">
+		<section className='p-6'>
+			<div className='flex flex-col items-center justify-center space-y-10 mt-25 animate__animated animate__zoomIn'>
+				<div className='rounded overflow-hidden shadow-lg bg-[var(--color-discord)] text-white animate__animated animate__zoomInUp animate__slow animate__delay'>
+					<div className='px-10 py-2'>
 						{/* <div className="font-bold text-xl mb-2">Join our community</div> */}
-						<p className="font-bold text-3xl my-10">{DiscordLink}</p>
+						<p className='font-bold text-3xl my-10'>{DiscordLink}</p>
 					</div>
 				</div>		
 				<DiscordButton
@@ -33,13 +19,6 @@ export default function LandingPage() {
 					Discord
 				</DiscordButton>
 			</div>
-			
-			{/* <div className='container mx-auto p-4'>
-				<h1 className='text-xl font-bold text-center bg-gray-200 text-dark p-4 rounded'>Epic Games</h1>
-				<div className='mt-2'>
-					<FreeGamesPromotions></FreeGamesPromotions>
-				</div>
-			</div> */}
-		</>
+		</section>
 	)
 }

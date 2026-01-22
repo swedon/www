@@ -156,14 +156,7 @@
     background: var(--color-light);
   }
 
-  /* next-themes uses class="light"/"dark" on <html>. If both ever exist, fall back to light defaults above. */
-  html.light:not(.dark) body {
-    color: var(--color-dark);
-    background: var(--color-light);
-  }
-
-  html.dark:not(.light) body,
-  body.dark:not(.light) {
+  html.dark body {
     color: var(--color-light);
     background: var(--color-dark);
   }
@@ -176,18 +169,20 @@
     background: theme('colors.dark');
   } */
 
-  :root {
+  html {
     background: var(--color-light);
+    color-scheme: light;
   }
 
-  html.light:not(.dark),
-  body.light:not(.dark) {
-    background: var(--color-light);
-  }
-
-  html.dark:not(.light),
-  body.dark:not(.light) {
+  html.dark {
     background: var(--color-dark);
+    color-scheme: dark;
+  }
+}
+
+@layer components {
+  .card {
+    @apply rounded-lg bg-white;
   }
 }
 

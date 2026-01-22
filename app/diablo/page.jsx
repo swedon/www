@@ -345,19 +345,17 @@ export default function DiabloPage() {
         }
     };
 
-    if (loading) return <div className="container mx-auto p-4"><p>Loading...</p></div>;
-    if (error) return <div className="container mx-auto p-4"><p>Error: {error}</p></div>;
+    if (loading) return <div className="card p-4"><p>Loading...</p></div>;
+    if (error) return <div className="card p-4"><p>Error: {error}</p></div>;
 
     return (
-        <div className="min-h-screen py-8 text-gray-900 dark:text-white">
-            <div className="container mx-auto px-4">
-                <div className="max-w-2xl mx-auto rounded-lg p-6 shadow-lg">
-                    <h2 className="text-3xl font-semibold text-center mb-6 text-gray-900 dark:text-white">Next World Boss</h2>
+        <section className="mx-auto max-w-2xl card p-6 text-gray-900 dark:text-gray-100">
+            <h2 className="text-3xl font-semibold text-center mb-6">Next World Boss</h2>
                     {nextBoss && (
                         <>
                             <div className="text-center mb-4">
                                 <div className="text-2xl font-bold text-yellow-400 mb-2">Boss: {nextBoss.boss}</div>
-                                <div className="text-lg text-gray-900 dark:text-gray-300">Location: {nextBoss.location}</div>
+                                <div className="text-lg text-gray-900">Location: {nextBoss.location}</div>
                             </div>
                             <div className="flex justify-center relative mb-6">
                                 <img src={getImageUrl(nextBoss.location)} alt={nextBoss.location} className="max-w-md rounded-lg shadow-md border-2 border-gray-300 dark:border-gray-600" />
@@ -368,8 +366,8 @@ export default function DiabloPage() {
                         <div className={`text-5xl font-mono font-bold mb-4 ${timeLeft < 60 ? 'text-red-500' : (timeLeft < 300 ? 'text-orange-400' : 'text-green-400')}`}>{formatTime(timeLeft)}</div>
 
                         <div className="mb-6">
-                            <div className="text-sm font-semibold text-gray-900 dark:text-gray-300 mb-2">Alerts</div>
-                            <div className="flex flex-col items-center gap-2 text-sm text-gray-900 dark:text-gray-300">
+                            <div className="text-sm font-semibold text-gray-900 mb-2">Alerts</div>
+                            <div className="flex flex-col items-center gap-2 text-sm text-gray-900">
                                 <div className="flex flex-wrap justify-center gap-x-6 gap-y-2">
                                     {OTHER_ALERT_OPTIONS.map((minutes) => (
                                         <label key={minutes} className="inline-flex items-center gap-2 select-none">
@@ -440,8 +438,6 @@ export default function DiabloPage() {
 
                         <button onClick={openPiP} className="px-6 py-3 bg-green-600 hover:bg-green-700 text-white font-semibold rounded-lg shadow-md transition duration-200">Open Overlay</button>
                     </div>
-                </div>
-            </div>
-        </div>
+        </section>
     )
 }

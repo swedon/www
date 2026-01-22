@@ -4,11 +4,14 @@ import FreeGamesPromotions from '@/components/EpicGames'
 
 export default function FreeGames() {
 	return (
-		<div className='container mx-auto p-4'>
-			<h1 className='text-xl font-bold text-center bg-gray-200 text-dark p-4 rounded'>Epic Games</h1>
-			<div className='mt-2'>
-				<FreeGamesPromotions></FreeGamesPromotions>
+		<section className='space-y-4'>
+			<h1 className='text-3xl font-bold text-center'>Free Games</h1>
+			<div className='card p-4'>
+				<h2 className='text-2xl font-bold text-center'>Epic Games</h2>
+				<div className='mt-4'>
+					<FreeGamesPromotions />
+				</div>
 			</div>
-		</div>
+		</section>
 	)
 }
