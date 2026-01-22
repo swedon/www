@@ -3,45 +3,45 @@
     "searchStore": {
       "elements": [
         {
-          "title": "Totally Reliable Delivery Service Standard Edition",
-          "id": "9aa227e2ba294bb1a95c95fde892eb31",
-          "namespace": "52b90f9a982a404781b189f6a7903226",
-          "description": "Buckle up your back brace and fire up the delivery truck, it's time to deliver! Join up to three friends and haphazardly get the job done in an interactive sandbox world. Delivery attempted, that's a Totally Reliable Delivery Service guarantee!",
-          "effectiveDate": "2020-04-01T15:00:00.000Z",
+          "title": "Them's Fightin' Herds",
+          "id": "1f723b00df58467998c4984ca39915ad",
+          "namespace": "a567c32599bf4d4fb609e424f3691b39",
+          "description": "Them's Fightin' Herds",
+          "effectiveDate": "2022-12-19T16:00:00.000Z",
           "offerType": "BASE_GAME",
           "expiryDate": null,
-          "viewableDate": "2020-04-01T15:00:00.000Z",
+          "viewableDate": "2022-12-19T15:55:00.000Z",
           "status": "ACTIVE",
           "isCodeRedemptionOnly": false,
           "keyImages": [
             {
               "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/EGS_TotallyReliableDeliveryService_WereFiveGames_S1-2560x1440-47e6e9562d62705a75ea7b7096d0b8dc.jpg"
+              "url": "https://cdn1.epicgames.com/offer/a567c32599bf4d4fb609e424f3691b39/EGS_ThemsFightinHerds_Mane6Inc_S1_2560x1440-da3a940faafe30c602d3966d2c295825"
             },
             {
               "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/EGS_TotallyReliableDeliveryService_WereFiveGames_S1-2560x1440-47e6e9562d62705a75ea7b7096d0b8dc.jpg"
+              "url": "https://cdn1.epicgames.com/offer/a567c32599bf4d4fb609e424f3691b39/EGS_ThemsFightinHerds_Mane6Inc_S1_2560x1440-da3a940faafe30c602d3966d2c295825"
             },
             {
               "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/EGS_TotallyReliableDeliveryService_WereFiveGames_S2-1200x1600-9c6ee20f94a76179a1036753ea081dbb.jpg"
+              "url": "https://cdn1.epicgames.com/offer/a567c32599bf4d4fb609e424f3691b39/EGS_ThemsFightinHerds_Mane6Inc_S2_1200x1600-9793ee024c43026c5c2b1612c7a487d0"
             },
             {
               "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/EGS_TotallyReliableDeliveryService_WereFiveGames_S2-1200x1600-9c6ee20f94a76179a1036753ea081dbb.jpg"
+              "url": "https://cdn1.epicgames.com/offer/a567c32599bf4d4fb609e424f3691b39/EGS_ThemsFightinHerds_Mane6Inc_S2_1200x1600-9793ee024c43026c5c2b1612c7a487d0_1200x1600-9793ee024c43026c5c2b1612c7a487d0"
             }
           ],
           "seller": {
-            "id": "o-mwyksl2ljpmxh8fqw44ypjbgt4s3fr",
-            "name": "Infogrames LLC"
+            "id": "o-znrmullaj65y32mwjfa5dzabpprtmt",
+            "name": "Gameplay Group International Inc."
           },
-          "productSlug": "totally-reliable-delivery-service/home",
-          "urlSlug": "hoatzingeneralaudience",
+          "productSlug": "thems-fightin-herds/home",
+          "urlSlug": "thems-fightin-herds",
           "url": null,
           "items": [
             {
-              "id": "92072472858b473fa5093b228ae30105",
-              "namespace": "52b90f9a982a404781b189f6a7903226"
+              "id": "10deb2d9a2654231a12e24f8e58a446d",
+              "namespace": "a567c32599bf4d4fb609e424f3691b39"
             }
           ],
           "customAttributes": [
@@ -54,28 +54,24 @@
               "value": "true"
             },
             {
-              "key": "com.epicgames.app.blacklist",
-              "value": "[]"
-            },
-            {
               "key": "isPromotionalContentUsed",
               "value": "false"
             },
             {
               "key": "publisherName",
-              "value": "Infogrames, LLC"
+              "value": "Maximum Entertainment LLC"
             },
             {
               "key": "developerName",
-              "value": "We're Five Games"
-            },
-            {
-              "key": "com.epicgames.app.productSlug",
-              "value": "totally-reliable-delivery-service/home"
+              "value": "Mane6"
             },
             {
               "key": "isBlockchainUsed",
               "value": "false"
+            },
+            {
+              "key": "com.epicgames.app.productSlug",
+              "value": "thems-fightin-herds/home"
             }
           ],
           "categories": [
@@ -97,28 +93,34 @@
           ],
           "tags": [
             {
+              "id": "1344"
+            },
+            {
               "id": "29088"
+            },
+            {
+              "id": "21121"
             },
             {
               "id": "21122"
             },
             {
-              "id": "21126"
+              "id": "1188"
+            },
+            {
+              "id": "21125"
+            },
+            {
+              "id": "19847"
+            },
+            {
+              "id": "21129"
             },
             {
               "id": "9547"
             },
             {
-              "id": "9549"
-            },
-            {
               "id": "1263"
-            },
-            {
-              "id": "1264"
-            },
-            {
-              "id": "1296"
             },
             {
               "id": "21138"
@@ -133,190 +135,33 @@
               "id": "21141"
             },
             {
-              "id": "1110"
-            },
-            {
-              "id": "1400"
-            },
-            {
-              "id": "22776"
-            },
-            {
               "id": "1370"
             },
             {
-              "id": "1183"
+              "id": "21149"
             },
             {
-              "id": "10719"
+              "id": "21119"
             }
           ],
           "catalogNs": {
             "mappings": [
               {
-                "pageSlug": "totally-reliable-delivery-service",
+                "pageSlug": "thems-fightin-herds",
                 "pageType": "productHome"
               }
             ]
           },
           "offerMappings": [
             {
-              "pageSlug": "totally-reliable-delivery-service",
+              "pageSlug": "thems-fightin-herds",
               "pageType": "productHome"
             }
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 1499,
-              "voucherDiscount": 0,
-              "discount": 1499,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$14.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": [
-                  {
-                    "id": "1b26c4ee8650430d8b2b4204d2739504",
-                    "endDate": "2025-08-21T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-08-14T15:00:00.000Z",
-                    "endDate": "2025-08-21T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
-        },
-        {
-          "title": "Strange Horticulture",
-          "id": "0d9a533f0e684cc18620a8f408e8e72c",
-          "namespace": "c9d0a59bf89c45ceadc5960d6bc1ae4c",
-          "description": "An occult puzzle game in which you play as the proprietor of a local plant store. Find and identify new plants, pet your cat, speak to a coven, or join a cult. Use your collection of powerful plants to influence the story and unravel Undermere’s dark mysteries.",
-          "effectiveDate": "2022-01-21T14:00:00.000Z",
-          "offerType": "BASE_GAME",
-          "expiryDate": null,
-          "viewableDate": "2022-01-10T00:00:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/spt-assets/15e8e3eba65a4763a815d6eae1d763b2/download-strange-horticulture-offer-x1a19.png"
-            },
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/spt-assets/15e8e3eba65a4763a815d6eae1d763b2/strange-horticulture-offer-2wghv.png"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/spt-assets/15e8e3eba65a4763a815d6eae1d763b2/download-strange-horticulture-offer-x1a19.png"
-            }
-          ],
-          "seller": {
-            "id": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
-            "name": "Iceberg Interactive"
-          },
-          "productSlug": null,
-          "urlSlug": "e80e18d9bbf24029b898d2cf68807e5e",
-          "url": null,
-          "items": [
-            {
-              "id": "592c396c71724533b1cd19073fe91bbf",
-              "namespace": "c9d0a59bf89c45ceadc5960d6bc1ae4c"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "autoGeneratedPrice",
-              "value": "false"
-            },
-            {
-              "key": "isPromotionalContentUsed",
-              "value": "false"
-            },
-            {
-              "key": "isBlockchainUsed",
-              "value": "false"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "games/edition"
-            },
-            {
-              "path": "games/edition/base"
-            }
-          ],
-          "tags": [
-            {
-              "id": "1393"
-            },
-            {
-              "id": "1298"
-            },
-            {
-              "id": "1381"
-            },
-            {
-              "id": "21894"
-            },
-            {
-              "id": "1370"
-            },
-            {
-              "id": "9547"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "strange-horticulture-360e80",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [
-            {
-              "pageSlug": "strange-horticulture-360e80",
-              "pageType": "productHome"
-            }
-          ],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 1499,
-              "originalPrice": 1499,
+              "discountPrice": 1999,
+              "originalPrice": 1999,
               "voucherDiscount": 0,
               "discount": 0,
               "currencyCode": "USD",
@@ -324,10 +169,11 @@
                 "decimals": 2
               },
               "fmtPrice": {
-                "originalPrice": "$14.99",
-                "discountPrice": "$14.99",
-                "intermediatePrice": "$14.99"
-              }
+                "originalPrice": "$19.99",
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
+              },
+              "dualPrice": null
             },
             "lineOffers": [
               {
@@ -335,23 +181,7 @@
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2025-08-21T15:00:00.000Z",
-                    "endDate": "2025-08-28T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ]
-          }
+          "promotions": null
         },
         {
           "title": "Model Builder: Complete Edition",
@@ -435,6 +265,12 @@
               "id": "21138"
             },
             {
+              "id": "21139"
+            },
+            {
+              "id": "1188"
+            },
+            {
               "id": "21140"
             },
             {
@@ -451,6 +287,9 @@
             },
             {
               "id": "9547"
+            },
+            {
+              "id": "21149"
             },
             {
               "id": "21119"
@@ -484,7 +323,8 @@
                 "originalPrice": "$19.99",
                 "discountPrice": "$19.99",
                 "intermediatePrice": "$19.99"
-              }
+              },
+              "dualPrice": null
             },
             "lineOffers": [
               {
@@ -493,6 +333,308 @@
             ]
           },
           "promotions": null
+        },
+        {
+          "title": "Eternal Threads",
+          "id": "921e40c4c69f4d728914ca2a4f0aa407",
+          "namespace": "35eda4ff87f94a7491dc28175b8f3b4f",
+          "description": "Eternal Threads is a single-player, first-person story-driven puzzle game of time manipulation, choice and consequence.",
+          "effectiveDate": "2023-10-19T15:00:00.000Z",
+          "offerType": "BASE_GAME",
+          "expiryDate": null,
+          "viewableDate": "2023-10-12T15:00:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1vm6i.jpg"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1v92y.jpg"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1v92y.jpg"
+            }
+          ],
+          "seller": {
+            "id": "o-rdrzv6e26usvcn4dsevv2mpfr4bytu",
+            "name": "Secret Mode Limited"
+          },
+          "productSlug": null,
+          "urlSlug": "a9152a8924cc4e438f0e61106ec02f7d",
+          "url": null,
+          "items": [
+            {
+              "id": "8963690b6659413e95e885f49fd92ea4",
+              "namespace": "35eda4ff87f94a7491dc28175b8f3b4f"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "autoGeneratedPrice",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetViewableDate",
+              "value": "true"
+            },
+            {
+              "key": "isPromotionalContentUsed",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetPCReleaseDate",
+              "value": "true"
+            },
+            {
+              "key": "isBlockchainUsed",
+              "value": "false"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "games/edition"
+            },
+            {
+              "path": "games/edition/base"
+            }
+          ],
+          "tags": [
+            {
+              "id": "1298"
+            },
+            {
+              "id": "19847"
+            },
+            {
+              "id": "1370"
+            },
+            {
+              "id": "9547"
+            },
+            {
+              "id": "1117"
+            },
+            {
+              "id": "1263"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "eternal-threads-197169",
+                "pageType": "productHome"
+              }
+            ]
+          },
+          "offerMappings": [
+            {
+              "pageSlug": "eternal-threads-197169",
+              "pageType": "productHome"
+            }
+          ],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 1999,
+              "originalPrice": 1999,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$19.99",
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
+              },
+              "dualPrice": null
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2026-02-09T16:00:00.000Z",
+                    "endDate": "2026-02-23T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 20
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Ghostrunner 2",
+          "id": "be5600439b434624802764f704755cde",
+          "namespace": "708f57aaa04b42ef885be16c8288f0ac",
+          "description": "Ghostrunner 2 is a hardcore FPP slasher set in a post-apocalyptic, cyberpunk world. Featuring everything fans loved about Ghostrunner plus incredible boss fights, new interactive story, thrilling motorbike levels, improved skills, and more cyber ninja action. ",
+          "effectiveDate": "2023-10-26T15:00:00.000Z",
+          "offerType": "BASE_GAME",
+          "expiryDate": null,
+          "viewableDate": "2023-10-26T15:00:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S2_1200x1600-12ae7597b946ad94ac75680eb735be07"
+            },
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S1_2560x1440-15845148fae1d0cfd7f3e98c9b3ba6ba"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S2_1200x1600-12ae7597b946ad94ac75680eb735be07"
+            }
+          ],
+          "seller": {
+            "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+            "name": "505 Games"
+          },
+          "productSlug": "ghostrunner-2",
+          "urlSlug": "ghostrunner-2",
+          "url": null,
+          "items": [
+            {
+              "id": "b5644df892c8403ba6e18998565e75e5",
+              "namespace": "708f57aaa04b42ef885be16c8288f0ac"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "com.epicgames.app.blacklist",
+              "value": "[]"
+            },
+            {
+              "key": "com.epicgames.app.productSlug",
+              "value": "ghostrunner-2"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "games/edition"
+            },
+            {
+              "path": "games/edition/base"
+            },
+            {
+              "path": "applications"
+            }
+          ],
+          "tags": [
+            {
+              "id": "1216"
+            },
+            {
+              "id": "21122"
+            },
+            {
+              "id": "21138"
+            },
+            {
+              "id": "21139"
+            },
+            {
+              "id": "21140"
+            },
+            {
+              "id": "21109"
+            },
+            {
+              "id": "21141"
+            },
+            {
+              "id": "21129"
+            },
+            {
+              "id": "1370"
+            },
+            {
+              "id": "9547"
+            },
+            {
+              "id": "1117"
+            },
+            {
+              "id": "21149"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "ghostrunner-2",
+                "pageType": "productHome"
+              }
+            ]
+          },
+          "offerMappings": [],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 3999,
+              "originalPrice": 3999,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$39.99",
+                "discountPrice": "$39.99",
+                "intermediatePrice": "$39.99"
+              },
+              "dualPrice": null
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2026-02-09T16:00:00.000Z",
+                    "endDate": "2026-02-23T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 20
+                    }
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "title": "Lost Castle: The Old Ones Awaken",
@@ -644,7 +786,8 @@
                 "originalPrice": "$3.99",
                 "discountPrice": "$3.99",
                 "intermediatePrice": "$3.99"
-              }
+              },
+              "dualPrice": null
             },
             "lineOffers": [
               {
@@ -757,7 +900,8 @@
                 "originalPrice": "$24.99",
                 "discountPrice": "$24.99",
                 "intermediatePrice": "$24.99"
-              }
+              },
+              "dualPrice": null
             },
             "lineOffers": [
               {
@@ -852,19 +996,10 @@
               "id": "21122"
             },
             {
-              "id": "21139"
-            },
-            {
-              "id": "21109"
-            },
-            {
               "id": "19847"
             },
             {
               "id": "21129"
-            },
-            {
-              "id": "1370"
             },
             {
               "id": "9547"
@@ -874,6 +1009,27 @@
             },
             {
               "id": "1198"
+            },
+            {
+              "id": "21138"
+            },
+            {
+              "id": "21139"
+            },
+            {
+              "id": "21140"
+            },
+            {
+              "id": "21109"
+            },
+            {
+              "id": "21141"
+            },
+            {
+              "id": "1370"
+            },
+            {
+              "id": "21149"
             },
             {
               "id": "1151"
@@ -907,142 +1063,8 @@
                 "originalPrice": "$19.99",
                 "discountPrice": "$19.99",
                 "intermediatePrice": "$19.99"
-              }
-            },
-            "lineOffers": [
-              {
-                "appliedRules": []
-              }
-            ]
-          },
-          "promotions": null
-        },
-        {
-          "title": "Kamaeru",
-          "id": "4cbb6c3704d240f19c3dd5f5cb2b0cb4",
-          "namespace": "a1fb482c4c6c4dcd855a1cbef1ad79d1",
-          "description": "Foster a sanctuary for frogs and restore the biodiversity of the wetlands in Kamaeru, a cozy frog collecting game, where you take pictures of frogs, play mini-games and decorate your habitat. Hop right to it!",
-          "effectiveDate": "2024-12-04T16:36:39.000Z",
-          "offerType": "BASE_GAME",
-          "expiryDate": null,
-          "viewableDate": "2024-12-04T13:09:41.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/spt-assets/44313cfbb62b4df5801d0c8d541c2624/kamaeru-40asc.png"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/spt-assets/44313cfbb62b4df5801d0c8d541c2624/kamaeru-de4xb.png"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/spt-assets/44313cfbb62b4df5801d0c8d541c2624/kamaeru-de4xb.png"
-            }
-          ],
-          "seller": {
-            "id": "o-ttudgfyffrswppq6pflnkwfzdm6qc3",
-            "name": "Armor Games Studios"
-          },
-          "productSlug": null,
-          "urlSlug": "dc461f7367714ec6ad01df67163de5eb",
-          "url": null,
-          "items": [
-            {
-              "id": "1c63e981616348aa826266a84b0b7c21",
-              "namespace": "a1fb482c4c6c4dcd855a1cbef1ad79d1"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "autoGeneratedPrice",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetViewableDate",
-              "value": "true"
-            },
-            {
-              "key": "isPromotionalContentUsed",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetPCReleaseDate",
-              "value": "true"
-            },
-            {
-              "key": "isBlockchainUsed",
-              "value": "false"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "games/edition"
-            },
-            {
-              "path": "games/edition/base"
-            }
-          ],
-          "tags": [
-            {
-              "id": "1296"
-            },
-            {
-              "id": "1393"
-            },
-            {
-              "id": "21894"
-            },
-            {
-              "id": "1370"
-            },
-            {
-              "id": "9547"
-            },
-            {
-              "id": "9549"
-            },
-            {
-              "id": "1263"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "kamaeru-0c301e",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [
-            {
-              "pageSlug": "kamaeru-0c301e",
-              "pageType": "productHome"
-            }
-          ],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 1999,
-              "originalPrice": 1999,
-              "voucherDiscount": 0,
-              "discount": 0,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
               },
-              "fmtPrice": {
-                "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
-              }
+              "dualPrice": null
             },
             "lineOffers": [
               {
@@ -1056,11 +1078,11 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2025-08-21T15:00:00.000Z",
-                    "endDate": "2025-08-28T15:00:00.000Z",
+                    "startDate": "2026-02-09T16:00:00.000Z",
+                    "endDate": "2026-02-23T16:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
+                      "discountPercentage": 40
                     }
                   }
                 ]
@@ -1069,89 +1091,77 @@
           }
         },
         {
-          "title": "Hidden Folks",
-          "id": "8ea3500dc38e4f429702bf889c172d3d",
-          "namespace": "b0545d64f90248208a5dd6f213f4dde7",
-          "description": "Search for hidden folks in hand-drawn, interactive, miniature landscapes. Unfurl tent flaps, cut through bushes, slam doors, and poke some crocodiles! Rooooaaaarrrr!!!!!",
-          "effectiveDate": "2025-08-14T15:00:00.000Z",
+          "title": "Monument Valley",
+          "id": "f967cff9761c4198b4e972cfd71e40d7",
+          "namespace": "e236e73a294b462d85715f5ba23a6346",
+          "description": "Embark on a journey of forgiveness through impossible environments and illusionary puzzles. Experience this meditative and calming puzzle game by manipulating monuments and creating evolving paths to explore new, surreal, and mysterious worlds.",
+          "effectiveDate": "2025-09-04T15:00:00.000Z",
           "offerType": "BASE_GAME",
           "expiryDate": null,
-          "viewableDate": "2025-08-07T15:00:00.000Z",
+          "viewableDate": "2025-08-28T15:00:00.000Z",
           "status": "ACTIVE",
           "isCodeRedemptionOnly": false,
           "keyImages": [
             {
               "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-1b7hh.png"
+              "url": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg"
             },
             {
               "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-1t2yn.png"
+              "url": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-bp09k.jpg"
             },
             {
               "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-1t2yn.png"
+              "url": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-bp09k.jpg"
             },
             {
               "type": "heroCarouselVideo",
-              "url": "com.epicgames.video://b3852134-d15d-4aa9-afe0-241fd4ae86ef?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F7bfd56b0586348dcb139945d9e59f988%2Fhidden-folks-video-1s8y3.png"
-            },
-            {
-              "type": "heroCarouselVideo",
-              "url": "com.epicgames.video://1edcf0cd-2be9-4940-968a-d01e646dddea?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F7bfd56b0586348dcb139945d9e59f988%2Fhidden-folks-video-je182.png"
-            },
-            {
-              "type": "heroCarouselVideo",
-              "url": "com.epicgames.video://26392fb2-d062-4321-a146-dc077f7d2bf7?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F7bfd56b0586348dcb139945d9e59f988%2Fhidden-folks-video-1gub1.png"
+              "url": "com.epicgames.video://e2f4625d-33d9-428f-a50e-d6721fc00136?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fe56a7411805046d3b5b7253a6e4e0faa%2Fmonument-valley-video-war5h.jpg"
             },
             {
               "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-1oe85.png"
+              "url": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-ao6zf.jpg"
             },
             {
               "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-pslbd.png"
+              "url": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1akji.jpg"
             },
             {
               "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-dfjid.png"
+              "url": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-715qo.jpg"
             },
             {
               "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-wagmo.png"
+              "url": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1t8ws.jpg"
             },
             {
               "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-94bdv.png"
+              "url": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-rc6m0.jpg"
             },
             {
               "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-1w9i7.png"
+              "url": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1bmbs.jpg"
             },
             {
               "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-1x52l.png"
+              "url": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-yj45y.jpg"
             },
             {
               "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-1p1vv.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-u2xnh.png"
+              "url": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-wiww5.jpg"
             }
           ],
           "seller": {
-            "id": "o-88nexeqwyy2659vf59cc5ecw28888r",
-            "name": "Adriaan de Jongh"
+            "id": "o-dlp2t8d5tvq8kz8m6q6mltypw6c9am",
+            "name": "ustwo games"
           },
           "productSlug": null,
-          "urlSlug": "8231330d9e5c446dbd4f386ed9f19f53",
+          "urlSlug": "monument-valley-02",
           "url": null,
           "items": [
             {
-              "id": "82ad6baef0f347c58b195054e1df28f2",
-              "namespace": "b0545d64f90248208a5dd6f213f4dde7"
+              "id": "5c5c3efb40a44ddf9d4b845aee75e2a0",
+              "namespace": "e236e73a294b462d85715f5ba23a6346"
             }
           ],
           "customAttributes": [
@@ -1195,7 +1205,7 @@
               "id": "1296"
             },
             {
-              "id": "19847"
+              "id": "1298"
             },
             {
               "id": "1370"
@@ -1204,51 +1214,237 @@
               "id": "9547"
             },
             {
-              "id": "1116"
-            },
-            {
-              "id": "1263"
-            },
-            {
-              "id": "10719"
+              "id": "1117"
             }
           ],
           "catalogNs": {
             "mappings": [
               {
-                "pageSlug": "hidden-folks-239d16",
+                "pageSlug": "monument-valley-1d99d3",
                 "pageType": "productHome"
               }
             ]
           },
           "offerMappings": [
             {
-              "pageSlug": "hidden-folks-239d16",
+              "pageSlug": "monument-valley-1d99d3",
+              "pageType": "productHome"
+            }
+          ],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 799,
+              "originalPrice": 799,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$7.99",
+                "discountPrice": "$7.99",
+                "intermediatePrice": "$7.99"
+              },
+              "dualPrice": null
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2026-02-09T16:00:00.000Z",
+                    "endDate": "2026-02-23T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 35
+                    }
+                  },
+                  {
+                    "startDate": "2026-03-30T15:00:00.000Z",
+                    "endDate": "2026-04-13T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 35
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Rustler - Grand Theft Horse",
+          "id": "3d10f32b87b94b769524cd44a12e634a",
+          "namespace": "aca2ee0619aa482791f0a71dbf3eeac0",
+          "description": "Become a medieval thug in a crazy open-world action game, full of pop-culture references. Complete insane quests, kill heroes, steal horses, fight guards, rob peasants, listen to some bard music, and much more! All packed in old-school gameplay style!",
+          "effectiveDate": "2026-01-22T16:00:00.000Z",
+          "offerType": "BASE_GAME",
+          "expiryDate": null,
+          "viewableDate": "2026-01-15T16:00:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/spt-assets/a1324ca83bc543ae8747f8d5a99d777a/rustler--grand-theft-horse-1ukey.jpg"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/spt-assets/a1324ca83bc543ae8747f8d5a99d777a/rustler--grand-theft-horse-psdse.jpg"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/spt-assets/a1324ca83bc543ae8747f8d5a99d777a/rustler--grand-theft-horse-psdse.jpg"
+            },
+            {
+              "type": "heroCarouselVideo",
+              "url": "com.epicgames.video.qs://12b3e3f1-a4eb-4fcf-9cf6-ce6397f4fcff?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fa1324ca83bc543ae8747f8d5a99d777a%2Frustler--grand-theft-horse-video-12618.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/a1324ca83bc543ae8747f8d5a99d777a/rustler--grand-theft-horse-gar5i.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/a1324ca83bc543ae8747f8d5a99d777a/rustler--grand-theft-horse-iat2m.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/a1324ca83bc543ae8747f8d5a99d777a/rustler--grand-theft-horse-g9fsw.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/a1324ca83bc543ae8747f8d5a99d777a/rustler--grand-theft-horse-11l6e.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/a1324ca83bc543ae8747f8d5a99d777a/rustler--grand-theft-horse-hwsxg.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/a1324ca83bc543ae8747f8d5a99d777a/rustler--grand-theft-horse-1d7cm.jpg"
+            }
+          ],
+          "seller": {
+            "id": "o-8dv8wz77w8tqnymmm8e99p28eny7kg",
+            "name": "Games Operators S.A."
+          },
+          "productSlug": null,
+          "urlSlug": "rustler-grand-theft-horse",
+          "url": null,
+          "items": [
+            {
+              "id": "0f14b1aadf8e4b09a1adb5a00f1055cb",
+              "namespace": "aca2ee0619aa482791f0a71dbf3eeac0"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "autoGeneratedPrice",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetViewableDate",
+              "value": "true"
+            },
+            {
+              "key": "isPromotionalContentUsed",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetPCReleaseDate",
+              "value": "true"
+            },
+            {
+              "key": "isBlockchainUsed",
+              "value": "false"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "games/edition"
+            },
+            {
+              "path": "games/edition/base"
+            }
+          ],
+          "tags": [
+            {
+              "id": "1216"
+            },
+            {
+              "id": "21894"
+            },
+            {
+              "id": "1367"
+            },
+            {
+              "id": "19847"
+            },
+            {
+              "id": "1370"
+            },
+            {
+              "id": "1307"
+            },
+            {
+              "id": "9547"
+            },
+            {
+              "id": "9549"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "rustler-grand-theft-horse-21a7ca",
+                "pageType": "productHome"
+              }
+            ]
+          },
+          "offerMappings": [
+            {
+              "pageSlug": "rustler-grand-theft-horse-21a7ca",
               "pageType": "productHome"
             }
           ],
           "price": {
             "totalPrice": {
               "discountPrice": 0,
-              "originalPrice": 1499,
+              "originalPrice": 2499,
               "voucherDiscount": 0,
-              "discount": 1499,
+              "discount": 2499,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
-                "originalPrice": "$14.99",
+                "originalPrice": "$24.99",
                 "discountPrice": "0",
                 "intermediatePrice": "0"
-              }
+              },
+              "dualPrice": null
             },
             "lineOffers": [
               {
                 "appliedRules": [
                   {
-                    "id": "8270e0379a524593b184ec9c33f09adb",
-                    "endDate": "2025-08-21T15:00:00.000Z",
+                    "id": "b0487f2df24f4c74924d45d658c1ee3b",
+                    "endDate": "2026-01-29T16:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE"
                     }
@@ -1262,8 +1458,8 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2025-08-14T15:00:00.000Z",
-                    "endDate": "2025-08-21T15:00:00.000Z",
+                    "startDate": "2026-01-22T16:00:00.000Z",
+                    "endDate": "2026-01-29T16:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 0
@@ -1274,11 +1470,192 @@
             ],
             "upcomingPromotionalOffers": []
           }
+        },
+        {
+          "title": "Definitely Not Fried Chicken",
+          "id": "b916500f733b4973802bdb4fdb276515",
+          "namespace": "8d8fb21ac3554271853582bad9d394d7",
+          "description": "Definitely Not Fried Chicken is a business management sim with a Twist! Grow your drugs trade through legitimate fronts, managing both sides of the business. Acquire new \"businesses\", meet new clientele, Develop more potent narcotics, make lots of money and leave a city in ruin!",
+          "effectiveDate": "2026-01-29T16:00:00.000Z",
+          "offerType": "BASE_GAME",
+          "expiryDate": null,
+          "viewableDate": "2026-01-08T00:00:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-thf6o.png"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-lzgl7.png"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-lzgl7.png"
+            },
+            {
+              "type": "heroCarouselVideo",
+              "url": "com.epicgames.video.qs://cfc02102-4230-41d3-b16a-64732e69c0e4?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fa90fa1ecc6fd41b2b98bc04b40b23c71%2Fdefinitely-not-fried-chicken-video-1jctn.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-1a3fw.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-zoy4i.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-8tylh.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-92d0l.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-fq63d.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-iq524.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-1gbho.jpg"
+            }
+          ],
+          "seller": {
+            "id": "o-d9dh23jb6uamngl64hw8lnejdz6334",
+            "name": "Silver Lining Interactive"
+          },
+          "productSlug": null,
+          "urlSlug": "6b5b8432768a423f848fd85a61c97623",
+          "url": null,
+          "items": [
+            {
+              "id": "35c067657243456ea3f6d424ddf82fab",
+              "namespace": "8d8fb21ac3554271853582bad9d394d7"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "autoGeneratedPrice",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetViewableDate",
+              "value": "true"
+            },
+            {
+              "key": "isPromotionalContentUsed",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetPCReleaseDate",
+              "value": "true"
+            },
+            {
+              "key": "isBlockchainUsed",
+              "value": "false"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "games/edition"
+            },
+            {
+              "path": "games/edition/base"
+            }
+          ],
+          "tags": [
+            {
+              "id": "1393"
+            },
+            {
+              "id": "19847"
+            },
+            {
+              "id": "1370"
+            },
+            {
+              "id": "1115"
+            },
+            {
+              "id": "9547"
+            },
+            {
+              "id": "1263"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "definitely-not-fried-chicken-a30160",
+                "pageType": "productHome"
+              }
+            ]
+          },
+          "offerMappings": [
+            {
+              "pageSlug": "definitely-not-fried-chicken-a30160",
+              "pageType": "productHome"
+            }
+          ],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 2499,
+              "originalPrice": 2499,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$24.99",
+                "discountPrice": "$24.99",
+                "intermediatePrice": "$24.99"
+              },
+              "dualPrice": null
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2026-01-29T16:00:00.000Z",
+                    "endDate": "2026-02-05T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
         }
       ],
       "paging": {
         "count": 40,
-        "total": 8
+        "total": 10
       }
     }
   }
