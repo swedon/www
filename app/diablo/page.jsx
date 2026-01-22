@@ -330,8 +330,8 @@ export default function DiabloPage() {
         }
         try {
             const pipWindow = await documentPictureInPicture.requestWindow({
-                width: 520,
-                height: 165,
+                width: 250,
+                height: 100,
                 disallowReturnToOpener: false,
             });
             pipWindowRef.current = pipWindow;

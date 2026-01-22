@@ -12,7 +12,7 @@ import particlesOptions from '@/style/particles.json'
 import useBackgroundAnimation from './useBackgroundAnimation'
 
 function ParticleEffect({ children, className }) {
-	const [mounted, setMounted] = useState(false)
+	const [engineReady, setEngineReady] = useState(false)
 	const { enabled } = useBackgroundAnimation()
 	const { systemTheme, theme } = useTheme()
 	const currentTheme = theme === 'system' ? systemTheme : theme
@@ -30,18 +30,19 @@ function ParticleEffect({ children, className }) {
 	}, [logo, color])
 
 	useEffect(() => {
-		setMounted(true)
-		const initEngine = initParticlesEngine(async engine => {
+		let cancelled = false
+		initParticlesEngine(async engine => {
 			await loadFull(engine)
+		}).then(() => {
+			if (!cancelled) setEngineReady(true)
 		})
-		if (initEngine) {
-			initEngine.then(() => {
-				setMounted(true)
-			})
+
+		return () => {
+			cancelled = true
 		}
 	}, [])
 
-	if (!mounted) {
+	if (!engineReady) {
 		return <>{children}</>
 	}
 
