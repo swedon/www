@@ -442,29 +442,7 @@
               "pageType": "productHome"
             }
           ],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 1999,
-              "originalPrice": 1999,
-              "voucherDiscount": 0,
-              "discount": 0,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
-              },
-              "dualPrice": null
-            },
-            "lineOffers": [
-              {
-                "appliedRules": []
-              }
-            ]
-          },
+          "price": null,
           "promotions": {
             "promotionalOffers": [],
             "upcomingPromotionalOffers": [
@@ -1468,19 +1446,19 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2026-02-08T21:00:00.000Z",
-                    "endDate": "2026-02-22T21:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 65
-                    }
-                  },
-                  {
                     "startDate": "2026-02-05T16:00:00.000Z",
                     "endDate": "2026-02-12T16:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 0
+                    }
+                  },
+                  {
+                    "startDate": "2026-02-08T21:00:00.000Z",
+                    "endDate": "2026-02-22T21:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 65
                     }
                   }
                 ]
