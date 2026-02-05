@@ -1401,16 +1401,16 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2026-02-09T16:00:00.000Z",
-                    "endDate": "2026-02-23T16:00:00.000Z",
+                    "startDate": "2026-03-30T15:00:00.000Z",
+                    "endDate": "2026-04-13T15:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 35
                     }
                   },
                   {
-                    "startDate": "2026-03-30T15:00:00.000Z",
-                    "endDate": "2026-04-13T15:00:00.000Z",
+                    "startDate": "2026-02-09T16:00:00.000Z",
+                    "endDate": "2026-02-23T16:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 35
@@ -1582,29 +1582,50 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 2499,
+              "discountPrice": 0,
               "originalPrice": 2499,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 2499,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$24.99",
-                "discountPrice": "$24.99",
-                "intermediatePrice": "$24.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               },
               "dualPrice": null
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "a3a24b4b268e4be389749de236f5181e",
+                    "endDate": "2026-02-12T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2026-02-05T16:00:00.000Z",
+                    "endDate": "2026-02-12T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ],
             "upcomingPromotionalOffers": [
               {
                 "promotionalOffers": [
@@ -1614,14 +1635,6 @@
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 65
-                    }
-                  },
-                  {
-                    "startDate": "2026-02-05T16:00:00.000Z",
-                    "endDate": "2026-02-12T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
                     }
                   }
                 ]
@@ -1773,30 +1786,37 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 2499,
+              "discountPrice": 0,
               "originalPrice": 2499,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 2499,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$24.99",
-                "discountPrice": "$24.99",
-                "intermediatePrice": "$24.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               },
               "dualPrice": null
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "bd7f2cdb749c4b3d9c4f4e2763cd174e",
+                    "endDate": "2026-02-12T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -1809,77 +1829,90 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
-          "title": "Definitely Not Fried Chicken",
-          "id": "b916500f733b4973802bdb4fdb276515",
-          "namespace": "8d8fb21ac3554271853582bad9d394d7",
-          "description": "Definitely Not Fried Chicken is a business management sim with a Twist! Grow your drugs trade through legitimate fronts, managing both sides of the business. Acquire new \"businesses\", meet new clientele, Develop more potent narcotics, make lots of money and leave a city in ruin!",
-          "effectiveDate": "2026-01-29T16:00:00.000Z",
+          "title": "Nobody Wants to Die",
+          "id": "9da459f7c3984877bd5a12bdc3b6b3af",
+          "namespace": "60b8d9b4c2be4e34aeec311c953c2ee2",
+          "description": "Lose yourself in the dystopian world of New York, 2329. In this interactive noir story, lead the investigation using advanced technology as Detective James Karra, who risks it all in pursuit of a serial killer targeting the city’s elite.",
+          "effectiveDate": "2026-02-12T16:00:00.000Z",
           "offerType": "BASE_GAME",
           "expiryDate": null,
-          "viewableDate": "2026-01-08T00:00:00.000Z",
+          "viewableDate": "2026-02-05T16:00:00.000Z",
           "status": "ACTIVE",
           "isCodeRedemptionOnly": false,
           "keyImages": [
             {
               "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-thf6o.png"
+              "url": "https://cdn1.epicgames.com/spt-assets/dece0016082647a6af5759dbbedfc8eb/nobody-wants-to-die-13stz.jpg"
             },
             {
               "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-lzgl7.png"
+              "url": "https://cdn1.epicgames.com/spt-assets/dece0016082647a6af5759dbbedfc8eb/nobody-wants-to-die-kp3sf.jpg"
             },
             {
               "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-lzgl7.png"
-            },
-            {
-              "type": "heroCarouselVideo",
-              "url": "com.epicgames.video.qs://cfc02102-4230-41d3-b16a-64732e69c0e4?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fa90fa1ecc6fd41b2b98bc04b40b23c71%2Fdefinitely-not-fried-chicken-video-1jctn.png"
+              "url": "https://cdn1.epicgames.com/spt-assets/dece0016082647a6af5759dbbedfc8eb/nobody-wants-to-die-kp3sf.jpg"
             },
             {
               "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-1a3fw.jpg"
+              "url": "https://cdn1.epicgames.com/spt-assets/dece0016082647a6af5759dbbedfc8eb/nobody-wants-to-die-v81st.png"
             },
             {
               "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-zoy4i.jpg"
+              "url": "https://cdn1.epicgames.com/spt-assets/dece0016082647a6af5759dbbedfc8eb/nobody-wants-to-die-1pbpc.png"
             },
             {
               "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-8tylh.jpg"
+              "url": "https://cdn1.epicgames.com/spt-assets/dece0016082647a6af5759dbbedfc8eb/nobody-wants-to-die-ui2ze.png"
             },
             {
               "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-92d0l.jpg"
+              "url": "https://cdn1.epicgames.com/spt-assets/dece0016082647a6af5759dbbedfc8eb/nobody-wants-to-die-4jdnv.png"
             },
             {
               "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-fq63d.jpg"
+              "url": "https://cdn1.epicgames.com/spt-assets/dece0016082647a6af5759dbbedfc8eb/nobody-wants-to-die-10jic.png"
             },
             {
               "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-iq524.jpg"
+              "url": "https://cdn1.epicgames.com/spt-assets/dece0016082647a6af5759dbbedfc8eb/nobody-wants-to-die-1bd1m.png"
             },
             {
               "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-1gbho.jpg"
+              "url": "https://cdn1.epicgames.com/spt-assets/dece0016082647a6af5759dbbedfc8eb/nobody-wants-to-die-1ak61.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/dece0016082647a6af5759dbbedfc8eb/nobody-wants-to-die-1qcav.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/dece0016082647a6af5759dbbedfc8eb/nobody-wants-to-die-8t9ke.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/dece0016082647a6af5759dbbedfc8eb/nobody-wants-to-die-ppyur.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/dece0016082647a6af5759dbbedfc8eb/nobody-wants-to-die-1f8cn.png"
             }
           ],
           "seller": {
-            "id": "o-d9dh23jb6uamngl64hw8lnejdz6334",
-            "name": "Silver Lining Interactive"
+            "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+            "name": "Plaion"
           },
           "productSlug": null,
-          "urlSlug": "6b5b8432768a423f848fd85a61c97623",
+          "urlSlug": "eea910991d674322b3832f9b7bbefb7b",
           "url": null,
           "items": [
             {
-              "id": "35c067657243456ea3f6d424ddf82fab",
-              "namespace": "8d8fb21ac3554271853582bad9d394d7"
+              "id": "ea7e00b9d0b248c9b051a5852d4fc784",
+              "namespace": "60b8d9b4c2be4e34aeec311c953c2ee2"
             }
           ],
           "customAttributes": [
@@ -1920,94 +1953,72 @@
           ],
           "tags": [
             {
-              "id": "21136"
-            },
-            {
               "id": "1393"
             },
             {
-              "id": "21138"
+              "id": "1395"
             },
             {
-              "id": "1188"
+              "id": "21894"
             },
             {
-              "id": "21140"
-            },
-            {
-              "id": "21141"
-            },
-            {
-              "id": "19847"
-            },
-            {
-              "id": "21127"
+              "id": "1367"
             },
             {
               "id": "1370"
             },
             {
-              "id": "1115"
-            },
-            {
               "id": "9547"
             },
             {
-              "id": "1263"
+              "id": "9549"
             }
           ],
           "catalogNs": {
             "mappings": [
               {
-                "pageSlug": "definitely-not-fried-chicken-a30160",
+                "pageSlug": "nobody-wants-to-die-fe21cd",
                 "pageType": "productHome"
               }
             ]
           },
           "offerMappings": [
             {
-              "pageSlug": "definitely-not-fried-chicken-a30160",
+              "pageSlug": "nobody-wants-to-die-fe21cd",
               "pageType": "productHome"
             }
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 0,
+              "discountPrice": 2499,
               "originalPrice": 2499,
               "voucherDiscount": 0,
-              "discount": 2499,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$24.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
+                "discountPrice": "$24.99",
+                "intermediatePrice": "$24.99"
               },
               "dualPrice": null
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "2f486a62c66e43baa8094798cfa1ca52",
-                    "endDate": "2026-02-05T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2026-01-29T16:00:00.000Z",
-                    "endDate": "2026-02-05T16:00:00.000Z",
+                    "startDate": "2026-02-12T16:00:00.000Z",
+                    "endDate": "2026-02-19T16:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 0
@@ -2015,8 +2026,7 @@
                   }
                 ]
               }
-            ],
-            "upcomingPromotionalOffers": []
+            ]
           }
         }
       ],
