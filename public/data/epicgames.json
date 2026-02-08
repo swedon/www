@@ -1401,16 +1401,16 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2026-02-09T16:00:00.000Z",
-                    "endDate": "2026-02-23T16:00:00.000Z",
+                    "startDate": "2026-03-30T15:00:00.000Z",
+                    "endDate": "2026-04-13T15:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 35
                     }
                   },
                   {
-                    "startDate": "2026-03-30T15:00:00.000Z",
-                    "endDate": "2026-04-13T15:00:00.000Z",
+                    "startDate": "2026-02-09T16:00:00.000Z",
+                    "endDate": "2026-02-23T16:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 35
@@ -1616,6 +1616,14 @@
               {
                 "promotionalOffers": [
                   {
+                    "startDate": "2026-02-08T21:00:00.000Z",
+                    "endDate": "2026-02-22T21:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 65
+                    }
+                  },
+                  {
                     "startDate": "2026-02-05T16:00:00.000Z",
                     "endDate": "2026-02-12T16:00:00.000Z",
                     "discountSetting": {
@@ -1626,20 +1634,7 @@
                 ]
               }
             ],
-            "upcomingPromotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2026-02-08T21:00:00.000Z",
-                    "endDate": "2026-02-22T21:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 65
-                    }
-                  }
-                ]
-              }
-            ]
+            "upcomingPromotionalOffers": []
           }
         },
         {
