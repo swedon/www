@@ -102,8 +102,46 @@
               "pageType": "productHome"
             }
           ],
-          "price": null,
-          "promotions": null
+          "price": {
+            "totalPrice": {
+              "discountPrice": 1499,
+              "originalPrice": 1499,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$14.99",
+                "discountPrice": "$14.99",
+                "intermediatePrice": "$14.99"
+              },
+              "dualPrice": null
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2026-02-12T16:00:00.000Z",
+                    "endDate": "2026-02-19T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "title": "Them's Fightin' Herds",
@@ -261,7 +299,29 @@
               "pageType": "productHome"
             }
           ],
-          "price": null,
+          "price": {
+            "totalPrice": {
+              "discountPrice": 1999,
+              "originalPrice": 1999,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$19.99",
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
+              },
+              "dualPrice": null
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
           "promotions": null
         },
         {
@@ -390,7 +450,29 @@
               "pageType": "productHome"
             }
           ],
-          "price": null,
+          "price": {
+            "totalPrice": {
+              "discountPrice": 1999,
+              "originalPrice": 1999,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$19.99",
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
+              },
+              "dualPrice": null
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
           "promotions": null
         },
         {
@@ -504,8 +586,54 @@
               "pageType": "productHome"
             }
           ],
-          "price": null,
-          "promotions": null
+          "price": {
+            "totalPrice": {
+              "discountPrice": 399,
+              "originalPrice": 1999,
+              "voucherDiscount": 0,
+              "discount": 1600,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$19.99",
+                "discountPrice": "$3.99",
+                "intermediatePrice": "$3.99"
+              },
+              "dualPrice": null
+            },
+            "lineOffers": [
+              {
+                "appliedRules": [
+                  {
+                    "id": "77d9d7799f2944e3b8043ae6041a203d",
+                    "endDate": "2026-02-23T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2026-02-09T16:00:00.000Z",
+                    "endDate": "2026-02-23T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 20
+                    }
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": []
+          }
         },
         {
           "title": "Ghostrunner 2",
@@ -622,8 +750,54 @@
             ]
           },
           "offerMappings": [],
-          "price": null,
-          "promotions": null
+          "price": {
+            "totalPrice": {
+              "discountPrice": 799,
+              "originalPrice": 3999,
+              "voucherDiscount": 0,
+              "discount": 3200,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$39.99",
+                "discountPrice": "$7.99",
+                "intermediatePrice": "$7.99"
+              },
+              "dualPrice": null
+            },
+            "lineOffers": [
+              {
+                "appliedRules": [
+                  {
+                    "id": "77ed23f13abf4dcb97392cc645d36cf3",
+                    "endDate": "2026-02-23T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2026-02-09T16:00:00.000Z",
+                    "endDate": "2026-02-23T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 20
+                    }
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": []
+          }
         },
         {
           "title": "Lost Castle: The Old Ones Awaken",
@@ -761,7 +935,29 @@
               "pageType": "offer"
             }
           ],
-          "price": null,
+          "price": {
+            "totalPrice": {
+              "discountPrice": 399,
+              "originalPrice": 399,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$3.99",
+                "discountPrice": "$3.99",
+                "intermediatePrice": "$3.99"
+              },
+              "dualPrice": null
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
           "promotions": null
         },
         {
@@ -853,7 +1049,29 @@
             "mappings": null
           },
           "offerMappings": null,
-          "price": null,
+          "price": {
+            "totalPrice": {
+              "discountPrice": 2499,
+              "originalPrice": 2499,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$24.99",
+                "discountPrice": "$24.99",
+                "intermediatePrice": "$24.99"
+              },
+              "dualPrice": null
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
           "promotions": null
         },
         {
@@ -997,8 +1215,54 @@
               "pageType": "productHome"
             }
           ],
-          "price": null,
-          "promotions": null
+          "price": {
+            "totalPrice": {
+              "discountPrice": 799,
+              "originalPrice": 1999,
+              "voucherDiscount": 0,
+              "discount": 1200,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$19.99",
+                "discountPrice": "$7.99",
+                "intermediatePrice": "$7.99"
+              },
+              "dualPrice": null
+            },
+            "lineOffers": [
+              {
+                "appliedRules": [
+                  {
+                    "id": "05e50f6d41c2448384f3753c44710dec",
+                    "endDate": "2026-02-23T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2026-02-09T16:00:00.000Z",
+                    "endDate": "2026-02-23T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 40
+                    }
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": []
+          }
         },
         {
           "title": "Monument Valley",
@@ -1144,8 +1408,67 @@
               "pageType": "productHome"
             }
           ],
-          "price": null,
-          "promotions": null
+          "price": {
+            "totalPrice": {
+              "discountPrice": 279,
+              "originalPrice": 799,
+              "voucherDiscount": 0,
+              "discount": 520,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$7.99",
+                "discountPrice": "$2.79",
+                "intermediatePrice": "$2.79"
+              },
+              "dualPrice": null
+            },
+            "lineOffers": [
+              {
+                "appliedRules": [
+                  {
+                    "id": "6cbb47410d8d4d4bbeef40e6f7e4cc19",
+                    "endDate": "2026-02-23T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2026-02-09T16:00:00.000Z",
+                    "endDate": "2026-02-23T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 35
+                    }
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2026-03-30T15:00:00.000Z",
+                    "endDate": "2026-04-13T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 35
+                    }
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "title": "Botany Manor",
@@ -1306,8 +1629,62 @@
               "pageType": "productHome"
             }
           ],
-          "price": null,
-          "promotions": null
+          "price": {
+            "totalPrice": {
+              "discountPrice": 0,
+              "originalPrice": 2499,
+              "voucherDiscount": 0,
+              "discount": 2499,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$24.99",
+                "discountPrice": "0",
+                "intermediatePrice": "0"
+              },
+              "dualPrice": null
+            },
+            "lineOffers": [
+              {
+                "appliedRules": [
+                  {
+                    "id": "a3a24b4b268e4be389749de236f5181e",
+                    "endDate": "2026-02-12T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2026-02-05T16:00:00.000Z",
+                    "endDate": "2026-02-12T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  },
+                  {
+                    "startDate": "2026-02-08T21:00:00.000Z",
+                    "endDate": "2026-02-22T21:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 65
+                    }
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": []
+          }
         },
         {
           "title": "Poison Retro Set",
@@ -1451,8 +1828,54 @@
               "pageType": "offer"
             }
           ],
-          "price": null,
-          "promotions": null
+          "price": {
+            "totalPrice": {
+              "discountPrice": 0,
+              "originalPrice": 2499,
+              "voucherDiscount": 0,
+              "discount": 2499,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$24.99",
+                "discountPrice": "0",
+                "intermediatePrice": "0"
+              },
+              "dualPrice": null
+            },
+            "lineOffers": [
+              {
+                "appliedRules": [
+                  {
+                    "id": "bd7f2cdb749c4b3d9c4f4e2763cd174e",
+                    "endDate": "2026-02-12T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2026-02-05T16:00:00.000Z",
+                    "endDate": "2026-02-12T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": []
+          }
         },
         {
           "title": "Nobody Wants to Die",
@@ -1609,8 +2032,46 @@
               "pageType": "productHome"
             }
           ],
-          "price": null,
-          "promotions": null
+          "price": {
+            "totalPrice": {
+              "discountPrice": 2499,
+              "originalPrice": 2499,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$24.99",
+                "discountPrice": "$24.99",
+                "intermediatePrice": "$24.99"
+              },
+              "dualPrice": null
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2026-02-12T16:00:00.000Z",
+                    "endDate": "2026-02-19T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
         }
       ],
       "paging": {
