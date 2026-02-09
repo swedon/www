@@ -557,6 +557,9 @@
               "id": "19847"
             },
             {
+              "id": "39911"
+            },
+            {
               "id": "1370"
             },
             {
@@ -585,30 +588,37 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1999,
+              "discountPrice": 399,
               "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1600,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
+                "discountPrice": "$3.99",
+                "intermediatePrice": "$3.99"
               },
               "dualPrice": null
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "77d9d7799f2944e3b8043ae6041a203d",
+                    "endDate": "2026-02-23T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -621,7 +631,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -697,6 +708,15 @@
               "id": "21122"
             },
             {
+              "id": "39911"
+            },
+            {
+              "id": "21129"
+            },
+            {
+              "id": "9547"
+            },
+            {
               "id": "21138"
             },
             {
@@ -712,13 +732,7 @@
               "id": "21141"
             },
             {
-              "id": "21129"
-            },
-            {
               "id": "1370"
-            },
-            {
-              "id": "9547"
             },
             {
               "id": "1117"
@@ -738,30 +752,37 @@
           "offerMappings": [],
           "price": {
             "totalPrice": {
-              "discountPrice": 3999,
+              "discountPrice": 799,
               "originalPrice": 3999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 3200,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$39.99",
-                "discountPrice": "$39.99",
-                "intermediatePrice": "$39.99"
+                "discountPrice": "$7.99",
+                "intermediatePrice": "$7.99"
               },
               "dualPrice": null
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "77ed23f13abf4dcb97392cc645d36cf3",
+                    "endDate": "2026-02-23T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -774,7 +795,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -1140,6 +1162,9 @@
               "id": "19847"
             },
             {
+              "id": "39911"
+            },
+            {
               "id": "21129"
             },
             {
@@ -1192,30 +1217,37 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1999,
+              "discountPrice": 799,
               "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1200,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
+                "discountPrice": "$7.99",
+                "intermediatePrice": "$7.99"
               },
               "dualPrice": null
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "05e50f6d41c2448384f3753c44710dec",
+                    "endDate": "2026-02-23T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -1228,7 +1260,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -1349,6 +1382,9 @@
               "id": "1298"
             },
             {
+              "id": "39911"
+            },
+            {
               "id": "1370"
             },
             {
@@ -1374,43 +1410,56 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 799,
+              "discountPrice": 279,
               "originalPrice": 799,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 520,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$7.99",
-                "discountPrice": "$7.99",
-                "intermediatePrice": "$7.99"
+                "discountPrice": "$2.79",
+                "intermediatePrice": "$2.79"
               },
               "dualPrice": null
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "6cbb47410d8d4d4bbeef40e6f7e4cc19",
+                    "endDate": "2026-02-23T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2026-02-09T16:00:00.000Z",
+                    "endDate": "2026-02-23T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 35
+                    }
+                  }
+                ]
+              }
+            ],
             "upcomingPromotionalOffers": [
               {
                 "promotionalOffers": [
                   {
                     "startDate": "2026-03-30T15:00:00.000Z",
                     "endDate": "2026-04-13T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 35
-                    }
-                  },
-                  {
-                    "startDate": "2026-02-09T16:00:00.000Z",
-                    "endDate": "2026-02-23T16:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 35
@@ -1616,19 +1665,19 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2026-02-05T16:00:00.000Z",
-                    "endDate": "2026-02-12T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  },
-                  {
                     "startDate": "2026-02-08T21:00:00.000Z",
                     "endDate": "2026-02-22T21:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 65
+                    }
+                  },
+                  {
+                    "startDate": "2026-02-05T16:00:00.000Z",
+                    "endDate": "2026-02-12T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
                     }
                   }
                 ]
