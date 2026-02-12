@@ -104,30 +104,37 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1499,
+              "discountPrice": 0,
               "originalPrice": 1499,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1499,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$14.99",
-                "discountPrice": "$14.99",
-                "intermediatePrice": "$14.99"
+                "discountPrice": "0",
+                "intermediatePrice": "0"
               },
               "dualPrice": null
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "1ef8b4d00d7b41f0949f15b7707ef84f",
+                    "endDate": "2026-02-19T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -140,7 +147,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -1471,413 +1479,6 @@
           }
         },
         {
-          "title": "Botany Manor",
-          "id": "855a903d4f694353ac20f74321f6e400",
-          "namespace": "969bbfac9e7840a986c1d594ccd55c01",
-          "description": "Welcome to Botany Manor, a stately home in 19th century England. You play as inhabitant Arabella Greene, a retired botanist. Explore your house and gardens, filled with research, to figure out the ideal habitat of forgotten flora.",
-          "effectiveDate": "2025-12-12T15:45:37.000Z",
-          "offerType": "BASE_GAME",
-          "expiryDate": null,
-          "viewableDate": "2025-06-30T14:00:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-1f7uq.jpg"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-8e6i5.jpg"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-8e6i5.jpg"
-            },
-            {
-              "type": "heroCarouselVideo",
-              "url": "com.epicgames.video://d2880510-3ac1-41bc-bea8-e7619fe1dd8e?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F42d56a88c22d4eaa8977bf5528a2396b%2Fbotany-manor-video-273qb.jpeg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-18zs0.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-givow.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-1k3u9.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-1ob61.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-r22gh.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-17byi.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-1lvjm.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-1n7ks.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-8ds1c.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-1yh1z.png"
-            },
-            {
-              "type": "OgImage",
-              "url": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-pgu51.jpg"
-            }
-          ],
-          "seller": {
-            "id": "o-v7c8xq9bmhtqhakulz7lrptnz8b628",
-            "name": "White Thorn Digital"
-          },
-          "productSlug": null,
-          "urlSlug": "61eca1a9e42243d29e93b02510d88d83",
-          "url": null,
-          "items": [
-            {
-              "id": "59927e12870b4288bbad0507dd43d157",
-              "namespace": "969bbfac9e7840a986c1d594ccd55c01"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "autoGeneratedPrice",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetViewableDate",
-              "value": "true"
-            },
-            {
-              "key": "isPromotionalContentUsed",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetPCReleaseDate",
-              "value": "true"
-            },
-            {
-              "key": "isBlockchainUsed",
-              "value": "false"
-            }
-          ],
-          "categories": [
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "games"
-            },
-            {
-              "path": "games/edition"
-            },
-            {
-              "path": "games/edition/base"
-            }
-          ],
-          "tags": [
-            {
-              "id": "1298"
-            },
-            {
-              "id": "19847"
-            },
-            {
-              "id": "1370"
-            },
-            {
-              "id": "9547"
-            },
-            {
-              "id": "1117"
-            },
-            {
-              "id": "9549"
-            },
-            {
-              "id": "1263"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "botany-manor-e7c456",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [
-            {
-              "pageSlug": "botany-manor-e7c456",
-              "pageType": "productHome"
-            }
-          ],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 2499,
-              "voucherDiscount": 0,
-              "discount": 2499,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$24.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              },
-              "dualPrice": null
-            },
-            "lineOffers": [
-              {
-                "appliedRules": [
-                  {
-                    "id": "a3a24b4b268e4be389749de236f5181e",
-                    "endDate": "2026-02-12T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2026-02-05T16:00:00.000Z",
-                    "endDate": "2026-02-12T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  },
-                  {
-                    "startDate": "2026-02-08T21:00:00.000Z",
-                    "endDate": "2026-02-22T21:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 65
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
-        },
-        {
-          "title": "Poison Retro Set",
-          "id": "f643a600e99c43cca99d1ca37b41fe33",
-          "namespace": "964bca52db2845498a7040b3733c4441",
-          "description": "Step back in time and forward into battle with the Poison Retro Set, inspired by the electrifying Arcade Season.",
-          "effectiveDate": "2026-01-29T16:00:00.000Z",
-          "offerType": "ADD_ON",
-          "expiryDate": null,
-          "viewableDate": "2026-01-22T16:00:00.000Z",
-          "status": "ACTIVE",
-          "isCodeRedemptionOnly": false,
-          "keyImages": [
-            {
-              "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/spt-assets/65338dc60d204dcb98752745bab52374/pixel-gun-3d-1pp3a.jpg"
-            },
-            {
-              "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/spt-assets/65338dc60d204dcb98752745bab52374/pixel-gun-3d-118gs.png"
-            },
-            {
-              "type": "Thumbnail",
-              "url": "https://cdn1.epicgames.com/spt-assets/65338dc60d204dcb98752745bab52374/pixel-gun-3d-118gs.png"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/65338dc60d204dcb98752745bab52374/pixel-gun-3d-19r40.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/65338dc60d204dcb98752745bab52374/pixel-gun-3d-14nz4.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/65338dc60d204dcb98752745bab52374/pixel-gun-3d-f30h0.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/65338dc60d204dcb98752745bab52374/pixel-gun-3d-sdor2.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/65338dc60d204dcb98752745bab52374/pixel-gun-3d-943of.jpg"
-            },
-            {
-              "type": "featuredMedia",
-              "url": "https://cdn1.epicgames.com/spt-assets/65338dc60d204dcb98752745bab52374/pixel-gun-3d-194m3.jpg"
-            }
-          ],
-          "seller": {
-            "id": "o-g7qbmw7feph4suesdfzfdwsm2nqakk",
-            "name": "Cubic Games Studio Ltd"
-          },
-          "productSlug": null,
-          "urlSlug": "poison-retro-set",
-          "url": null,
-          "items": [
-            {
-              "id": "1ee9161f72d04a319ef79a7271d208a4",
-              "namespace": "964bca52db2845498a7040b3733c4441"
-            }
-          ],
-          "customAttributes": [
-            {
-              "key": "isManuallySetRefundableType",
-              "value": "true"
-            },
-            {
-              "key": "autoGeneratedPrice",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetViewableDate",
-              "value": "true"
-            },
-            {
-              "key": "isPromotionalContentUsed",
-              "value": "false"
-            },
-            {
-              "key": "isManuallySetPCReleaseDate",
-              "value": "false"
-            },
-            {
-              "key": "isBlockchainUsed",
-              "value": "false"
-            }
-          ],
-          "categories": [
-            {
-              "path": "addons"
-            },
-            {
-              "path": "freegames"
-            },
-            {
-              "path": "addons/durable"
-            }
-          ],
-          "tags": [
-            {
-              "id": "1216"
-            },
-            {
-              "id": "1264"
-            },
-            {
-              "id": "29088"
-            },
-            {
-              "id": "22776"
-            },
-            {
-              "id": "1210"
-            },
-            {
-              "id": "1370"
-            },
-            {
-              "id": "9547"
-            },
-            {
-              "id": "1117"
-            },
-            {
-              "id": "9549"
-            }
-          ],
-          "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "pixel-gun-3d-812855",
-                "pageType": "productHome"
-              }
-            ]
-          },
-          "offerMappings": [
-            {
-              "pageSlug": "pixel-gun-3d-poison-retro-set-55a7dd",
-              "pageType": "offer"
-            }
-          ],
-          "price": {
-            "totalPrice": {
-              "discountPrice": 0,
-              "originalPrice": 2499,
-              "voucherDiscount": 0,
-              "discount": 2499,
-              "currencyCode": "USD",
-              "currencyInfo": {
-                "decimals": 2
-              },
-              "fmtPrice": {
-                "originalPrice": "$24.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
-              },
-              "dualPrice": null
-            },
-            "lineOffers": [
-              {
-                "appliedRules": [
-                  {
-                    "id": "bd7f2cdb749c4b3d9c4f4e2763cd174e",
-                    "endDate": "2026-02-12T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
-              }
-            ]
-          },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2026-02-05T16:00:00.000Z",
-                    "endDate": "2026-02-12T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
-        },
-        {
           "title": "Nobody Wants to Die",
           "id": "9da459f7c3984877bd5a12bdc3b6b3af",
           "namespace": "60b8d9b4c2be4e34aeec311c953c2ee2",
@@ -2045,6 +1646,239 @@
           ],
           "price": {
             "totalPrice": {
+              "discountPrice": 0,
+              "originalPrice": 2499,
+              "voucherDiscount": 0,
+              "discount": 2499,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "$24.99",
+                "discountPrice": "0",
+                "intermediatePrice": "0"
+              },
+              "dualPrice": null
+            },
+            "lineOffers": [
+              {
+                "appliedRules": [
+                  {
+                    "id": "2590263d90c64bcda7235389b4e7b2d0",
+                    "endDate": "2026-02-19T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2026-02-12T16:00:00.000Z",
+                    "endDate": "2026-02-19T16:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": []
+          }
+        },
+        {
+          "title": "STALCRAFT: X Starter Edition",
+          "id": "d6111db209c34b068736ca33411c9209",
+          "namespace": "1319020a7c08408489d4dc9c5b1df4c0",
+          "description": "STALCRAFT: X is a free-to-play MMOFPS with RPG elements.\n\nStart exploring the world of the Zone with a Starter Pack. It includes everything you need for your initial raids: a 7-day Premium, weapons, armor, artifacts, and cosmetics.",
+          "effectiveDate": "2026-02-18T15:00:00.000Z",
+          "offerType": "EDITION",
+          "expiryDate": "2026-02-26T16:00:00.000Z",
+          "viewableDate": "2026-02-12T15:21:29.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": false,
+          "keyImages": [
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-1gxje.jpg"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-2ckdu.png"
+            },
+            {
+              "type": "Thumbnail",
+              "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-2ckdu.png"
+            },
+            {
+              "type": "heroCarouselVideo",
+              "url": "com.epicgames.video.qs://04aba1af-fc0d-4dbc-99a3-4d72e1b2ef5d?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fbed02187768e44afb05319f40660d9fa%2Fstalcraft-x-video-fsw6v.png"
+            },
+            {
+              "type": "heroCarouselVideo",
+              "url": "com.epicgames.video.qs://a1d67130-0a82-4c90-90cb-a81873305955?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fbed02187768e44afb05319f40660d9fa%2Fstalcraft-x-video-1ldo0.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-bkzqt.png"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-rj921.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-1fe3c.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-1h1lz.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-19qm6.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-t7agx.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-1d2on.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-19826.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-1nie9.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-lij0c.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-ao64p.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-7vcz3.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-i7zpi.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-v1ged.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-uysfz.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-1rvz7.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-vknfd.jpg"
+            },
+            {
+              "type": "featuredMedia",
+              "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-1nbfr.jpg"
+            }
+          ],
+          "seller": {
+            "id": "o-xb7ge3k4nenmmb6vm5ragv5cgc3vuh",
+            "name": "EXBO EAST LLP"
+          },
+          "productSlug": null,
+          "urlSlug": "stalcraft-x-starter-edition",
+          "url": null,
+          "items": [
+            {
+              "id": "2cf92ddc1b09418093cdd6da1ee20f2f",
+              "namespace": "1319020a7c08408489d4dc9c5b1df4c0"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "autoGeneratedPrice",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetViewableDate",
+              "value": "true"
+            },
+            {
+              "key": "isPromotionalContentUsed",
+              "value": "false"
+            },
+            {
+              "key": "isManuallySetPCReleaseDate",
+              "value": "true"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "games/edition"
+            }
+          ],
+          "tags": [
+            {
+              "id": "1264"
+            },
+            {
+              "id": "1299"
+            },
+            {
+              "id": "22775"
+            },
+            {
+              "id": "1210"
+            },
+            {
+              "id": "1307"
+            },
+            {
+              "id": "9547"
+            },
+            {
+              "id": "1294"
+            }
+          ],
+          "catalogNs": {
+            "mappings": [
+              {
+                "pageSlug": "stalcraft-x-057c4a",
+                "pageType": "productHome"
+              }
+            ]
+          },
+          "offerMappings": [
+            {
+              "pageSlug": "stalcraft-x-stalcraft-x-starter-edition-0b06d4",
+              "pageType": "offer"
+            }
+          ],
+          "price": {
+            "totalPrice": {
               "discountPrice": 2499,
               "originalPrice": 2499,
               "voucherDiscount": 0,
@@ -2072,8 +1906,8 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2026-02-12T16:00:00.000Z",
-                    "endDate": "2026-02-19T16:00:00.000Z",
+                    "startDate": "2026-02-19T16:00:00.000Z",
+                    "endDate": "2026-02-26T16:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 0
@@ -2255,7 +2089,7 @@
       ],
       "paging": {
         "count": 40,
-        "total": 13
+        "total": 12
       }
     }
   }
