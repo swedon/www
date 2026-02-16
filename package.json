@@ -108,7 +108,7 @@
     "@types/react": "19.2.10",
     "@types/react-dom": "19.2.3",
     "animate.css": "^4.1.1",
-    "autoprefixer": "^10.4.22",
+    "autoprefixer": "^10.4.24",
     "axios": "^1.13.5",
     "next": "^16.1.6",
     "next-intl": "^4.5.8",
