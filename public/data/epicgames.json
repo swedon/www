@@ -416,9 +416,6 @@
               "id": "19847"
             },
             {
-              "id": "39911"
-            },
-            {
               "id": "1370"
             },
             {
@@ -447,52 +444,28 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 399,
+              "discountPrice": 1999,
               "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 1600,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "$3.99",
-                "intermediatePrice": "$3.99"
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
               },
               "dualPrice": null
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "77d9d7799f2944e3b8043ae6041a203d",
-                    "endDate": "2026-02-23T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2026-02-09T16:00:00.000Z",
-                    "endDate": "2026-02-23T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 20
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         },
         {
           "title": "Ghostrunner 2",
@@ -567,15 +540,6 @@
               "id": "21122"
             },
             {
-              "id": "39911"
-            },
-            {
-              "id": "21129"
-            },
-            {
-              "id": "9547"
-            },
-            {
               "id": "21138"
             },
             {
@@ -591,7 +555,13 @@
               "id": "21141"
             },
             {
+              "id": "21129"
+            },
+            {
               "id": "1370"
+            },
+            {
+              "id": "9547"
             },
             {
               "id": "1117"
@@ -611,52 +581,28 @@
           "offerMappings": [],
           "price": {
             "totalPrice": {
-              "discountPrice": 799,
+              "discountPrice": 3999,
               "originalPrice": 3999,
               "voucherDiscount": 0,
-              "discount": 3200,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$39.99",
-                "discountPrice": "$7.99",
-                "intermediatePrice": "$7.99"
+                "discountPrice": "$39.99",
+                "intermediatePrice": "$39.99"
               },
               "dualPrice": null
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "77ed23f13abf4dcb97392cc645d36cf3",
-                    "endDate": "2026-02-23T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2026-02-09T16:00:00.000Z",
-                    "endDate": "2026-02-23T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 20
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         },
         {
           "title": "Lost Castle: The Old Ones Awaken",
@@ -1170,9 +1116,6 @@
               "id": "19847"
             },
             {
-              "id": "39911"
-            },
-            {
               "id": "21129"
             },
             {
@@ -1225,52 +1168,28 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 799,
+              "discountPrice": 1999,
               "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 1200,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "$7.99",
-                "intermediatePrice": "$7.99"
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
               },
               "dualPrice": null
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "05e50f6d41c2448384f3753c44710dec",
-                    "endDate": "2026-02-23T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2026-02-09T16:00:00.000Z",
-                    "endDate": "2026-02-23T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 40
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         },
         {
           "title": "My Night Job",
@@ -1574,9 +1493,6 @@
               "id": "1298"
             },
             {
-              "id": "39911"
-            },
-            {
               "id": "1370"
             },
             {
@@ -1602,50 +1518,29 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 279,
+              "discountPrice": 799,
               "originalPrice": 799,
               "voucherDiscount": 0,
-              "discount": 520,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$7.99",
-                "discountPrice": "$2.79",
-                "intermediatePrice": "$2.79"
+                "discountPrice": "$7.99",
+                "intermediatePrice": "$7.99"
               },
               "dualPrice": null
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "6cbb47410d8d4d4bbeef40e6f7e4cc19",
-                    "endDate": "2026-02-23T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2026-02-09T16:00:00.000Z",
-                    "endDate": "2026-02-23T16:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 35
-                    }
-                  }
-                ]
-              }
-            ],
+            "promotionalOffers": [],
             "upcomingPromotionalOffers": [
               {
                 "promotionalOffers": [
