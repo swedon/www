@@ -905,12 +905,7 @@
             }
           ],
           "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "turnip-boy-robs-a-bank-3fae0e",
-                "pageType": "productHome"
-              }
-            ]
+            "mappings": null
           },
           "offerMappings": [
             {
@@ -1082,12 +1077,7 @@
             }
           ],
           "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "lost-castle-abb2e2",
-                "pageType": "productHome"
-              }
-            ]
+            "mappings": null
           },
           "offerMappings": [
             {
@@ -1329,12 +1319,7 @@
             }
           ],
           "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "boxes-lost-fragments-079041",
-                "pageType": "productHome"
-              }
-            ]
+            "mappings": null
           },
           "offerMappings": [
             {
@@ -1516,12 +1501,7 @@
             }
           ],
           "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "castlevania-anniversary-collection-a61f94",
-                "pageType": "productHome"
-              }
-            ]
+            "mappings": null
           },
           "offerMappings": [
             {
@@ -1684,12 +1664,7 @@
             }
           ],
           "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "my-night-job-a416a6",
-                "pageType": "productHome"
-              }
-            ]
+            "mappings": null
           },
           "offerMappings": [
             {
@@ -1874,12 +1849,7 @@
             }
           ],
           "catalogNs": {
-            "mappings": [
-              {
-                "pageSlug": "monument-valley-1d99d3",
-                "pageType": "productHome"
-              }
-            ]
+            "mappings": null
           },
           "offerMappings": [
             {
