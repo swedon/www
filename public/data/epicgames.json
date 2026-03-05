@@ -1945,7 +1945,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "monument-valley-1d99d3",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
