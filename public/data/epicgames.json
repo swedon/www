@@ -1042,7 +1042,23 @@
               }
             ]
           },
-          "promotions": null
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2026-03-30T15:00:00.000Z",
+                    "endDate": "2026-04-13T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 20
+                    }
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "title": "Ghostrunner 2",
