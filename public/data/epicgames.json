@@ -1434,16 +1434,16 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2026-03-30T15:00:00.000Z",
-                    "endDate": "2026-04-13T15:00:00.000Z",
+                    "startDate": "2026-05-14T15:00:00.000Z",
+                    "endDate": "2026-06-11T15:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 35
                     }
                   },
                   {
-                    "startDate": "2026-05-14T15:00:00.000Z",
-                    "endDate": "2026-06-11T15:00:00.000Z",
+                    "startDate": "2026-03-30T15:00:00.000Z",
+                    "endDate": "2026-04-13T15:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 35
