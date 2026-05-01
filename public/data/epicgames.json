@@ -823,7 +823,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "ghostrunner-2",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [],
           "price": {
@@ -990,7 +995,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "lost-castle-abb2e2",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -1199,7 +1209,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "oddsparks-58440c",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -1492,7 +1507,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "arranger-a-rolepuzzling-adventure-dbfde7",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -1666,7 +1686,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "castlevania-anniversary-collection-a61f94",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -1843,7 +1868,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "monument-valley-1d99d3",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
@@ -2046,7 +2076,12 @@
             }
           ],
           "catalogNs": {
-            "mappings": null
+            "mappings": [
+              {
+                "pageSlug": "trash-goblin-cd5fd7",
+                "pageType": "productHome"
+              }
+            ]
           },
           "offerMappings": [
             {
