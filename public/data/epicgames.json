@@ -419,6 +419,9 @@
               "id": "9547"
             },
             {
+              "id": "16011"
+            },
+            {
               "id": "1117"
             },
             {
@@ -441,30 +444,37 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1999,
+              "discountPrice": 399,
               "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1600,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
+                "discountPrice": "$3.99",
+                "intermediatePrice": "$3.99"
               },
               "dualPrice": null
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "0366d5a665e64129a33d6e39717b1fd5",
+                    "endDate": "2026-06-11T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -477,7 +487,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -594,30 +605,37 @@
           "offerMappings": [],
           "price": {
             "totalPrice": {
-              "discountPrice": 3999,
+              "discountPrice": 799,
               "originalPrice": 3999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 3200,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$39.99",
-                "discountPrice": "$39.99",
-                "intermediatePrice": "$39.99"
+                "discountPrice": "$7.99",
+                "intermediatePrice": "$7.99"
               },
               "dualPrice": null
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "c198e2569ae8474fa6650bdbc62d6f8a",
+                    "endDate": "2026-06-11T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -630,7 +648,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -873,6 +892,9 @@
               "id": "9547"
             },
             {
+              "id": "16011"
+            },
+            {
               "id": "1117"
             },
             {
@@ -888,30 +910,37 @@
           "offerMappings": null,
           "price": {
             "totalPrice": {
-              "discountPrice": 2499,
+              "discountPrice": 1374,
               "originalPrice": 2499,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1125,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$24.99",
-                "discountPrice": "$24.99",
-                "intermediatePrice": "$24.99"
+                "discountPrice": "$13.74",
+                "intermediatePrice": "$13.74"
               },
               "dualPrice": null
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "93b183f6fca04490831cbb4ce2ec6747",
+                    "endDate": "2026-06-11T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -921,7 +950,13 @@
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 55
                     }
-                  },
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
                   {
                     "startDate": "2026-09-16T15:00:00.000Z",
                     "endDate": "2026-10-01T05:59:00.000Z",
@@ -1048,50 +1083,29 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 0,
+              "discountPrice": 1999,
               "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 1999,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
               },
               "dualPrice": null
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "eea9ebb9bf10456f9e6f45b8ebe2e8cb",
-                    "endDate": "2026-05-14T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2026-05-07T15:00:00.000Z",
-                    "endDate": "2026-05-14T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
+            "promotionalOffers": [],
             "upcomingPromotionalOffers": [
               {
                 "promotionalOffers": [
@@ -1202,6 +1216,9 @@
               "id": "9547"
             },
             {
+              "id": "16011"
+            },
+            {
               "id": "9549"
             },
             {
@@ -1248,30 +1265,37 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 1999,
+              "discountPrice": 799,
               "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 1200,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
+                "discountPrice": "$7.99",
+                "intermediatePrice": "$7.99"
               },
               "dualPrice": null
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "fe94210d626241bc9dbcd974630d4f0c",
+                    "endDate": "2026-06-11T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -1284,7 +1308,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -1430,30 +1455,37 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 799,
+              "discountPrice": 279,
               "originalPrice": 799,
               "voucherDiscount": 0,
-              "discount": 0,
+              "discount": 520,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$7.99",
-                "discountPrice": "$7.99",
-                "intermediatePrice": "$7.99"
+                "discountPrice": "$2.79",
+                "intermediatePrice": "$2.79"
               },
               "dualPrice": null
             },
             "lineOffers": [
               {
-                "appliedRules": []
+                "appliedRules": [
+                  {
+                    "id": "be5dcf71cfaf456f95fa2ba70f44a3df",
+                    "endDate": "2026-06-11T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE"
+                    }
+                  }
+                ]
               }
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -1466,7 +1498,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
@@ -1587,9 +1620,6 @@
           ],
           "categories": [
             {
-              "path": "freegames"
-            },
-            {
               "path": "games"
             },
             {
@@ -1640,6 +1670,9 @@
               "id": "21139"
             },
             {
+              "id": "21140"
+            },
+            {
               "id": "21141"
             },
             {
@@ -1668,58 +1701,34 @@
           ],
           "price": {
             "totalPrice": {
-              "discountPrice": 0,
+              "discountPrice": 1999,
               "originalPrice": 1999,
               "voucherDiscount": 0,
-              "discount": 1999,
+              "discount": 0,
               "currencyCode": "USD",
               "currencyInfo": {
                 "decimals": 2
               },
               "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "0",
-                "intermediatePrice": "0"
+                "discountPrice": "$19.99",
+                "intermediatePrice": "$19.99"
               },
               "dualPrice": null
             },
             "lineOffers": [
               {
-                "appliedRules": [
-                  {
-                    "id": "89f579c6f3a54174870de09f16944d51",
-                    "endDate": "2026-05-14T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE"
-                    }
-                  }
-                ]
+                "appliedRules": []
               }
             ]
           },
-          "promotions": {
-            "promotionalOffers": [
-              {
-                "promotionalOffers": [
-                  {
-                    "startDate": "2026-05-07T15:00:00.000Z",
-                    "endDate": "2026-05-14T15:00:00.000Z",
-                    "discountSetting": {
-                      "discountType": "PERCENTAGE",
-                      "discountPercentage": 0
-                    }
-                  }
-                ]
-              }
-            ],
-            "upcomingPromotionalOffers": []
-          }
+          "promotions": null
         },
         {
-          "title": "Mystery Game 2",
+          "title": "The Telltale Batman Shadows Edition",
           "id": "73a4416d5cdb42f682d504fdf48e987b",
           "namespace": "d5241c76f178492ea1540fce45616757",
-          "description": "Mystery Game 2",
+          "description": "The Telltale Batman Shadows Edition",
           "effectiveDate": "2026-05-14T15:00:00.000Z",
           "offerType": "OTHERS",
           "expiryDate": null,
@@ -1729,15 +1738,15 @@
           "keyImages": [
             {
               "type": "DieselStoreFrontWide",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-570394ae470a43859ce7366ea875532f"
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/TheTelltaleBatmanShadowsEdition-2560x1440-1ababb36a948b5c732ab85a330787e85_2560x1440-8542c9faaf034219973add17b0749b9a"
             },
             {
               "type": "OfferImageTall",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image24_1200x1600-bdc90908480d4d5a96ec4535855aeff3"
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/TheTelltaleBatmanShadowsEdition_Tall-510x680-24368ffb56983936896f0a7d908667ec_510x680-a02b4d44f752434fae7005118347f599"
             },
             {
               "type": "OfferImageWide",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1"
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/TheTelltaleBatmanShadowsEdition-2560x1440-1ababb36a948b5c732ab85a330787e85_2560x1440-a85c5724ba30499ba5a81a9f2125e5d4"
             },
             {
               "type": "VaultClosed",
@@ -1748,7 +1757,7 @@
             "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
             "name": "Epic Dev Test Account"
           },
-          "productSlug": "[]",
+          "productSlug": "the-telltale-batman",
           "urlSlug": "megasale-mysterygame-2026-02",
           "url": null,
           "items": [
@@ -1772,7 +1781,7 @@
             },
             {
               "key": "com.epicgames.app.productSlug",
-              "value": "[]"
+              "value": "the-telltale-batman"
             }
           ],
           "categories": [
@@ -1818,8 +1827,7 @@
             ]
           },
           "promotions": {
-            "promotionalOffers": [],
-            "upcomingPromotionalOffers": [
+            "promotionalOffers": [
               {
                 "promotionalOffers": [
                   {
@@ -1832,18 +1840,139 @@
                   }
                 ]
               }
-            ]
+            ],
+            "upcomingPromotionalOffers": []
           }
         },
         {
-          "title": "Mystery Game 1",
+          "title": "Sunderfolk - Standard Edition",
           "id": "190cb955f17f48dcb8576aa8288c887f",
           "namespace": "d5241c76f178492ea1540fce45616757",
-          "description": "Mystery Game 1",
+          "description": "Sunderfolk - Standard Edition",
           "effectiveDate": "2026-05-14T15:00:00.000Z",
           "offerType": "OTHERS",
           "expiryDate": null,
           "viewableDate": "2026-05-07T14:15:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": true,
+          "keyImages": [
+            {
+              "type": "DieselStoreFrontWide",
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/OfferImageWide_2560x1440-05350f0fffad4da3945dc0871f2d2b24"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/OfferImageTall_1200x1600-ff1e19193cb54accadbf4d552ea24746"
+            },
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/OfferImageWide_2560x1440-a500d7236c364c0bb373e3b6b9a6ee8b"
+            },
+            {
+              "type": "VaultClosed",
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-7f8d2dae22e6486db16ad13b361228f7_1200x1600-6acfe6d0b07c425bb228790e9a30777a"
+            }
+          ],
+          "seller": {
+            "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+            "name": "Epic Dev Test Account"
+          },
+          "productSlug": "sunderfolk-standard-edition-83c05e",
+          "urlSlug": "megasale-mysterygame-2026",
+          "url": null,
+          "items": [
+            {
+              "id": "8341d7c7e4534db7848cc428aa4cbe5a",
+              "namespace": "d5241c76f178492ea1540fce45616757"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "com.epicgames.app.freegames.vault.close",
+              "value": "[]"
+            },
+            {
+              "key": "com.epicgames.app.freegames.vault.slug",
+              "value": "free-games"
+            },
+            {
+              "key": "com.epicgames.app.freegames.vault.open",
+              "value": "[]"
+            },
+            {
+              "key": "com.epicgames.app.productSlug",
+              "value": "sunderfolk-standard-edition-83c05e"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames/vaulted"
+            },
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "applications"
+            }
+          ],
+          "tags": [],
+          "catalogNs": {
+            "mappings": []
+          },
+          "offerMappings": [],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 0,
+              "originalPrice": 0,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "0",
+                "discountPrice": "0",
+                "intermediatePrice": "0"
+              },
+              "dualPrice": null
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2026-05-14T15:00:00.000Z",
+                    "endDate": "2026-05-21T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ],
+            "upcomingPromotionalOffers": []
+          }
+        },
+        {
+          "title": "Mystery Game Week 21 Game 2",
+          "id": "cd37ebd7ce804df9b51b84578e631b8a",
+          "namespace": "d5241c76f178492ea1540fce45616757",
+          "description": "Mystery Game Week 21 Game 2",
+          "effectiveDate": "2026-05-21T15:00:00.000Z",
+          "offerType": "OTHERS",
+          "expiryDate": null,
+          "viewableDate": "2026-05-14T14:15:00.000Z",
           "status": "ACTIVE",
           "isCodeRedemptionOnly": true,
           "keyImages": [
@@ -1861,7 +1990,7 @@
             },
             {
               "type": "VaultClosed",
-              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-7f8d2dae22e6486db16ad13b361228f7_1200x1600-6acfe6d0b07c425bb228790e9a30777a"
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/vault_portrait_1200x1600-38e3b896e00941b6b80d7ff9705f9fbe"
             }
           ],
           "seller": {
@@ -1869,7 +1998,7 @@
             "name": "Epic Dev Test Account"
           },
           "productSlug": "[]",
-          "urlSlug": "megasale-mysterygame-2026",
+          "urlSlug": "megasale-mysterygame-2026-week21-game2",
           "url": null,
           "items": [
             {
@@ -1943,8 +2072,128 @@
               {
                 "promotionalOffers": [
                   {
-                    "startDate": "2026-05-14T15:00:00.000Z",
-                    "endDate": "2026-05-21T15:00:00.000Z",
+                    "startDate": "2026-05-21T15:00:00.000Z",
+                    "endDate": "2026-05-28T15:00:00.000Z",
+                    "discountSetting": {
+                      "discountType": "PERCENTAGE",
+                      "discountPercentage": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Mystery Game Week 21 Game 1",
+          "id": "9e2567e57e61458686d53f5aeaf1e2e0",
+          "namespace": "d5241c76f178492ea1540fce45616757",
+          "description": "Mystery Game Week 21 Game 1",
+          "effectiveDate": "2026-05-21T15:00:00.000Z",
+          "offerType": "OTHERS",
+          "expiryDate": null,
+          "viewableDate": "2026-05-14T14:15:00.000Z",
+          "status": "ACTIVE",
+          "isCodeRedemptionOnly": true,
+          "keyImages": [
+            {
+              "type": "DieselStoreFrontWide",
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-570394ae470a43859ce7366ea875532f"
+            },
+            {
+              "type": "OfferImageTall",
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image24_1200x1600-bdc90908480d4d5a96ec4535855aeff3"
+            },
+            {
+              "type": "OfferImageWide",
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1"
+            },
+            {
+              "type": "VaultClosed",
+              "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image24_1200x1600-43ff50cec0da4a7599a9e1ae07f3811e"
+            }
+          ],
+          "seller": {
+            "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+            "name": "Epic Dev Test Account"
+          },
+          "productSlug": "[]",
+          "urlSlug": "megasale-mysterygame-2026-week21-game1",
+          "url": null,
+          "items": [
+            {
+              "id": "8341d7c7e4534db7848cc428aa4cbe5a",
+              "namespace": "d5241c76f178492ea1540fce45616757"
+            }
+          ],
+          "customAttributes": [
+            {
+              "key": "com.epicgames.app.freegames.vault.close",
+              "value": "[]"
+            },
+            {
+              "key": "com.epicgames.app.freegames.vault.slug",
+              "value": "free-games"
+            },
+            {
+              "key": "com.epicgames.app.freegames.vault.open",
+              "value": "[]"
+            },
+            {
+              "key": "com.epicgames.app.productSlug",
+              "value": "[]"
+            }
+          ],
+          "categories": [
+            {
+              "path": "freegames/vaulted"
+            },
+            {
+              "path": "freegames"
+            },
+            {
+              "path": "games"
+            },
+            {
+              "path": "applications"
+            }
+          ],
+          "tags": [],
+          "catalogNs": {
+            "mappings": []
+          },
+          "offerMappings": [],
+          "price": {
+            "totalPrice": {
+              "discountPrice": 0,
+              "originalPrice": 0,
+              "voucherDiscount": 0,
+              "discount": 0,
+              "currencyCode": "USD",
+              "currencyInfo": {
+                "decimals": 2
+              },
+              "fmtPrice": {
+                "originalPrice": "0",
+                "discountPrice": "0",
+                "intermediatePrice": "0"
+              },
+              "dualPrice": null
+            },
+            "lineOffers": [
+              {
+                "appliedRules": []
+              }
+            ]
+          },
+          "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+              {
+                "promotionalOffers": [
+                  {
+                    "startDate": "2026-05-21T15:00:00.000Z",
+                    "endDate": "2026-05-28T15:00:00.000Z",
                     "discountSetting": {
                       "discountType": "PERCENTAGE",
                       "discountPercentage": 0
@@ -1958,7 +2207,7 @@
       ],
       "paging": {
         "count": 40,
-        "total": 12
+        "total": 14
       }
     }
   }
