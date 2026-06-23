@@ -15,7 +15,7 @@ import LanguageSwitcher from './LanguageSwitcher'
 import MatrixBackground from './MatrixBackground'
 import ThemeSwitcher from './ThemeSwitcher'
 
-const discordInviteUrl = 'https://discord.com/invite/VrPBwWz'
+const discordInviteUrl = 'https://discord.gg/VrPBwWz'
 
 function LandingPageContent({ initialContactOpen = false }) {
 	const [contactOpen, setContactOpen] = useState(initialContactOpen)
