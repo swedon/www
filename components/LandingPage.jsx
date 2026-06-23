@@ -70,9 +70,9 @@ function LandingPageContent({ initialContactOpen = false }) {
 				</main>
 
 				<footer className='site-footer'>
-					<span>{discordInviteUrl}</span>
+					<p>{discordInviteUrl}</p>
 					<LanguageSwitcher />
-					<p className='copyright'>&copy; {new Date().getFullYear()} SWEDON</p>
+					<span className='copyright'>&copy; {new Date().getFullYear()} SWEDON</span>
 				</footer>
 			</div>
 			<ContactModal open={contactOpen} onClose={() => setContactOpen(false)} />
