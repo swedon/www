@@ -1,0 +1,66 @@
+{
+	"metadata": {
+		"title": "SWEDON",
+		"description": "SWEDON Discord community"
+	},
+	"landing": {
+		"brandStart": "SWEDON home",
+		"primaryNavigation": "Primary navigation",
+		"contact": "Contact",
+		"joinDiscord": "Join Discord",
+		"contactUs": "Contact us"
+	},
+	"background": {
+		"disable": "Disable Matrix background",
+		"enable": "Enable Matrix background"
+	},
+	"theme": {
+		"legend": "Choose theme",
+		"light": "Light theme",
+		"dark": "Dark theme",
+		"system": "System theme"
+	},
+	"heartbeat": {
+		"description": "An EKG line behind the SWEDON text, with the letters lighting up in the pulse direction."
+	},
+	"contact": {
+		"eyebrow": "Contact",
+		"title": "Contact SWEDON",
+		"closeForm": "Close contact form",
+		"close": "Close",
+		"name": "Name",
+		"email": "Email",
+		"subject": "Subject",
+		"message": "Message",
+		"send": "Send",
+		"sending": "Sending",
+		"missingWebhook": "Discord webhook is missing from the environment variables.",
+		"sent": "Sent. We will get back to you as soon as we can.",
+		"error": "Something went wrong while sending the message. Please try again later.",
+		"footer": "SWEDON contact form",
+		"embedName": "Name",
+		"embedEmail": "Email",
+		"validation": {
+			"name": "Enter your name.",
+			"email": "Enter your email address.",
+			"emailInvalid": "Enter a valid email address.",
+			"subject": "Enter a subject.",
+			"message": "Enter a message.",
+			"messageLength": "The message must be at least 10 characters."
+		}
+	},
+	"notFound": {
+		"title": "Not found",
+		"description": "This page does not exist in the new SWEDON landing page.",
+		"home": "Go home"
+	},
+	"languageSwitch": {
+		"label": "Language",
+		"sv": "Svenska",
+		"en": "English",
+		"switchToSwedish": "Switch to Swedish",
+		"switchToEnglish": "Switch to English",
+		"swedishFlag": "Swedish flag",
+		"englishFlag": "English flag"
+	}
+}

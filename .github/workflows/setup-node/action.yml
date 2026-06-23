@@ -1,0 +1,14 @@
+name: setup-node
+description: "Setup Node.js and install dependencies"
+runs:
+  using: "composite"
+  steps:
+    - name: Setup Node.js
+      uses: actions/setup-node@v5
+      with:
+        node-version: 26
+        cache: npm
+
+    - name: Install dependencies
+      shell: bash
+      run: npm ci

@@ -1,0 +1,66 @@
+{
+	"metadata": {
+		"title": "SWEDON",
+		"description": "SWEDON Discord-community"
+	},
+	"landing": {
+		"brandStart": "SWEDON start",
+		"primaryNavigation": "Primär navigation",
+		"contact": "Kontakt",
+		"joinDiscord": "Gå med i Discord",
+		"contactUs": "Kontakta oss"
+	},
+	"background": {
+		"disable": "Stäng av Matrix-bakgrund",
+		"enable": "Slå på Matrix-bakgrund"
+	},
+	"theme": {
+		"legend": "Välj tema",
+		"light": "Ljust tema",
+		"dark": "Mörkt tema",
+		"system": "Systemtema"
+	},
+	"heartbeat": {
+		"description": "En EKG-linje bakom texten SWEDON, där bokstäverna lyser upp i pulsens riktning."
+	},
+	"contact": {
+		"eyebrow": "Kontakt",
+		"title": "Kontakta SWEDON",
+		"closeForm": "Stäng kontaktformulär",
+		"close": "Stäng",
+		"name": "Namn",
+		"email": "E-post",
+		"subject": "Rubrik",
+		"message": "Meddelande",
+		"send": "Skicka",
+		"sending": "Skickar",
+		"missingWebhook": "Discord webhook saknas i miljövariablerna.",
+		"sent": "Skickat. Vi hör av oss så snart vi kan.",
+		"error": "Något gick fel när meddelandet skulle skickas. Försök igen om en stund.",
+		"footer": "swedon.se kontaktformulär",
+		"embedName": "Namn",
+		"embedEmail": "E-post",
+		"validation": {
+			"name": "Skriv ditt namn.",
+			"email": "Skriv din e-postadress.",
+			"emailInvalid": "Skriv en giltig e-postadress.",
+			"subject": "Skriv en rubrik.",
+			"message": "Skriv ett meddelande.",
+			"messageLength": "Meddelandet behöver vara minst 10 tecken."
+		}
+	},
+	"notFound": {
+		"title": "Saknas",
+		"description": "Den här sidan finns inte i nya SWEDON-landningen.",
+		"home": "Till startsidan"
+	},
+	"languageSwitch": {
+		"label": "Språk",
+		"sv": "Svenska",
+		"en": "English",
+		"switchToSwedish": "Byt till svenska",
+		"switchToEnglish": "Byt till engelska",
+		"swedishFlag": "Svensk flagga",
+		"englishFlag": "Engelsk flagga"
+	}
+}
