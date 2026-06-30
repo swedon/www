@@ -341,6 +341,12 @@
 		text-align: right;
 	}
 
+	.site-footer-discord {
+		justify-self: start;
+		text-align: left;
+		text-transform: lowercase;
+	}
+
 	.language-switcher {
 		display: inline-flex;
 		justify-self: center;

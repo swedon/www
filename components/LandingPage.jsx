@@ -70,7 +70,7 @@ function LandingPageContent({ initialContactOpen = false }) {
 				</main>
 
 				<footer className='site-footer'>
-					<p>{discordInviteUrl}</p>
+					<p className='site-footer-discord'>{discordInviteUrl}</p>
 					<span className='copyright'>&copy; {new Date().getFullYear()} SWEDON</span>
 					<span>
 						<LanguageSwitcher />
