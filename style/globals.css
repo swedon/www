@@ -344,7 +344,7 @@
 	.site-footer-discord {
 		justify-self: start;
 		text-align: left;
-		text-transform: lowercase;
+		text-transform: none;
 	}
 
 	.language-switcher {
