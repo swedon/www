@@ -77,6 +77,7 @@ function LandingPageContent({ initialContactOpen = false }) {
 					</span>
 				</footer>
 			</div>
+
 			<ContactModal open={contactOpen} onClose={() => setContactOpen(false)} />
 		</>
 	)
