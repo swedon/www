@@ -1,35 +1,35 @@
 {
-	"name": "swedon-landing",
-	"version": "0.1.0",
-	"private": true,
-	"scripts": {
-		"dev": "next dev",
-		"build": "next build",
-		"start": "next start",
-		"lint": "biome check .",
-		"format": "biome format --write ."
-	},
-	"dependencies": {
-		"@next/third-parties": "^16.2.9",
-		"next": "^16.2.9",
-		"next-intl": "^4.13.0",
-		"next-themes": "^0.4.6",
-		"react": "^19.2.7",
-		"react-dom": "^19.2.7",
-		"react-icons": "^5.6.0"
-	},
-	"devDependencies": {
-		"@tailwindcss/postcss": "^4.3.1",
-		"@types/node": "26.0.0",
-		"@types/react": "19.2.17",
-		"@types/react-dom": "19.2.3",
-		"@biomejs/biome": "2.5.1",
-		"postcss": "^8.5.15",
-		"tailwindcss": "^4.3.1"
-	},
-	"allowScripts": {
-		"@parcel/watcher@2.5.6": true,
-		"@swc/core@1.15.43": true,
-		"sharp@0.34.5": true
-	}
+  "name": "swedon-landing",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+	"lint": "biome check .",
+	"lint:fix": "biome check . --write",
+    "format": "biome format --write .",
+	"postbuild": "touch out/.nojekyll"
+  },
+  "dependencies": {
+    "@next/third-parties": "^16.2.9",
+    "next": "^16.2.9",
+    "next-intl": "^4.13.0",
+    "next-themes": "^0.4.6",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-icons": "^5.6.0"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.5.1",
+    "@tailwindcss/postcss": "^4.3.1",
+    "@types/node": "26.0.0",
+    "@types/react": "19.2.17",
+    "@types/react-dom": "19.2.3",
+    "postcss": "^8.5.15",
+    "tailwindcss": "^4.3.1"
+  }
 }
