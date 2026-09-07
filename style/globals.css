@@ -304,12 +304,12 @@
 	}
 
 	html.light .swedon-base-letter,
-	:root:not(.dark) .swedon-base-letter {
+	html:not(.dark) .swedon-base-letter {
 		fill: rgb(0 0 0 / 0.18);
 	}
 
 	html.light .swedon-live-letter,
-	:root:not(.dark) .swedon-live-letter {
+	html:not(.dark) .swedon-live-letter {
 		fill: rgb(0 0 0 / 0.78);
 	}
 
